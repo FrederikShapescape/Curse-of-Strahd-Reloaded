@@ -29,15 +29,15 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Death House.*** Strahd views the cult of Death House with respectful disdain; he finds their methods and obsessions distasteful, but appreciates their efforts to bring worthy consorts and adversaries from the lands beyond the Mists.
 
-***Village of Barovia.*** Strahd believes, without romance or obsession, that Ireena Kolyana’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of Ismark Kolyanovich’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
+***Village of Barovia.*** Strahd believes, without romance or obsession, that [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]]’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]]’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
 
-***Tser Pool Encampment.*** Strahd finds Madam Eva a fascinating enigma, but has come to an unspoken understanding with her: she shall read his fortune whenever he requests it, and, in exchange, he will not delve too deeply into her history or affairs.
+***Tser Pool Encampment.*** Strahd finds [[Non-Player Characters|Madam Eva]] a fascinating enigma, but has come to an unspoken understanding with her: she shall read his fortune whenever he requests it, and, in exchange, he will not delve too deeply into her history or affairs.
 
 ***Old Bonegrinder.*** Strahd is aware of the **night hag** coven’s presence, but has little interest in their affairs.
 
-***Town of Vallaki.*** Strahd has no interest in Baron Vargas Vallakovich, but, through his spies, believes him to be a bumbling fool. He finds Lady Fiona Wachter to be a useful agent and favors her for her family’s history of loyalty, but cares little for her obsession with Vallakian politics. He is aware of the existence of the Keepers of the Feather (though not that the Blue Water Inn serves as their meeting-place), but does not view them as a significant threat. 
+***Town of Vallaki.*** Strahd has no interest in [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vargas Vallakovich]], but, through his spies, believes him to be a bumbling fool. He finds [[Non-Player Characters#Lady Fiona Wachter|Lady Fiona Wachter]] to be a useful agent and favors her for her family’s history of loyalty, but cares little for her obsession with Vallakian politics. He is aware of the existence of the Keepers of the Feather (though not that the Blue Water Inn serves as their meeting-place), but does not view them as a significant threat. 
 
-***Vistani Encampment.*** Strahd holds Arrigal as one of his favored spies. However, he pays little mind to the dusk elves—Kasimir especially—and has little interest in their affairs.
+***Vistani Encampment.*** Strahd holds [[Non-Player Characters#Arrigal|Arrigal]] as one of his favored spies. However, he pays little mind to the dusk elves—Kasimir especially—and has little interest in their affairs.
 
 ***Argynvostholt.*** Strahd views the **revenants** of the Order of the Silver Dragon with disinterested contempt, but has long since determined that the knights pose no threat to him, and has largely ignored them as a result. He has heard the rumors that Argynvost’s spirit haunts the manor, but pays them no mind; he would refuse to believe that the beacon of Argynvostholt could be relit even if told to his face.
 
@@ -45,15 +45,15 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Yester Hill.*** Strahd views the Forest Folk with disdain and some amusement. He finds their maddened worship to be more grating than gratifying, and views the modern generation as a poor shadow of their more distinguished forebears. He does find them to be useful tools, however, and knows that their “faith” is a necessary evil to ensure their continued loyalty.
 
-***Village of Krezk.*** Strahd has little interest in Baron Dmitri Krezkov or the people of Krezk. He is, amused by the Abbot’s descent into madness and corruption. He intends to temporarily “play along” with the Abbot’s efforts to construct a **flesh golem** bride for him, but has no serious intention of accepting Vasilka when complete.
+***Village of Krezk.*** Strahd has little interest in [[Non-Player Characters#Baron Dmitri Krezkov|Baron Dmitri Krezkov]] or the people of Krezk. He is, amused by the Abbot’s descent into madness and corruption. He intends to temporarily “play along” with the Abbot’s efforts to construct a **flesh golem** bride for him, but has no serious intention of accepting [[Non-Player Characters#Vasilka|Vasilka]] when complete.
 
-***Werewolf Den.*** Strahd finds Kiril Stoyanovich to be a useful and loyal servant, if somewhat brutish and unsophisticated. He intends to keep Emil Toranescu, the pack’s former alpha, as a prisoner in his dungeons until Emil is sufficiently mad with starvation to be “tamed.”
+***Werewolf Den.*** Strahd finds [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]] to be a useful and loyal servant, if somewhat brutish and unsophisticated. He intends to keep Emil Toranescu, the pack’s former alpha, as a prisoner in his dungeons until Emil is sufficiently mad with starvation to be “tamed.”
 
 ***Tsolenka Pass.*** Strahd is peripherally aware that the Mountain Folk roam the Balinok Mountains, but—due to Elder Burebis’s protection—is unaware of the existence of their settlement Soldav. He considers the Mountain Folk to be a lost and broken people and has no use for or interest in them.
 
 ***Amber Temple.*** Strahd respects Neferon’s dedication to protecting the temple and finds him to be a worthy guardian of the treasures contained within. He has historically had a collegial respect for Exethanter, but, after awakening from his own hibernation, was disappointed by Exethanter’s loss of memory—something Strahd has little interest in restoring.
 
-***Castle Ravenloft.*** Strahd is amused by the efforts of his brides—Ludmilla Vilisevic, Anastrasya Karelova, and Volenta Popfsky—to placate and impress him. He is momentarily entertained by his newest consort, Escher, but has been distracted lately by other, grander designs. He views Rahadin as his most loyal, trusted, and favored servant, but spares little mind to the other staff and occupants of the castle, including Cyrus Belview, Lief Lipsiege, the coven of witches, and his own vampire spawn. By contrast, Beucephalus is his favored “pet” and most valued tool.
+***Castle Ravenloft.*** Strahd is amused by the efforts of his brides—[[Non-Player Characters#Ludmilla Vilisevic|Ludmilla Vilisevic]], [[Non-Player Characters#Anastrasya Karelova|Anastrasya Karelova]], and Volenta Popfsky—to placate and impress him. He is momentarily entertained by his newest consort, [[Non-Player Characters#Escher|Escher]], but has been distracted lately by other, grander designs. He views [[Non-Player Characters#Rahadin|Rahadin]] as his most loyal, trusted, and favored servant, but spares little mind to the other staff and occupants of the castle, including [[Non-Player Characters#Cyrus Belview|Cyrus Belview]], Lief Lipsiege, the coven of witches, and his own vampire spawn. By contrast, Beucephalus is his favored “pet” and most valued tool.
 # Strahd’s Goals
 Strahd’s primary goal is simple: to free himself and Barovia from the Mists.
 
@@ -61,7 +61,7 @@ As a conqueror, Strahd craves new lands and the freedom—and power—to claim t
 
 To this end, he needs three things: a pacified kingdom, a host of loyal servants, and—most importantly—an escape plan. 
 
-By defeating his servants and halting their schemes, the players can deny him the first; by defending Ireena Kolyana and resisting his temptations, they can also deny him the second. However, Strahd has plans within plans, and there is only one way to halt his final scheme: to destroy the vampire himself.
+By defeating his servants and halting their schemes, the players can deny him the first; by defending [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]] and resisting his temptations, they can also deny him the second. However, Strahd has plans within plans, and there is only one way to halt his final scheme: to destroy the vampire himself.
 ## Reclaiming the Valley
 When Strahd awoke from his century-long slumber, he found that much had changed. 
 
@@ -69,9 +69,9 @@ The people of Barovia had forgotten why they feared him, and their burgomasters 
 
 That, he knew, must be addressed.
 
-He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade Rahadin to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more.
+He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade [[Non-Player Characters#Rahadin|Rahadin]] to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more.
 
-Since then, Strahd has broken the village of Barovia and brought the werewolf pack to heel. He seeks next to break the town of Vallaki and the village of Krezk, to discipline the so-called “Keepers of the Feather,” and to capture the vampire hunter Dr. Rudolph van Richten. 
+Since then, Strahd has broken the village of Barovia and brought the werewolf pack to heel. He seeks next to break the town of Vallaki and the village of Krezk, to discipline the so-called “Keepers of the Feather,” and to capture the vampire hunter [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]]. 
 
 When his servants’ work is done, Strahd expects to look down from the Pillarstone of Ravenloft upon a faithful and fearful populace, its people subservient to the Devil of Castle Ravenloft once more.
 ## Renewing His Servants
@@ -84,7 +84,7 @@ Strahd is always hungry for new talent, however, and is on the lookout for new g
 Though Strahd has not said so expressly, his brides are well-aware of the risk of being replaced—a motivation that he hopes will fuel their efforts on his behalf. 
 Strahd believes fully in the “survival of the fittest” and expects to see the strongest rise to the top.
 ## Escaping the Mists
-With Madam Eva’s reluctant guidance, Strahd has learned that the Grand Conjunction—a time when the barriers between worlds will be thinned, and the energies of the stars aligned—is a prime opportunity to free himself from the Dark Powers’ prison. 
+With [[Non-Player Characters|Madam Eva]]’s reluctant guidance, Strahd has learned that the Grand Conjunction—a time when the barriers between worlds will be thinned, and the energies of the stars aligned—is a prime opportunity to free himself from the Dark Powers’ prison. 
 
 To this end, Strahd has crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. This ritual has four necessary components: a power source, a control mechanism, a catalyst, and a sacrifice.
 
@@ -100,11 +100,11 @@ Should this plot fail, Strahd must instead journey to the Whispering Wall at Yes
 
 The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs.
 
-By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exception includes Ireena Kolyana, who Strahd will allow to keep her soul for his own purposes.
+By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exception includes [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]], who Strahd will allow to keep her soul for his own purposes.
 
 ***The Sacrifice.*** The schemes of the Dark Powers command that a Darklord must always sit upon the throne of Castle Ravenloft. To escape their clutches, Strahd must find a suitable replacement—an individual whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as Strahd makes his escape. 
 
-Strahd's chamberlain and adoptive brother, Rahadin, has willingly offered himself as a worthy replacement. However, should Strahd find another suitable candidate, he would leap at the opportunity to retain Rahadin's services as a general for his armies.
+Strahd's chamberlain and adoptive brother, [[Non-Player Characters#Rahadin|Rahadin]], has willingly offered himself as a worthy replacement. However, should Strahd find another suitable candidate, he would leap at the opportunity to retain [[Non-Player Characters#Rahadin|Rahadin]]'s services as a general for his armies.
 
 ***Plans Within Plans.*** If the players reconsecrate the Fanes, Strahd quickly devises a backup plan. By becoming the champions of the Fanes, the players will unknowingly have made themselves into conduits for their power, allowing Strahd to access the Fanes’ energies if he can lure the players to Castle Ravenloft. 
 
@@ -112,20 +112,20 @@ He can do this by using the power stored in the Heart of Sorrow to plunge Barovi
 # Strahd’s Allies
 Strahd commands a vast host of beasts, undead, and other minions, which he can direct in a host of plots or schemes. They include:
 
-* ***Rahadin,*** Strahd’s dusk elf chamberlain
+* ***[[Non-Player Characters#Rahadin|Rahadin]],*** Strahd’s dusk elf chamberlain
 * ***Beucephalus,*** Strahd’s **nightmare** steed
 * ***Strahd’s vampiric brides,*** Ludmilla, Anastrasya, and Volenta
-* ***Strahd’s vampire spawn,*** including his consort, Escher
+* ***Strahd’s vampire spawn,*** including his consort, [[Non-Player Characters#Escher|Escher]]
 * ***Undead servants,*** including **zombies**, **Strahd zombies**, and **wights**
 * ***Loyal beasts,*** including Barovian bats, rats, wolves, and **dire wolves**
-* ***The werewolf pack*** commanded by Kiril Stoyanovich
-* ***Vistani spies***, including Eliza (at Tser Pool Encampment) and Arrigal (at the Vallaki encampment)
+* ***The werewolf pack*** commanded by [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]]
+* ***Vistani spies***, including Eliza (at Tser Pool Encampment) and [[Non-Player Characters#Arrigal|Arrigal]] (at the Vallaki encampment)
 * ***The witches’ coven*** that dwells in Castle Ravenloft
 
 However, Strahd **always faces the final battle alone.** Whether by pride, fate, or mere coincidence, this fight is his to win—or lose.
 
 > [!info]+ **Strahd's Spawn**
-> Strahd's **vampire spawn**, as noted in <span class="citation">Vampire Spawn (Monster Manual, p. 298)</span>, are bound by two compulsions: their hunger for blood, and the need to obey any command Strahd gives them. Only the strongest-willed spawn can master their need for blood, but no spawn can ignore one of Strahd's direct orders. Even so, while all of Strahd's spawn are bound to obey the letter of his commands, intelligent and willful spawn may find opportunities to disobey their spirit.
+> Strahd's **vampire spawn**, as noted in [[pdfs/Monster Manual.pdf#page=297|Vampire Spawn (Monster Manual, p. 298)]], are bound by two compulsions: their hunger for blood, and the need to obey any command Strahd gives them. Only the strongest-willed spawn can master their need for blood, but no spawn can ignore one of Strahd's direct orders. Even so, while all of Strahd's spawn are bound to obey the letter of his commands, intelligent and willful spawn may find opportunities to disobey their spirit.
 # Strahd’s Tactics
 Even in combat, Strahd is no ordinary foe. Like several of the enemies encountered in this adventure, he uses a **multi-phase statblock** in battle. Strahd’s statistics work as follows:
 ### Phases
@@ -367,7 +367,7 @@ As such, this section provides a structured, methodical approach to developing S
 * why Strahd does not assist his forces in defeating the players at St. Andral’s Church or the Wizard of Wines winery (he seeks to separate the weak from the strong);
 * why Strahd “tests” the players instead of killing them (he wants to find generals for his future armies);
 * why the players must reconsecrate the Fanes (they must stop Strahd from using them in his ritual and remove Strahd's immortality);
-* why Strahd does not simply kill the players when they reconsecrate the Fanes (he seeks to use them as alternate conduits to the Fanes); 
+* why Strahd does not simply kill the players when they reconsecrate the Fanes (he seeks to use them as alternate conduits to the Fanes - he figures there was some risk to the fanes if he used them directly but none if he uses the players); 
 * why the players cannot bring an army of allies to Castle Ravenloft (they are preoccupied defending their homes from Strahd’s undead apocalypse); and 
 * why the players must confront Strahd at Castle Ravenloft (they must do so to end his undead apocalypse).
 
@@ -382,7 +382,7 @@ Many substitute statblocks have been proposed, increasing Strahd's Challenge Rat
 
  This issue can be solved by dramatically increasing Strahd's hit points and/or Armor Class (i.e., "Defensive Challenge Rating") while dramatically decreasing his attack bonus and/or damage output (i.e., "Offensive Challenge Rating"). These changes dramatically increase his lifespan without risking a TPK, ensuring a long, yet winnable boss battle
 
-Long battles, however, leave players exhausted and bored—especially for playgroups whose combats run slow. To inject energy and dynamism into the fight, we can split Strahd's statblock into three parts, or "phases," with each phase bestowing Strahd with new abilities and features. Each phase has been calibrated using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa) to survive approximately three to four rounds against an average 10th-level party wielding the *Sunsword* and *Holy Symbol of Ravenkind* and accompanied by Ezmerelda d'Avenir, Ireena Kolyana, and Kasimir Velikov; the entire combat encounter should last nine to twelve rounds in total.
+Long battles, however, leave players exhausted and bored—especially for playgroups whose combats run slow. To inject energy and dynamism into the fight, we can split Strahd's statblock into three parts, or "phases," with each phase bestowing Strahd with new abilities and features. Each phase has been calibrated using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa) to survive approximately three to four rounds against an average 10th-level party wielding the *Sunsword* and *Holy Symbol of Ravenkind* and accompanied by [[Non-Player Characters#Ezmerelda d'Avenir|Ezmerelda d'Avenir]], [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]], and [[Non-Player Characters#Kasimir Velikov|Kasimir Velikov]]; the entire combat encounter should last nine to twelve rounds in total.
 
 To strengthen the themes of the final fight, each phase reflects a part of Strahd's history and descent into darkness: the Soldier (reflecting his history as a conqueror); the Mage (reflecting his search for immortality); and the Monster (reflecting his passage into undeath).
 

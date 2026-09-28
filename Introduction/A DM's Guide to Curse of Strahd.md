@@ -11,7 +11,7 @@ cover: preview.png
 
 That's where ***Curse of Strahd: Reloaded*** comes in. As your personal *Curse of Strahd* guide, *Reloaded* will help you take your players on an unforgettable journey through the Mists—one that's been revised to be as easy and enjoyable as possible to run. 
 
-Whether you're looking for a guide to roleplaying Strahd von Zarovich, a comprehensive history of Barovia, or a full *Curse of Strahd* campaign walkthrough, look no further—for you've come to the right place.
+Whether you're looking for a guide to roleplaying [[Strahd von Zarovich|Strahd von Zarovich]], a comprehensive history of Barovia, or a full *Curse of Strahd* campaign walkthrough, look no further—for you've come to the right place.
 
 > [!info]- **I'm a new DM. Why use a guide at all?**
 > 
@@ -68,7 +68,7 @@ Whether you're looking for a guide to roleplaying Strahd von Zarovich, a compreh
 > * Organizing each chapter chronologically while organizing each chapter by narrative instead of area in order to make the adventure easier for a DM to run and understand
 > * Incorporating the official adventure only by direct reference while providing all information DMs might need exactly when they need it, > ensuring readers never need to flip through multiple pages or chapters to find what they're looking for. 
 > * Restructuring Vallaki to have a clear and positive “victory condition,” allowing players to earn a sense of achievement and security rather than slogging them down in a morass of politics and bad options
-> * Combining and simplifying the core adventure arcs involving Dr. Rudolph van Richten, the missing Vistana Arabelle, and Doru's rebellion in order to provide a single, satisfying narrative that ties together all loose ends. 
+> * Combining and simplifying the core adventure arcs involving [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]], the missing Vistana Arabelle, and Doru's rebellion in order to provide a single, satisfying narrative that ties together all loose ends. 
 > * Scaffolding a clear progression of the players’ relationship with Strahd, including pre-written encounters with tense and meaningful dramatic conflicts that preserve player agency while promoting an antagonistic relationship with Strahd himself. 
 > * Revising and rebalancing nearly every combat encounter in the adventure in order to create an engaging, dynamic, fair, and challenging experience without risking frequent PC death or TPKs.
 > 
@@ -115,13 +115,13 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc N - Tales of Vallaki]]. Coming soon.
 [[Arc O - Dinner with the Devil]]. The players dine with Strahd and his court at Castle Ravenloft.
 [[Arc P - Ravenloft Heist]]. The players raid Castle Ravenloft while Strahd is away.
-[[Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf Kiril Stoyanovich, and light the beacon of Argynvostholt.
+[[Arc Q - A Shining Beacon]]. The players redeem the Abbot, defeat the werewolf [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]], and light the beacon of Argynvostholt.
 ## Act IV - Secrets of the Ancient
 [[Act IV Summary]]. Coming soon.
 [[Arc R - Trials of the Mountain]]. The players ascend the treacherous Tsolenka Pass while surviving Strahd's predations.
 [[Arc S - A Sword of Sunlight]]. The players retrieve the broken *Sunsword* from the Amber Temple.
 [[Arc T - The Three Fanes]]. The players aid their Barovian friends in order to cleanse the land of Strahd's corruption.
-[[Arc U - Dreams of Dawn]]. The players must defeat the vampire Strahd von Zarovich, once and for all.
+[[Arc U - Dreams of Dawn]]. The players must defeat the vampire [[Strahd von Zarovich|Strahd von Zarovich]], once and for all.
 [[Epilogue]]. Coming soon.
 ## Appendices
 [[Non-Player Characters]]. A compendium of every major NPC in the adventure.

@@ -5,7 +5,7 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 > [!info]+ **Finding Amber Shards**
 > The players have an opportunity to obtain an amber shard:
 > * during [[Character Creation]]
-> * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
+> * after defeating [[Non-Player Characters#Izek Strazni|Izek Strazni]] in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
 > * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
 > * following Scorilo if he loses the boasting match in [[Arc R - Trials of the Mountain]] (see [[#Zrin-Hala, the Howling Storm]])
 > * after defeating the bodaks in [[Arc R - Trials of the Mountain]] (see [[#Sykane, the Soul Hungerer]])
@@ -29,7 +29,7 @@ If the player accepts, they regain all of their hit points. The player then proc
 # Stage Two
 In this stage, the player is aware of the shard's unnatural power, but unable to contact the vestige for further aid.
 
-The first time that the player is reduced to half of their maximum hit points or fewer while in combat, the silhouette's voice speaks to them in their mind. The vestige offers to grant the player the power to strike down their foes. If the player declines the voice's offer, the vestige does not contact them again unless the player is reduce to half of their maximum hit points or fewer while in combat with an enemy that they particularly loathe.
+The first time that the player is reduced to half of their maximum hit points or fewer while in combat, the silhouette's voice speaks to them in their mind. The vestige offers to grant the player the power to strike down their foes. If the player declines the voice's offer, the vestige does not contact them again unless the player is reduced to half of their maximum hit points or fewer while in combat with an enemy that they particularly loathe.
 
 If the player accepts, they gain a number of temporary hit points equal to twice their proficiency bonus at the start of each of their turns for 1 minute. During that time, the player can also cast a particular spell once as a bonus action without expending a spell slot and without components, as given in the **Amber Corruption** section below. (The spell's attack bonus is +7, and its spell save DC is 15.) 
 
@@ -158,7 +158,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** You become twitchy and nervous. You have disadvantage on Charisma (Deception) checks.
 ## Seriach, the Hell Hound Whisperer
-*Shard Location: Izek Strazni*
+*Shard Location: [[Non-Player Characters#Izek Strazni|Izek Strazni]]*
 
 ***Spell.*** _Scorching Ray._
 
