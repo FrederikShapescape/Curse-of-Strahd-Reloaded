@@ -875,11 +875,11 @@ Hvis Bildrath døde under belejringen, tilføj:
 [[Non-Player Characters#Parriwimple|Parriwimple]], der er ude at gå en tur ("Det hjælper mig med at tænke," mumler han, hvis han bliver spurgt), kan dele følgende information:
 
 * [[Non-Player Characters#Father Donavich|Father Donavich]] plejede at være en venlig og imødekommende mand, altid klar til at dele et visdomsord eller en varm æbletærte med besøgende.
-* Lige siden belejringen begyndte, har Donavich dog lukket sig inde i kirken og oftere end ikke afvist besøgende. Da [[Non-Player Characters#Parriwimple|Parriwimple]] sidst så ham for to dage siden, så Donavich ud som om han hverken havde sovet eller badet i mange dage.
+* Lige siden belejringen begyndte, har Donavich dog lukket sig inde i kirken og oftere end ikke afvist besøgende. I går aftes var første gang i fire dage [[Non-Player Characters#Parriwimple|Parriwimple]] så ham og Donavich ud som om han hverken havde sovet eller badet længe.
 * [[Non-Player Characters#Father Donavich|Father Donavich]] har ikke båret sit hellige symbol (en bronzesolstråle) siden oprøret, hvilket [[Non-Player Characters#Parriwimple|Parriwimple]] finder underligt. ([[Non-Player Characters#Parriwimple|Parriwimple]] elskede altid hvordan lyset glimtede af dets overflade, og tilbad at høre Donavichs søn, Doru, fortælle historier om hvordan solen engang skinnede i Barovia.)
 * [[Non-Player Characters#Parriwimple|Parriwimple]] savner Doru, der drog af sted for at lede oprøret mod Strahd for tre måneder siden sammen med den fremmede, Alanik. ([[Non-Player Characters#Parriwimple|Parriwimple]] savner også Alaniks kæleabe, som han elskede at lege med.) Trods sin onkels forsikringer om at Doru døde ved Castle Ravenloft, håber [[Non-Player Characters#Parriwimple|Parriwimple]] at han på en eller anden måde overlevede.
 
-[[Non-Player Characters#Parriwimple|Parriwimple]] følger ikke med spillerne ind i kirken, men ønsker dem held og lykke og inviterer dem til at besøge ham i Bildrath's Mercantile inden de tager af sted.
+[[Non-Player Characters#Parriwimple|Parriwimple]] følger ikke med spillerne ind i kirken, men ønsker dem held og lykke og inviterer dem til at besøge ham i Bildrath's Merkantil inden de tager af sted.
 ### Inside the Church
 Dette område er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=46|Church (p. 45)]]. Dog ændres den beskrivende tekst for [[pdfs/Curse of Strahd.pdf#page=46|E5a. Hall (p. 45)]] for at fjerne Dorus skrig:
 
