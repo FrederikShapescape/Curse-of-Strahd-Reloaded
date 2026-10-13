@@ -10,7 +10,7 @@ Kort derefter ankommer spillerne endelig til Vistani-lejren ved Tser Pool. Dér 
 
 Mens de opholder sig ved Tser Pool, hører spillerne Vistani-fortællinger om Strahds historie og *Holy Symbol of Ravenkind*, og kan også møde Arturi Radanavich, en vandrende Vistana der hævder engang at have kendt Rudolph van Richten. Når spillerne tager af sted, modtager de også en mission fra [[Non-Player Characters|Madam Eva]] om at købe et legetøj i Vallaki til levering til hendes oldebarnsbarnsbarn, Arabelle.
 
-Hvis spillerne har påtaget sig at eskortere Ireena til St. Andral's Church i Vallaki, eller hvis de har deres egne grunde til at gøre det, vender de derefter tilbage til Old Svalich Road via River Ivlis Crossroads og rejser vestpå gennem bjergene. Undervejs møder de en mærkelig skeletrytter, et par friske grave, en vagtsom revenant, **night hag** [[Non-Player Characters#Morgantha, Dream Peddler|Morgantha]] i sin kræmmerforklædning, to flokke venlige **ravens**, og en **werewolf** ledsaget af sin flok glubske **wolves**.
+Hvis spillerne har påtaget sig at eskortere Ireena til St. Andral's Church i Vallaki, eller hvis de har deres egne grunde til at gøre det, vender de derefter tilbage til Den Gamle Svalich vej via River Ivlis Crossroads og rejser vestpå gennem bjergene. Undervejs møder de en mærkelig skeletrytter, et par friske grave, en vagtsom revenant, **night hag** [[Non-Player Characters#Morgantha, Dream Peddler|Morgantha]] i sin kræmmerforklædning, to flokke venlige **ravens**, og en **werewolf** ledsaget af sin flok glubske **wolves**.
 
 Ved ankomsten til Vallaki kan spillerne finde logi på Blue Water Inn. Dér kan de møde en række farverige karakterer, inklusiv ringmesteren Rictavio og sønnerne af [[Non-Player Characters#Lady Fiona Wachter|Lady Fiona Wachter]]. Når morgenen kommer, kan spillerne også få et skæbnesvangert møde med [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vargas Vallakovich]] og hans brutale håndlanger, [[Non-Player Characters#Izek Strazni|Izek Strazni]]...
 
@@ -18,7 +18,7 @@ Ved ankomsten til Vallaki kan spillerne finde logi på Blue Water Inn. Dér kan 
 >
 > The module's map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, [[pdfs/Curse of Strahd.pdf#page=38|Tser Falls (p. 37)]] makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
 >
-> To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
+> To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Den Gamle Svalich vej westward.
 
 > [!info]+ **No Random Encounters**
 > This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the [[pdfs/Curse of Strahd.pdf#page=29|Random Encounters (p. 28)]] section except where a particular encounter is referenced and incorporated directly.
@@ -36,26 +36,26 @@ Rejsen fra landsbyen Barovia til River Ivlis Crossroads er tre mil lang og tager
 Mens spillerne rejser, læs:
 
 > [!quote]+ **Læs højt**
-> I drager af sted fra den tavse landsby Barovia, tågen kryber omkring jeres fødder mens I træder ud på Old Svalich Road. Et hav af højt, blegt-grønt græs strækker sig ud foran jer på begge sider af vejen, helt op til kanten af Ivlis-floden. Himlen ovenover er en mat grå, skyerne tunge med løftet om regn.
+> I drager af sted fra den tavse Barovia landsby, tåge kryber omkring jeres fødder mens I træder ud på Den Gamle Svalich vej. Et hav af højt, blegt-grønt græs strækker sig ud foran jer på begge sider af vejen, helt op til kanten af Ivlis-floden. Himlen ovenover er en mat grå, skyerne tunge med løftet om regn.
 >
 > Det varer ikke længe før I kan se den gamle hvælvede stenbro i det fjerne der spænder over den klare blå flod forude. Idet I krydser den, finder I jer på en mudderet vej der snor sig gennem træerne. Luften er tyk med duften af fugtig jord og rådnende blade, og træerne presser sig tæt på, kaster dybe skygger der snitter mørke fure hen over vejen.
 
 Hvis nogen spillere har en passive Wisdom (Perception) score på 16 eller højere, hører de en raslende lyd og ser en silhuet hugge sig sammen i det tågede underskov. Ellers hører spillerne blot en stemme råbe ud, dæmpet og diffus i tågen: "Hvem går der? Tilkendegiv jer."
 
-Stemmen tilhører en barsk kvindelig baroviansk **scout** ved navn Kereza, som er ledsaget af en anden, blødtmælende mandlig **scout** ved navn Korga, som spillerne tidligere mødte i [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Efter at have bekræftet at spillerne ikke transporterer Ireena mod hendes vilje, advarer scouterne spillerne om at Strahds spioner er talrige i Svalich Woods, inklusiv ulve, flagermus og — til tider — selve træerne. (Hvis de spørges om træerne, kan scouterne beskrive at have set animerede ranker, unge træer og brombærklynger der vandrer gennem skoven med fjendtlig hensigt.)
+Stemmen tilhører en barsk kvindelig baroviansk **scout** ved navn Kereza, som er ledsaget af en anden, blødtmælende mandlig **scout** ved navn Korga, som spillerne tidligere mødte i [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Efter at have bekræftet at spillerne ikke transporterer Ireena mod hendes vilje, advarer scouterne spillerne om at Strahds spioner er talrige i Svalich Woods, inklusiv ulve, flagermus og — til tider — træerne selv. (Hvis de spørges om træerne, kan scouterne beskrive at have set animerede ranker, unge træer og brombærklynger der vandrer gennem skoven med fjendtlig hensigt.)
 
 Hvis [[Non-Player Characters#Ireena Kolyana|Ireena]] er med spillerne, kan hun hjælpe spillerne med at berolige scouterne, som genkender hende og hilser hende med stille respekt. Scouterne er overraskede over at se Ireena drage ud fra landsbyen, men er enige i at Vallaki sandsynligvis er et sikrere sted end Barovia — antaget at hun kan nå dertil sikkert. (Ireena insisterer dog stædigt på at hendes rejse er en diplomatisk og humanitær én, og at spillerne er hendes eskorte og livvagter.)
 
 Scouterne leder efter Lansten-familien: to forældre og tre små børn — en pige og to drenge — der forsvandt under zombieangrebet på landsbyen og ikke er blevet set siden. Efter at have spurgt om spillerne har set deres bytte på rejsen, advarer scouterne dem om ikke at forlade vejen og bemærker at døde og mørke ting lurer under trækronerne. Kereza og Korga tager derefter respektfuldt af sted.
 
-Kort efter spillerne genoptager deres rejse ned ad Old Svalich Road, begynder en let dis at falde og piske en fin tåge op der driver gennem underskoven.
+Kort efter spillerne genoptager deres rejse ned ad Den Gamle Svalich vej, begynder en let dis at falde og piske en fin tåge op der driver gennem underskoven.
 ## C1b. Van Richten's Cache
 Mens spillerne fortsætter ned ad vejen, læs:
 
 > [!quote]+ **Læs højt**
 > I rejser dybere ind i skoven, mudderets vej leder jer længere væk fra civilisationen. Idet vejen bøjer, strejfer floden jer endnu en gang. Her er floden bredere, dens vande mørke og rolige. I kan se afspejlingen af træerne og tågen i dens overflade. Lyden af det stille, rislende vand mødes kun af bladenes raslen og det sagte regndis. Ingen fuglesang bryder den stilhed der hænger over skoven.
 
-Mens de gennemrejser denne del af Old Svalich Road, forfølges spillerne af en af Strahds spioner: en **wolf**. (Se *Strahd's Spies, pg. 29* for mere information.)
+Mens de gennemrejser denne del af Den Gamle Svalich vej, forfølges spillerne af en af Strahds spioner: en **wolf**. (Se *Strahd's Spies, pg. 29* for mere information.)
 
 Hvis spillerne modtog placeringen af Van Richtens skjulte våbendepot fra Doru i Barovias kirke, kan de træde ind i skoven mod syd for at finde det. Hvis de gør, læs:
 
@@ -109,7 +109,10 @@ Mens spillerne nærmer sig dette område, ophører diset. Læs:
 > [!quote]+ **Læs højt**
 > Snart bøjer floden endnu en gang ud af syne og den mørke skov omgiver atter vejen. Endelig viger træerne dog og afslører en høj klippe ved foden af en tåget bjergskråning. Luften er kold og fugtig her, og bløde tågestrøg hvirvler omkring klippens fod.
 
-Spillerne er ankommet til River Ivlis Crossroads, som i det store hele er som beskrevet i [[pdfs/Curse of Strahd.pdf#page=36|River Ivlis Crossroads (p. 35)]]. Tjek ikke for et tilfældigt møde når spillerne ankommer.
+Spillerne er ankommet til River Ivlis Crossroads. Tjek ikke for et tilfældigt møde når de ankommer. Læs:
+
+> [!quote]+ **Læs højt**
+> En gammel træ-galge knager i en kold vind der blæser ned fra det høje terræn mod vest; et flosset stykke reb danser fra dens bjælke. Den veltrådte vej deler sig her, og en vejviser over for galgen peger i tre retninger: **Barovia** mod øst, **Tser Sø** mod nordvest, og **Ravenloft/Vallaki** mod sydvest. Galgen står på en rådnende platform, fem fod høj, med trætrapper op til den.
 
 Denne scene begynder lignende [[pdfs/Curse of Strahd.pdf#page=36|River Ivlis Crossroads (p. 35)]]. Dog, første gang spillerne bevæger sig for at tage af sted mod Tser Pool, kan de i stedet for at se **The Hanged One** høre lyden af en hestetrukket vogn nærme sig gennem tågen. Næsten så snart lyden dukker op, kommer Strahds sorte vogn til syne, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=38|Black Carriage (p. 37)]] og [[pdfs/Curse of Strahd.pdf#page=55|Carriage House (p. 54)]].
 ## C2a. Strahd's Arrival
@@ -395,7 +398,12 @@ Hvis hun erfarer at spillerne planlægger at rejse til Vallaki, rejser Muriel me
 Rejsen fra River Ivlis Crossroads til Tser Pool Encampment er halvanden mil lang og tager tredive minutter.
 
 ## C4a. Arrival at Tser Pool
-Dette område er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=37|G. Tser Pool Encampment (p. 36)]]. Dog er ingen af Vistanierne i lejren berusede, og kun én — en Vistana-kvinde ved navn Eliza — tjener som spion for Strahd (brug statistikkerne for en **spy**).
+Når spillerne ankommer til Tser Sø-lejren, læs:
+
+> [!quote]+ **Læs højt**
+> Vejen forsvinder gradvist og erstattes af en snoet, mudret sti gennem træerne; dybe hjulspor i jorden vidner om vogne der kommer og går. Lysningen åbner sig pludseligt: ved siden af en flod der udvider sig til en lille sø flere hundrede fod bred, står fem farverige runde telte, hvert ti fod i diameter, rejst uden for en ring af fire tøndeformede vogne. Et langt større telt står nær søbredden, dets synkende form oplyst indefra. Nær det drikker otte utøjlede heste fra floden. En harmonikas klagende toner blander sig med sangen fra flere farvestrålende skikkelser omkring et bål.
+
+Ingen af Vistanierne i lejren er berusede, og kun én — Vistana-kvinden **Eliza** — tjener som spion for Strahd (brug statistikkerne for en **spy**).
 
 Mens spillerne træder ind i lejren, mødes de af Stanimir, en gammel Vistana der informerer dem om at lederen af deres lejr, [[Non-Player Characters|Madam Eva]], har ventet på dem og peger dem mod Evas telt. Stanimir, en jovial, farverig gammel mand med et glimt i øjet, er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=20|Mysterious Visitors (p. 19)]]. Dog har han spellen *major image* forberedt snarere end *vampiric touch*.
 
@@ -405,7 +413,12 @@ Stanimir vil dog ikke diskutere Strahds ærinde ved Tser Pool. I stedet deler ha
 
 Hvis spillerne spørger om Strahd modtog en forudsigelse fra [[Non-Player Characters|Madam Eva]], fortæller Stanimir dem at [[Non-Player Characters|Madam Eva]] frit deler sine gaver med alle — men at hver persons fremtid er forskellig og ofte svær at udlede.
 ## C4b. Madam Eva's Tent
-Denne scene udspiller sig i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=38|Madam Eva's Tent (p. 37)]]. Efter at have hilst spillerne, navngiver [[Non-Player Characters#Madam Eva|Madam Eva]] hver spillerkarakter personligt og giver dem ét eller flere symbolske tilnavne relateret til deres historier, mål og/eller evner.
+Når spillerne træder ind i det store telt for at opsøge Madam Eva, læs:
+
+> [!quote]+ **Læs højt**
+> Magiske flammer kaster et rødligt skær over teltets indre og afslører et lavt bord dækket af en sort fløjlsdug. Lysglimt synes at blinke fra en krystalkugle på bordet, mens en krumbøjet skikkelse stirrer ned i dens dyb. Idet den gamle kone taler, knitrer hendes stemme som tørre strå: "Endelig er I kommet!" Kaglende latter brister som vanvittigt lyn fra hendes vissende læber.
+
+Efter at have hilst spillerne navngiver [[Non-Player Characters#Madam Eva|Madam Eva]] hver spillerkarakter personligt og giver dem ét eller flere symbolske tilnavne relateret til deres historier, mål og/eller evner.
 
 > [!profile]+ **Profil: [[Non-Player Characters|Madam Eva]]**
 >
@@ -616,7 +629,7 @@ Rejsen fra Tser Pool Encampment til River Ivlis Crossroads er halvanden mil lang
 Mens spillerne foretager rejsen til vejkrydset, læs:
 
 > [!quote]+ **Læs højt**
-> En bleg måne hænger lavt på himlen og kaster et svagt, sølvfarvet skær over det tågeindhyllede landskab nedenunder. Ældgamle træer truer på begge sider af mudrede vej, deres krogede grene rækker ud som skeletfingre.
+> En måneløs himmel kaster intet lys over det tågeindhyllede landskab nedenunder. Ældgamle træer truer på begge sider af den mudrede vej, deres krogede grene rækker ud som skeletfingre.
 >
 > Mens hekseteringens time nærmer sig, sænker en uhyggelig stilhed sig. Selv bladene ophører deres raslen, og efterlader jeres støvlers smasken gennem mudderet som den eneste tilbageblevne lyd.
 
@@ -651,7 +664,7 @@ Mens hun flygter gennem skoven, har Eliza halv cover fra enhver spiller mindst 3
 Når spillerne ankommer til River Ivlis Crossroads, læs:
 
 > [!quote]+ **Læs højt**
-> Den veltrådt sti vender tilbage til vejkrydset, nu oplyst under månens blege, sygelige lys. Tværs over vejen synes de tågeindhyllede gravsten at krybe sammen i mørket ved siden af den gamle træ-galge, hvis flossede reb dingler livløst i den stille luft.
+> Den veltrådte sti vender tilbage til vejkrydset, mørkt under den måneløse himmel. Tværs over vejen synes de tågeindhyllede gravsten at krybe sammen i mørket ved siden af den gamle træ-galge, hvis flossede reb dingler livløst i den stille luft.
 >
 > En lavstammet, kappeklædt silhuet står ved siden af galgen — og venter.
 
@@ -669,7 +682,12 @@ Silhuetten er [[Non-Player Characters|Madam Eva]]. Hun svarer ikke hvis hun råb
 > 
 > If Eliza is caught, [[Non-Player Characters|Madam Eva]] is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, [[Non-Player Characters|Madam Eva]] coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
 
-Hvis hun spørges yderligere, holder [[Non-Player Characters|Madam Eva]] en hånd op, og vender sig derefter tavst mod den umarkerede kirkegård nær galgen. The March of the Dead, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=49|March of the Dead (p. 48)]], begynder kort derefter.
+Hvis hun spørges yderligere, holder [[Non-Player Characters|Madam Eva]] en hånd op, og vender sig derefter tavst mod den umarkerede kirkegård nær galgen. Kort derefter begynder **The March of the Dead**. Læs:
+
+> [!quote]+ **Læs højt**
+> Et uhyggeligt grønt lys gennemsyrer kirkegården. Fra lyset træder en spøgelsesagtig procession frem: flakkende billeder af robuste kvinder med tohåndssværd, skovkloge mænd med slanke buer, dværge med glitrende økser, og arkaisk klædte troldmænd med skæg og sære, spidse hatte — alle disse og flere marcherer frem fra kirkegården, deres antal voksende for hvert sekund.
+
+Dette er ikke ånderne af dem der er begravet her, men af tidligere eventyrere der døde i forsøget på at tilintetgøre Strahd. Hver nat forsøger de at fuldføre deres opgave, og hver nat fejler de. De har ingen interesse i de levende og kan ikke rammes, skades eller turnes.
 
 Når marchen er begyndt, informerer [[Non-Player Characters|Madam Eva]] spillerne: "Hver ånd i denne march deler et fælles træk. Kan I tænke jer hvad det måtte være?" Hvis spillerne svarer korrekt, spørger hun derefter, "Hvor tror I de er på vej hen?"
 
@@ -709,7 +727,7 @@ Hvis spillerne accepterer [[Non-Player Characters|Madam Eva]]s opgave, nikker hu
 >
 > Hun vender kortet.
 >
-> Det cerulean lys danser hen over dets overflade og afslører et illustration af en smågrinende vagtmand der kigger op mod en hovmodig præst, præstens pegende fingre kun centimeter fra vagtmandens næse mens vagtmanden holder en ondskabsfuldt krummet dolk parat bag sin ryg. "The Nine of Glyphs — the Traitor." Hendes mørke pupiller skifter fra side til side, som om de læser fra en usynlig tekst. "Jeg ser den ældgamle fjende af et gammelt og adeligt hus. Den vildfarne sjæl vil føre jer til ham."
+> Det cerulean lys danser hen over dets overflade og afslører et illustration af en smågrinende vagtmand der kigger op mod en hovmodig præst, præstens pegende fingre kun centimeter fra vagtmandens næse mens vagtmanden holder en ondskabsfuldt krummet dolk parat bag sin ryg. "The Nine of Glyphs — the Traitor." Hendes mørke pupiller skifter fra side til side, som om de læser fra en usynlig tekst. "Jeg ser den ældgamle fjende af et gammelt og adeligt hus. Den vildfarne sjæl vil føre jer til ham." (Se [[Arc H - The Lost Soul]] for mere om dette korts forudsigelse.)
 >
 > Hun bevæger sin hånd til det andet kort, dette ved toppen af korset. Mens hun lukker øjnene og lytter endnu en gang, blusser stearinlyset op, dets farve eksploderer i en skinnende, munter gul.
 >
@@ -745,7 +763,7 @@ Hvis spillerne accepterer [[Non-Player Characters|Madam Eva]]s opgave, nikker hu
 >
 > Mens den sidste stavelse passerer hendes læber, fryser den gamle kvinde — og vugger så bagud, hendes øjne ruller indtil deres hvide skinner som perler i mørket — og så snapper hun tilbage, stearinlyset brænder ned til sit sædvanlige skarlagenrøde skær.
 >
-> Lyden af den naturlige verden vender tilbage — vindens hvisken gennem træerne, en fjern uglerse hyl, og Ivlis-flodens fjerne plasken mod sine bredder. Sølvfarvet måneskin gennemborer atter kirkegårdens kant, og I føler jer trække vejret for første gang siden aflæsningen begyndte.
+> Lyden af den naturlige verden vender tilbage — vindens hvisken gennem træerne, en fjern ugles hujen, og Ivlis-flodens fjerne plasken mod sine bredder. Det svage skær af flakkende stearinlys vender atter tilbage til kirkegården, og I føler jer trække vejret for første gang siden aflæsningen begyndte.
 >
 > [[Non-Player Characters|Madam Eva]] siger ingenting. Hun betragter jer kun tavst med mørke, tunge øjne.
 
@@ -769,7 +787,12 @@ Når spillerne vågner ved Tser Pool den følgende morgen, inviterer Stanimir de
 
 Hvis spillerne forsøger at tale med [[Non-Player Characters|Madam Eva]] igen inden de tager af sted, advarer Stanimir dem om at "den gamle kvinde" sover, og ikke ønsker at blive forstyrret. Hvis spillerne forsøger at træde ind i hendes telt, finder de hende sovende på en pallet ved siden af hendes bord.
 # C5. The Skeletal Rider
-Når spillerne vender tilbage til River Ivlis Crossroads efter at have modtaget Tarokka-aflæsningen, møder de en skeletrytter, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=32|Skeletal Rider (p. 31)]], som nærmer sig fra den vestlige vej og fortsætter mod landsbyen Barovia. Hvis spillerne så Dalvan Olenskys lig da de trådte ind i Barovia, bemærker de at rytterens tøj er genkendeligt lignende hans.
+Når spillerne vender tilbage til River Ivlis Crossroads efter at have modtaget Tarokka-aflæsningen, møder de en **skeletrytter** der nærmer sig fra den vestlige vej og fortsætter mod landsbyen Barovia. Læs:
+
+> [!quote]+ **Læs højt**
+> Gennem tågen kommer en skeletklædt stridshest og rytter, begge iført rustne ringbrynjer. Skeletrytteren holder en rusten lanterne op, der ikke kaster noget lys.
+
+Skelettet og hesteskelettet er alt hvad der er tilbage af en rytter og ganger der omkom i forsøget på at flygte gennem tågen omkring Barovia; de er dømt til at ride gennem dalen i evig søgen efter en vej ud. De ignorerer spillerne medmindre de angribes. Hvis spillerne så Dalvan Olenskys lig da de trådte ind i Barovia, bemærker de at rytterens tøj er genkendeligt lignende hans.
 
 > [!abstract]+ **Following the Rider**
 > If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
@@ -887,7 +910,12 @@ Mens spillerne forlader dette område, bemærker en spiller med en passive Wisdo
 ## C7b. Tser Falls
 *<em>This scene takes place in Chapter 2: Area H.</em>*
 
-Dette område er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=38|Tser Falls (p. 37)]]. Derudover, når spillerne ankommer, kan de se en [[pdfs/Curse of Strahd.pdf#page=32|revenant (p. 31)]] stående alene midt på broen med hænderne hvilende på sværdets greb, klingen plantet fast i jorden.
+Når spillerne ankommer til Tser Falls ad højvejen, læs:
+
+> [!quote]+ **Læs højt**
+> I følger grusvejen mens den klamrer sig til bjergsiden og ender foran en buet bro af mosbegroet sten, der spænder over en naturlig kløft. Gargoiler svøbt i sort mos hugger sig fast på broens hjørner, deres pander forvitrede. På bjergsiden af broen styrter et vandfald næsten tusind fod ned i en pøl og sender kolde tågeskyer op i luften.
+
+Når spillerne ankommer, kan de se en **revenant** stående alene midt på broen med hænderne hvilende på sværdets greb, klingen plantet fast i jorden.
 
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -945,9 +973,9 @@ Rejsen fra Tser Falls til Crossroads of Ravenloft er halvanden mil og tager tred
 >
 > Mens I rejser dybere mellem bakkerne, bliver vejen smallere og klipperne højere. Snart falder bakkerne dog bort igen, vejen fortsætter ud i et lille, tågekvalt bassin.
 
-Dette område er som beskrevet i [[pdfs/Curse of Strahd.pdf#page=38|Black Carriage (p. 37)]]. (Strahds vogn er ikke til stede, selvom spillerne kan se dybe spor i den mudrede vej der passerer fra Old Svalich Road over på den gamle brostensbelagte hovedvej der fører til Castle Ravenloft.)
+Dette område er som beskrevet i [[pdfs/Curse of Strahd.pdf#page=38|Black Carriage (p. 37)]]. (Strahds vogn er ikke til stede, selvom spillerne kan se dybe spor i den mudrede vej der passerer fra Den Gamle Svalich vej over på den gamle brostensbelagte hovedvej der fører til Castle Ravenloft.)
 
-Rejsen fra Crossroads of Ravenloft til de vestlige **Gates of Barovia** er en kvart mil og tager fem minutter. Dette område er som beskrevet i [[pdfs/Curse of Strahd.pdf#page=34|Gates of Barovia (p. 33)]], men set fra den modsatte side.
+Rejsen fra Crossroads of Ravenloft til de vestlige **Gates of Barovia** er en kvart mil og tager fem minutter. To firkantede vagttårne af smuldrende sten står som tavse vogtere på hver side af de åbne jernporte; grinende gargoiler pryder deres høje brystværn, og to forvitrede dragestatuer kroner portpillerne. Portene åbner sig ikke udad for ikke-Vistani, og tågen kvæler enhver der forsøger at passere dem eller gå udenom.
 
 > [!abstract]+ **Visiting Castle Ravenloft**
 > If the players decide to visit Castle Ravenloft (e.g., to investigate [[Non-Player Characters#Gertruda|Gertruda]]'s disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
@@ -968,7 +996,12 @@ Hvis spillerne forbliver tavse eller fortsætter videre, læs:
 > [!quote]+ **Læs højt**
 > Vejen kommer snart ud af skoven igen og snor sig mellem to bakker. Inden længe bøjer den nordpå og hugger sig ind i bjergets fod.
 
-Spillerne dukker op ved foden af bakken hvor **Old Bonegrinder** hviler, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=126|Approaching the Windmill (p. 125)]]. Der er ingen ravne ved eller nær vindmøllen.
+Spillerne dukker op ved foden af bakken hvor **Old Bonegrinder** hviler. Læs:
+
+> [!quote]+ **Læs højt**
+> En vindmølle i tre etager troner på en klippefyldt bakke med udsigt over vejen. Dens vinger er for længst forfaldne, og hele den forvitrede struktur hælder en smule til den ene side.
+
+Der er ingen ravne ved eller nær vindmøllen.
 
 Mens vindmøllen kommer i syne, bemærker spillerne også **[[Non-Player Characters#Morgantha, Dream Peddler|Morgantha]]** der nærmer sig fra den modsatte retning med sin kærre, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=49|Dream Pastries (p. 48)]].
 
@@ -1035,7 +1068,7 @@ Mens spillerne fortsætter ned ad vejen, læs:
 
 Hvis [[Non-Player Characters#Ireena Kolyana|Ireena]] er med gruppen, fryser hun og spørger spillerne om gruppen kan tage en hurtig omvej hen over marken til søen. Hvis hun spørges, bemærker hun kun at søen synes mærkeligt familiær.
 
-Lake Zarovich er som beskrevet i [[pdfs/Curse of Strahd.pdf#page=39|L. Lake Zarovich (p. 38)]], men uden de strandede robåde eller Blutos båd synlig.
+Ved foden af et bjerg, indlejret i den tågede skov, ligger Lake Zarovich. Vandet er fuldstændig stille og mørkt og spejler de sorte skyer ovenover som et monstrøst spejl. Søbredden er tom — ingen både i sigte.
 
 Ved ankomsten til søens kyst bemærker Ireena med ængstelighed at det synes at være den samme sø hun har set i sine drømme. (Hvis hun ikke allerede har delt den, fortæller Ireena historien om sin drøm, beskrevet i [[#C4d. The Dancing Fire]] ovenfor.)
 
@@ -1166,7 +1199,7 @@ Alle spillere der fejlede deres saving throw mod lykantropi-forbandelsen finder 
 > As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
 # C12. The Town of Vallaki
 ## C12a. The Vallakian Gates
-Vejen fortsætter fremad til **Town of Vallaki**, i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=96|Approaching the Town (p. 95)]]. Fjern dog den første sætning af den beskrivende tekst og tilføj følgende tekst i slutningen af det første afsnit:
+Vejen fortsætter fremad til **Town of Vallaki**. Byen er omgivet af en høj palisade af tilspidsede træstager med vagttårne med jævne mellemrum, og en tung port vogter indgangen. Læs:
 
 > [!quote]+ **Læs højt**
 > Mere end et dusin forfaldne telte er sat op mod palissadeværket. Mellem dem vandrer eller sidder dusinvis af pjaltede, udtærede mennesker rundt eller ved lavt brændende lejrbål og tæpper, deres tomme blikke iagttager tavst mens I nærmer jer.
@@ -1226,7 +1259,12 @@ Mens karaktererne passerer gennem gaderne, bliver de bemærket af Ernst Larnak, 
 ## C12b. The Blue Water Inn
 *<em>This scene takes place in Chapter 5: Area N2.</em>*
 
-Dette område er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=99|N2. Blue Water Inn (p. 98)]]. Hvis Muriel er til stede, byder hun spillerne farvel med en blød, sentimental trille, og tager derefter af sted for at slutte sig til de andre ravne der hviler oven på taget. (Hvis spillerne senere vender tilbage til kroen for at lede efter hende, er hun ikke til stede.)
+Når spillerne ankommer til **Blue Water Inn**, læs:
+
+> [!quote]+ **Læs højt**
+> Grå røg stiger fra skorstenen på denne store toetagers træbygning med stenfundament og hængende tegltag, hvorpå flere ravne har slået sig ned. Et malet træskilt over hovedindgangen afbilder et blåt vandfald.
+
+Kroen er Vallakis vigtigste samlingssted for lokale, især om aftenen; kroværten [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] betragter den som et fristed fra landets ondskab, og vinduer og døre kan alle spærres indefra i tilfælde af ballade. En seng for natten koster 1 sp. Hvis Muriel er til stede, byder hun spillerne farvel med en blød, sentimental trille, og tager derefter af sted for at slutte sig til de andre ravne der hviler oven på taget. (Hvis spillerne senere vender tilbage til kroen for at lede efter hende, er hun ikke til stede.)
 
 Når spillerne først ankommer, indeholder kroen følgende bemærkelsesværdige NPC'er:
 
@@ -1275,7 +1313,12 @@ Når spillerne først ankommer, indeholder kroen følgende bemærkelsesværdige 
 >
 > ***Relationer.*** Danika er mor til Brom og Bray Martikov og hustru til Urwin Martikov. Ud over at være medejer af Blue Water Inn, er Danika et højtstående medlem af [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
 ### Entering the Inn
-Skænkestuen er som beskrevet i [[pdfs/Curse of Strahd.pdf#page=101|N2c. Taproom (p. 100)]]. Tilføj dog følgende tekst i slutningen af områdets beskrivelse:
+Når spillerne træder ind i skænkestuen, læs:
+
+> [!quote]+ **Læs højt**
+> Fugtige kapper hænger fra knager i indgangsportikken. Tavernen er proppet med borde og stole, med smalle stier der snor sig imellem dem. En bar strækker sig langs den ene væg, under en balkon der nås ad en trætrappe op langs nordvæggen; en anden balkon hænger ud over en indgang mod øst. Alle vinduer har tykke skodder og tværstænger. Lanterner over baren og på bordene bader rummet i et dæmpet orange lys og kaster skygger på væggene, hvoraf de fleste er prydet med ulvehoveder monteret på træplader.
+
+Tilføj desuden følgende til områdets beskrivelse:
 
 > [!quote]+ **Læs højt**
 > Næsten et dusin Vallakianer sidder spredt rundt om de forskellige borde og nipper til krus af vin eller skåle af kraftig stuvning. Langs trappen gestikulerer en farverigt klædt mand iført en fjerprydet, bredbremset hat vildt for enden af et langt bord, mens han fastholder den intense opmærksomhed fra de adskillige gæster der sidder dér. I hører en bølge af latter rulle gennem gruppen, efterfulgt af en let bifaldsklap.

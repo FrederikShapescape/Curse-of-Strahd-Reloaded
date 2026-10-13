@@ -40,7 +40,7 @@ Dalvans hånd der holder kompasset er spredt ud i retning af et nært træ, som 
 >
 > In the wake of Strahd's attack on the village of Barovia, one of the survivors—a young man named Dalvan Olensky—was overcome with terror and despair.
 >
-> Determined to find a way free from Barovia, Dalvan traveled to the Vistani encampment at Tser Pool, seeking out the reputed Vistani seer [[Non-Player Characters|Madam Eva]]. There, [[Non-Player Characters|Madam Eva]] read his future in the Tarokka cards, and drew the Horseman—a card that predicted that he would die in the Barovian valley.
+> Determined to find a way free from Barovia, Dalvan traveled to the Vistani encampment at Tser Sø, seeking out the reputed Vistani seer [[Non-Player Characters|Madam Eva]]. There, [[Non-Player Characters|Madam Eva]] read his future in the Tarokka cards, and drew the Horseman—a card that predicted that he would die in the Barovian valley.
 >
 > Panicked, Dalvan returned to the village of Barovia under cover of night, stole a horse and compass, and set off for the eastern road out of Barovia. When the Svalich Road seemed to end, Dalvan delved into the woods, crossing through the mist and reemerging on the opposite side of the road.
 >
@@ -165,7 +165,7 @@ Hvis spillerne spørger til statuen, kan Ismark dele følgende information:
 * I live var Ismark Antonovich, også kendt som Ismark den Store og "**Vampyrernes Banemand**", en mægtig kriger og borgmester i landsbyen Barovia. I sin storhedstid bekæmpede han titals vampyrer og andre udøde efterladt da Strahd forsvandt fra offentlighedens syn. Han døde til sidst mens han forsvarede en gruppe fældefangere mod et dire wolf-angreb i en alder af 44, og statuen udenfor blev rejst til hans ære.
 * Ismark Antonovich var [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]]s oldefar. Ismarks far, Kolyan, gav ham det navn i håbet om at han en dag ville blive en stor kriger.
 ## B5c. The Blood of the Vine Tavern
-Dette område er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=44|E2. Blood of the Vine Tavern (p. 43)]]. Dog er Alenka, Mirabel og Sorvia — de tre Vistani fra originalmodulet — ikke til stede. Arik er eneejer og vært af tavernen. (Alenka, Mirabel og Sorvia er ikke i tavernen, da de flygtede fra landsbyen til Tser Pool dagen før belejringen begyndte.)
+Dette område er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=44|E2. Blood of the Vine Tavern (p. 43)]]. Dog er Alenka, Mirabel og Sorvia — de tre Vistani fra originalmodulet — ikke til stede. Arik er eneejer og vært af tavernen. (Alenka, Mirabel og Sorvia er ikke i tavernen, da de flygtede fra landsbyen til Tser Sø dagen før belejringen begyndte.)
 
 Efter at have trådt ind i tavernen betaler Ismark Arik for at hente drikkevarer. Mens spillerne sætter sig ned med ham, undskylder Ismark for landsbyens tilstand og spørger hvordan de er kommet til dalen. "I må have tusind spørgsmål," siger han medfølende. "Jeg svarer gerne på så mange som jeg kan."
 
@@ -850,7 +850,7 @@ Ismark deler informationen om sit ønske om at bringe hende til Vallaki som besk
 
 ***Opsøge [[Non-Player Characters|Madam Eva]].*** Strahds angreb på landsbyen har kun styrket Ismarks overbevisning om at barovianerne må finde en måde at undslippe vampyrens tyranni. "Vi kan ikke fortsætte med at leve sådan her," krækker han, knoerne hvidnende mens han stirrer ned i sit krus. "Jeg har hørt hvor forfærdelige tingene var for hundrede år siden, før han faldt i søvn. Vampyrer lurede i enhver skygge. Forældre og deres børn forsvandt om nattefn. Rotter og ulve og flagermus rapporterede hvert et skridt man tog til slottet. Selv hvis Djævlen falder i dvale igen om halvtreds eller tres år, hvem ville vi så være hvis vi fordømte vores børn og børnebørn til den samme skæbne?"
 
-Selvom han beder dem om at være diskrete, så de ikke drager Strahds vrede ned over landsbyen igen, beder Ismark spillerne om at opsøge [[Non-Player Characters|Madam Eva]], en Vistani-seerske og vismand der bor ved Tser Pool. "Hvis nogen kan vide hvordan Djævlen kan tilintetgøres og vores folk befries," mumler han, "er det hende."
+Selvom han beder dem om at være diskrete, så de ikke drager Strahds vrede ned over landsbyen igen, beder Ismark spillerne om at opsøge [[Non-Player Characters|Madam Eva]], en Vistani-seerske og vismand der bor ved Tser Sø. "Hvis nogen kan vide hvordan Djævlen kan tilintetgøres og vores folk befries," mumler han, "er det hende."
 
 Hvis spillerne accepterer: 🎲 **Passive Wisdom (Perception) (højeste i gruppen)** — den spiller bemærker en **rat** — en af Strahds spioner — der iagttager dem med intens, ondskabsfuld og intelligent interesse fra under et nærliggende møbel. Når den opdages, styrter rotten øjeblikkeligt mod køkkenet i et tydeligt forsøg på at flygte.
 
@@ -881,14 +881,22 @@ Hvis Bildrath døde under belejringen, tilføj:
 
 [[Non-Player Characters#Parriwimple|Parriwimple]] følger ikke med spillerne ind i kirken, men ønsker dem held og lykke og inviterer dem til at besøge ham i Bildrath's Merkantil inden de tager af sted.
 ### Inside the Church
-Dette område er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=46|Church (p. 45)]]. Dog ændres den beskrivende tekst for [[pdfs/Curse of Strahd.pdf#page=46|E5a. Hall (p. 45)]] for at fjerne Dorus skrig:
+Når spillerne åbner kirkens tunge trædøre — dækket af klomærker og ar fra ild — og træder ind, læs:
 
 > [!quote]+ **Læs højt**
 > Dørene åbner sig og afslører en ti fod bred, tyve fod lang hal der fører til et klart oplyst kapel. Hallen er umøbleret og stinker af mug. Fire døre, to på hver side af hallen, fører til tilstødende kamre.
 >
 > I kan se at kapellet er strøet med murbrokker, og I hører en sagte stemme indefra der reciterer en bøn.
 
-Doru råber ikke efter sin far når spillerne træder ind i kapellet. I stedet, når spillerne først nærmer sig kapellet, ophører Donavichs bønner. Tilføj følgende linje til kapellets beskrivelse i stedet for Dorus skrig:
+> [!info]- **Kirkens rum — hvis spillerne udforsker** *(inlinet fra CoS s. 45–46, så du ikke skal åbne PDF'en)*
+> Fire døre fra hallen (to på hver side) fører til tilstødende kamre; kapellet ligger for enden.
+> - **Dorus soveværelse:** Snavset, mørkt rum med en træseng med halmmadras. Over sengegavlen hænger et træ-helligsymbol. Tilhørte Doru; ubenyttet i over et år, intet af værdi.
+> - **Donavichs soveværelse:** Snavset rum med træseng + halmmadras; ved siden et lille bord med en klart brændende olielampe. Over gavlen et solformet træ-helligsymbol. Intet af værdi.
+> - **Rummet med lemmen:** Loftet har huller; brudte tagspån i vandpytter. I et hjørne, sat i gulvet, en tung trælem lukket med kæde og hængelås. Opsvulmet og fastklemt — DC 12 Strength for at hive den op. Under den går en trætrappe 15 fod ned til krypten. *(Donavich har nøglen — se "Nedstigning til krypten" nedenfor.)*
+> - **Kontoret:** Gammelt skrivebord + stol op ad sydvæggen, solformet træ-helligsymbol over. En bar 10-fod jernstang på nordvæggen (en gobelin hang der engang). En tom trækiste (poor box) på stolen; skufferne rummer blanke pergamentark, fjerpenne og indtørret blæk. Et træskab med fire høje døre: en fyrtøjsæske, trækasser med stearinlys, og **to velbrugte bøger** — ***Hymns to the Dawn*** (lovsange til Morgenens Herre) og ***The Blade of Truth*** (logik-øvelser blandet med makabre beskrivelser af fiend-dyrkende kulter, ført af den Ulmistiske Inkvisition).
+> - **Kapellet:** et kaos af væltede, knækkede kirkebænke på det støvede gulv; snesevis af stearinlys i stager og kandelabre fordriver skyggerne i hvert hjørne. For enden står et klo-ridset alter, bag hvilket Donavich knæler i snavsede gevandter; ved siden hænger et tykt reb op i klokketårnet.
+
+Når spillerne nærmer sig kapellet, ophører Donavichs bønner, og han taler til dem fra alteret. Læs:
 
 > [!quote]+ **Læs højt**
 > Lyden af mumlet bøn stopper, og en hæs, træt stemme ringer gennem kammeret fra skikkelsen der knæler bag alteret. "Jeg kan ikke give den velsignelse I søger. Gå, og lad dette forbandede sted være i fred."
@@ -1016,7 +1024,7 @@ Doru kan også dele følgende information med spillerne hvis de spørger:
 * Doru kan ikke trodse Strahds direkte ordrer og kan mærke hans tilstedeværelse til alle tider. Hans vampyriske blodtørst er en konstant distraktion, og det er svært at kontrollere sine rovdyrsinstinkter. Da han først vendte tilbage til kirken, var han næsten taknemmelig for at hans far havde låst ham i krypten, hvor han ikke kunne gøre skade.
 * Doru ved ikke om hans sjæl eller krop kan reddes, men han har beholdt sin fars hellige symbol for at minde ham om sin tro og familie, og for at stålsætte sin vilje mod sin nye forms afhængigheder. Uden det mistænker han at han ville have mistet kontrollen for dage eller endda uger siden. (Doru ved ikke hvorfor Strahd lod ham beholde det, men formoder at Strahd så det som en form for ironisk underholdning.)
 
-Hvis spillerne spørger om hans skænderi med "Alanik," indrømmer Doru skamfuldt at han tvang Van Richten til at ledsage hans oprørere til slottet, og truede med at marchere mod Castle Ravenloft med eller uden Van Richtens hjælp. (En rasende Van Richten rev forordet ud af Dorus eksemplar af *Van Richten's Guide to Vampires* — som Doru købte fra en Vistani-karavane ti år tidligere — for at gøre en pointe. "Han advarede mig om at tro og bøger intet betød i mødet med sandt onde," mumler Doru. "Jeg burde have lyttet." Doru er ikke sikker på hvad der skete med resten af bogen.)
+Hvis spillerne spørger om hans skænderi med "Alanik," indrømmer Doru skamfuldt at han tvang Van Richten til at ledsage hans oprørere til slottet, og truede med at marchere mod Castle Ravenloft med eller uden Van Richtens hjælp. (En rasende Van Richten rev forordet ud af Dorus eksemplar af *Van Richten's Guide to Vampires* — som Doru købte fra en Vistani-karavane ti år tidligere — for at gøre en pointe. "Han advarede mig om at tro og bøger er uden betydning i mødet med sandt onde," mumler Doru. "Jeg burde have lyttet." Doru er ikke sikker på hvad der skete med resten af bogen.)
 
 Mens samtalen fortsætter, kan Doru spørge spillerne:
 
@@ -1046,7 +1054,7 @@ Ellers, hvis Doru succesfuldt modstår blodtørsten, læs:
 > [!quote]+ **Læs højt**
 > Efter hvad der synes en evighed, slapper Dorus krop endelig af. Hans spændte muskler synes at oprulle sig, hans åndedræt bliver roligere, og udtrykket af anstrengelse forsvinder fra hans ansigt. Hans øjne forbliver lukkede et øjeblik længere, og flakker derefter åbne — og hugtænderne i hans mund trækker sig langsomt tilbage og efterlader kun et almindeligt par hjørnetænder.
 >
-> "Jeg har ikke givet efter," hvisker han hæst. "Endnu ikke."
+> "Jeg har ikke givet efter," hvisker han hæst. "Ikke endnu."
 
 Doru takker spillerne og afgiver det hellige symbol uden protest. Hvis spillerne nævner det, er han overrasket over at høre at hans hugtænder har trukket sig tilbage, men anerkender betydningen med ydmyghed og vantro. (Doru har trods alt læst *Van Richten's Guide to Vampires* mange gange.)
 
@@ -1077,13 +1085,13 @@ Ellers, hvis spillerne skånede Doru og bringer hans sidste budskab, læs:
 
 Når han har modtaget sit hellige symbol, accepterer [[Non-Player Characters#Father Donavich|Father Donavich]] med glæde at forestå Kolyans begravelse.
 
-Kirkegården er som beskrevet i [[pdfs/Curse of Strahd.pdf#page=49|E6. Cemetery (p. 48)]]. Om natten hænger to **swarms of bats** — Strahds spioner — ved kirkens og de nærliggende mausoleers tagskæg og iagttager gruppen. 🎲 **Passive Wisdom (Perception) 14+** for at en spiller bemærker dem.
+En smedejernshegn med en rusten låge omkranser en rektangulær plet jord bag kirken; tætpakkede gravsten, svøbt i tåge, bærer navnene på sjæle for længst gået bort. Om dagen er stedet stille og fredeligt. Mens graven graves om natten, hænger to **swarms of bats** — Strahds spioner — ved kirkens og de nærliggende mausoleers tagskæg og iagttager gruppen. 🎲 **Passive Wisdom (Perception) 14+** for at en spiller bemærker dem.
 
 Ved ankomsten til kirkegården henter Donavich fire skovle fra et skur ved kirken og deler dem med spillerne. Når graven er helt gravet og daggry er begyndt, fremsiger Donavich bønner til Morgenens Herre og beder om Kolyans befrielse i følgende omkvæd:
 
 > [!quote]+ **Læs højt**
 > O Morgenens Herre\
-> Herre af velsignet lys og skytspatron for nye begyndelser\
+> Herre af velsignet lys og skytsengel for nye begyndelser\
 > Vi betror i din nåde og din stråleglans Mester Kolyan Indirovich\
 > Nu bortgået fra os og draget for evigt ind i din herlighed.\
 > Vi bønfalder dig om at skænke ham din nåde og evig fred\
@@ -1099,9 +1107,9 @@ Ved ankomsten til kirkegården henter Donavich fire skovle fra et skur ved kirke
 Ved afslutningen af Donavichs bøn frembringer Ismark og Ireena følgende ord til minde om deres far:
 
 > [!quote]+ **Læs højt**
-> Ismark tørrer sine øjne. "Kolyan Indirovich besad alle de egenskaber der kendetegner en stor borgmester: han var venlig, medfølende og retfærdig. Men fremfor alt var han vores far — manden der lærte os at vælge mod frem for frygt, håb frem for fortvivlelse, og latter frem for sorg. Selvom han har forladt os, vil hans lærdomme og minde aldrig gøre det. Måtte han finde hvile i Morgenens Herres favn, og måtte hans eftermæle aldrig blive glemt."
+> Ismark tørrer sine øjne. "Kolyan Indirovich besad alle de egenskaber der kendetegner en stor borgmester: han var venlig, medfølende og retfærdig. Men fremfor alt var han vores far — manden der lærte os at vælge mod frem for frygt, håb frem for fortvivlelse, og latter frem for sorg. Selvom han har forladt os, vil hans lærdom og minde aldrig gøre det. Må han finde hvile i Morgenens Herres favn, og må hans eftermæle aldrig blive glemt."
 >
-> Ireena stirrer på graven i nogle øjeblikke, hendes fingre vrider sig ængsteligt i knuder. Endelig siger hun stille, "Da du fandt mig, var jeg en fremmed — et barn, faret vild i skoven. Du og Mor tog mig til jer, passede mig og elskede mig som jeres egen. Da jeg spurgte dig hvorfor, sagde du altid kun: Fordi du havde brug for det." Hun vakler, kvæles af ordene, og siger så: "Jeg kan aldrig håbe at tilbagebetale hvad du gav mig. Men ligesom du gjorde, vil jeg aldrig holde op med at forsøge at hjælpe dem der har brug for det."
+> Ireena stirrer på graven i nogle øjeblikke, hendes fingre vrider sig ængsteligt i knuder. Endelig siger hun stille, "Da du fandt mig, var jeg en fremmed — et barn, faret vild i skoven. Du og Mor tog mig til jer, passede mig og elskede mig som jeres egen. Jeg spurgte dig engang hvorfor i gjorde det og du svarede: Fordi du havde brug for det." Hun vakler, kvæles af ordene, og siger så: "Jeg kan aldrig håbe at tilbagebetale hvad du gav mig. Men ligesom du gjorde, vil jeg aldrig holde op med at forsøge at hjælpe dem der har brug for det."
 
 Alle spillere der ønsker det kan frembære ord, bønner eller hyldester.
 
@@ -1109,7 +1117,7 @@ Hvis han har fået sit hellige symbol tilbage, kaster Donavich *ceremony* (Funer
 
 Med begravelsen afsluttet letter Strahds flagermus til vejrs og forsvinder op i tågen der omgiver Castle Ravenlofts fod.
 
-Donavich ser flagermusenes tilstedeværelse som et dårligt varsel. I et overraskende klart øjeblik advarer han spillerne og Ismark om en baroviansk overtro om at unge kvinder med rødt hår ofte finder at ulykke rejser ved deres side, og spørger om Ireena agter at forblive i Barovia nu da Djævlen er vågnet. Hvis han får at vide at Ireena og spillerne agter at forlade byen, foreslår Donavich Abbey of St. Markovia i Krezk som en eventuel destination. Han bemærker at det engang var en bastion for det gode, og måske endnu tilbyder nogen beskyttelse.
+Donavich ser flagermusenes tilstedeværelse som et dårligt varsel. I et overraskende klart øjeblik advarer han spillerne og Ismark om en baroviansk overtro om at unge kvinder med rødt hår ofte finder at ulykke rejser ved deres side, og spørger om Ireena agter at forblive i Barovia nu da Djævlen er vågnet. Hvis han får at vide at Ireena og spillerne agter at forlade byen, foreslår Donavich Sankt. Markovia Abbedi i Krezk som en eventuel destination. Han bemærker at det engang var en bastion for det gode, og måske endnu tilbyder nogen beskyttelse.
 
 > [!lore] **Who Knows of the Abbey?**
 > All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
@@ -1118,13 +1126,14 @@ Når spillerne vender tilbage til borgmesterens herregård efter begravelsen, pa
 
 Mens Ismark pakker rationerne, kan han dele følgende information:
 
-* Rejsen til Vallaki er mere end en dags rejse hvis spillerne planlægger at besøge Tser Pool først, og at Ireena og spillerne sandsynligvis bliver nødt til at tilbringe en nat på vejen. Han anbefaler at gøre det ved Tser Pool selv.
-* Tser Pool er lidt under to timers rejse fra Barovia. (Selvom nogle Vistani efter sigende er i ledtog med Strahd, er Tser Pool kendt for at være et sikkert sted for rejsende at tilbringe natten, især givet [[Non-Player Characters|Madam Evas]] ry.)
+* Rejsen til Vallaki er mere end en dags rejse hvis spillerne planlægger at besøge Tser Sø først, og at Ireena og spillerne sandsynligvis bliver nødt til at tilbringe en nat på vejen. Han anbefaler at gøre det ved Tser Sø selv.
+* Tser Sø er lidt under to timers rejse fra Barovia. (Selvom nogle Vistani efter sigende er i ledtog med Strahd, er Tser Sø kendt for at være et sikkert sted for rejsende at tilbringe natten, især givet [[Non-Player Characters|Madam Evas]] ry.)
 ## B5j. Lugdana's Knoll
 Cirka en time før middag sniger [[Non-Player Characters#Ireena Kolyana|Ireena]] sig stille ud af herregården og går til Lugdana's Knoll, en lille, stille bakke nord for Barovia. (Bakken er opkaldt efter paladinen Lugdana, som ifølge legenden først mødte borgmester Ismark Antonovich den Store på netop den bakke.)
 
 Kort før middag, hvis spillerne ikke har holdt øje med hende, bemærker [[Non-Player Characters#Ismark Kolyanovich|Ismark]] — der i øjeblikket debriefes af et par barovianske **scouts** vedrørende deres mislykkede eftersøgning efter [[Non-Player Characters#Gertruda|Gertruda]] — Ireenas fravær med mild bekymring og beder spillerne finde hende og bringe hende hjem.
 
+%% @claude Afsnittet herunder forstår jeg ikke... Tiden er "kort før midnat" og "Strahd og hans tjener besøger kun om natter"... Hvordan er Ismark ikke bekymret her?? Det er nat nu! %%
 Fordi Strahd og hans tjenere kun har besøgt om natten, er Ismark ikke mærkbart alarmeret over Ireenas fravær, men ønsker stadig at se hende bragt hjem så hurtigt som rimeligt muligt. Ismark anbefaler at spillerne tjekker Lugdana's Knoll først — et af Ireenas yndlingssteder omkring landsbyen — og giver korte retningsanvisninger.
 
 Hvis spillerne besøger bakken, læs:
@@ -1134,17 +1143,17 @@ Hvis spillerne besøger bakken, læs:
 >
 > Et ensomt træ står oven på bakken, dets krogede grene rækker mod himlen som udstrakte arme. Under dets skygge knæler en kvindelig skikkelse, hendes blik fixeret mod jorden.
 
-Skikkelsen er Ireena, der har iført sig sin brystplade og karrde og nu bærer et rødt tørklæde om halsen. Mens spillerne nærmer sig, kan de se at hun bruger en planteskuffe til at grave et hul i jorden mellem træets rødder. Ireena, fixeret på sit arbejde, bemærker ikke spillerne før de kalder på hende eller på anden vis træder ind i hendes synsfelt.
+Skikkelsen er Ireena, der har iført sig sin brystplade og karrde og nu bærer et rødt tørklæde om halsen. Mens spillerne nærmer sig, kan de se at hun bruger en planteskuffe %% @claude Jeg ved ikke hvad "planteskuffe" er. Tror ikke det er et dansk ord. Hvad var det originale engelske? %% til at grave et hul i jorden mellem træets rødder. Ireena, fixeret på sit arbejde, bemærker ikke spillerne før de kalder på hende eller på anden vis træder ind i hendes synsfelt.
 
 Ireena hilser spillerne varmt, om end med nogen forlegenhed over at have fået dem til at lede efter hende. Hun deler frit at hun graver efter en lille trækiste som hun og hendes mor, Korina Targolova, begravede her før hendes mors død for fjorten år siden — en kiste hvis indhold hun håber at tage med som et minde når hun tager af sted til Vallaki, da hun ikke ved hvornår, om nogensinde, hun kan vende hjem.
 
-Hvis hun tillades at grave kisten fri, åbner Ireena den og afslører dens indhold. Kisten indeholder et sølvarmbånd med ædelstene, en presset asterblomst, en trækugle i form af en røllikeblomst på en læderstrop, og et lommetørklæde med blomstermønstre.
+Hvis hun tillades at grave kisten fri, åbner Ireena den og afslører dens indhold. Kisten indeholder et sølvarmbånd med ædelstene, en presset aster blomst, en trækugle i form af en røllike blomst på en læderstrop, og et lommetørklæde med blomstermønstre.
 
 Blomsten (som Ireena fandt og hendes mor pressede), amuletten (som Ireenas mor bar som lærling hos byens helbreder), og lommetørklædet (som Ireenas mor hjalp hende med at sy) er alle minder om Ireenas barndom med sin mor. Armbåndet er en genstand Ireena bar da Kolyan fandt hende i Svalich-skoven, som Korina bevarede som et minde om deres "mirakelbarn" efter hun erfarede at hun ikke kunne bære flere børn.
 
 Armbåndet har ingen sentimental værdi for Ireena, og hun husker ikke hvorfor hun bar det da Kolyan først fandt hende, eller hvor hun fik det. Hun tilbyder det til spillerne som en gave for deres accept af at eskortere hende til Vallaki, som kompensation for deres besvær.
 
-Sølvarmbåndet, der er anløbet og tydeligt hundredvis af år gammelt, er 100 gp værd og bærer et intrikat mønster af månen og stjernerne langs ydersiden, med en månesten indsat i midten af månen og fem lapis-lazuli som stjernerne. På indersiden af armbåndet, i bittesmå, elegante bogstaver, er følgende besked indgraveret på Common: "Tatyana: Måtte du finde din vej, og måtte du finde lys selv på de mørkeste steder — Mor & Far."
+Sølvarmbåndet, der er anløbet og tydeligt hundredvis af år gammelt, er 100 gp værd og bærer et intrikat mønster af månen og stjernerne langs ydersiden, med en månesten indsat i midten af månen og fem lapis-lazuli som stjernerne. På indersiden af armbåndet, i bittesmå, elegante bogstaver, er følgende besked indgraveret på Common: "Tatyana: Må du finde din vej, og finde lys på de mørkeste steder — Mor & Far."
 
 Ireena ved ikke hvem Tatyana er. (Ukendt for Ireena var armbåndet en gave fra Tatyana Federovnas forældre på Tatyanas attende fødselsdag. Det gik tabt i Svalich-skoven da Tatyana sprang i døden fra Castle Ravenlofts udsigtspunkt.)
 
