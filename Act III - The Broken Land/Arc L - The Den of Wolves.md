@@ -1,22 +1,25 @@
 _An adventure for five 6th-level characters._
 
-In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by [[Non-Player Characters|Madam Eva]]. If the players previously uncovered the location of [[Non-Player Characters#Baron Dmitri Krezkov|Baron Dmitri Krezkov]]’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
+In this arc, the players must locate the den of the Barovian werewolf pack, which holds the *Holy Symbol of Ravenkind* as foretold by Madam Eva. If the players previously uncovered the location of Baron Dmitri Krezkov’s son, Ilya, in ***Arc I: The Walls of Krezk***, Baron Krezkov also asks them to rescue him from the werewolves’ clutches, promising sanctuary and aid if they do.
 
 With the aid of Ezmerelda d’Avenir, the players can track the werewolf den to a quiet crag on the northwestern shore of Lake Baratok. During a nighttime stakeout on the edge of the Svalich Wood, the players must wait until the pack emerges to hunt, then slip into the den and bypass or defeat any lingering guards before pushing through to the shrine of Mother Night.
 
-There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of [[Non-Player Characters#Baron Dmitri Krezkov|Baron Dmitri Krezkov]]. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]] deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
+There, the players meet Zuleika Toranescu—a **werewolf** cleric of Mother Night and the elder sister of Baron Dmitri Krezkov. Zuleika is the mate of Emil Toranescu: the former **werewolf** pack leader that Kiril Stoyanovich deposed when Strahd awoke from his slumber. Zuleika agrees to lift Mother Night’s protection from the shrine and allow the players to retrieve the *Holy Symbol of Ravenkind* and win Ilya’s freedom if they also free her and promise to rescue Emil from the dungeons of Castle Ravenloft.
 
-> [!info]+ **Kort over lokationer i denne arc**
-> ![[Werewolf Den Map (CoS p203).png]]
-> *Werewolf Den*
-
+> [!warning]+ **Pending Changes**
+> The arc below is fully compatible with existing versions of prior arcs. However, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and Chapter [[#T4. The Monster Hunter]] in [[Arc T - The Three Fanes]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
+>
+> * Arturi Radanavich will be removed from the campaign.
+> * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
+> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
+> * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
+> * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
 # L1. Finding the Den
-The players can locate the werewolves’ den in one of two ways:
+Recruiting Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]], she will offer her expertise as a monster hunter to track down the wolf den. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
 
-* They can recruit the monster hunter Ezmerelda d’Avenir to their cause in [[Arc K - The Fallen Abbey]]. (After tracking Ilya Krezkov and the werewolf pack for the past several days, Ezmerelda strongly suspects that Ilya is a captive within the den.) Upon joining the players, Ezmerelda asks them to aid her in investigating the werewolves' den the following day.
-* They can use the _suggestion_ spell or similar magic to compel the werewolves in [[Act I - Into the Mists/Arc C - Into the Valley|Arc C - Into the Valley]] or [[Arc E - The Missing Vistana]] to lead them to the den.
-
-In the former case, before she leads the players to the den, Ezmerelda proposes the following plan:
+Before she leads the players to the den, Ezmerelda proposes the following plan:
 
 * First, she will lead the players to her wagon at Lake Baratok to retrieve some supplies—specifically, a *spell scroll of major image* (in case they need a distraction), a *spell scroll of remove curse* (in case any of them is bitten), a spyglass (to keep watch), and 10 silvered crossbow bolts (to restock their quivers).
 * Second, she and the players will set up camp in the hollow and wait until nightfall for the werewolf pack to exit the den to hunt.
@@ -25,6 +28,9 @@ In the former case, before she leads the players to the den, Ezmerelda proposes 
 > [!abstract]+ **Robbing Ez**
 > If the players stole from Ezmerelda's wagon in [[Arc E - The Missing Vistana]], she is irritated at their audacity until her belongings are returned. Although she might hold a minor grudge if the players make insufficient apologies for the burglary, she forgives the players freely if they honestly claim to have been acting with the best of intentions.
 # L2. Lake Baratok
+
+The journey from the village of Kresk to Lake Baratok is three-and-one-falf miles long and takes one hour and ten minutes.
+
 If the players agree to accompany Ezmerelda to Lake Baratok to retrieve some supplies from her wagon, the area is as described in [[Arc E - The Missing Vistana]]. 
 
 When the players arrive, Ezmerelda enters the wagon via the hidden trapdoor in its underbelly. Shortly after doing so, she informs the players—sounding shocked—that someone has been inside the wagon and stolen several of her belongings, including the two spell scrolls, a lyre, and three vials of perfume.
@@ -36,49 +42,57 @@ As the players approach the source of the music, they can hear the following thr
 > [!info]+ **Bianca’s Lament**
 > Bianca’s song can be sung to the melody of *Lament of Orpheus* from the video game *Hades*.
 
-> [!quote]+ **Læs højt**
-> Hear, O stars, my yearning plea,\
-> To feel his arms upon me.\
-> Lost beneath the starlit sea,\
-> His light it waits, haunting me\
-> Draw his whispers close to me,\
-> That in his shade, I might see\
-> Heed, heed his call.\
-> Ooh.
+<div class="description" style="text-align: center;">
+<p>Hear, O stars, my yearning plea,
+<br>To feel his arms upon me.
+<br>
+<br>Lost beneath the starlit sea,
+<br>His light it waits, haunting me
+<br>Draw his whispers close to me,
+<br>That in his shade, I might see
+<br>
+<br>Heed, heed his call.
+<br>Ooh.</p>
+</div>
 
 The source of the music is Bianca, a **werewolf** in human form sitting on the rocky shore of the causeway. When the players first see her, read:
 
-> [!quote]+ **Læs højt**
-> A woman sits alone on the rocky shore, clad in finely sewn animal skins and cradling a lyre in her arms. Her hair, a pale, lustrous white, cascades over her shoulders, and her eyes rest closed as she plucks the lyre's strings. A haunting refrain parts her lips as her body gently sways, her song continuing without acknowledgment for your approach.
+<div class="description">
+<p>A woman sits alone on the rocky shore, clad in finely sewn animal skins and cradling a lyre in her arms. Her hair, a pale, lustrous white, cascades over her shoulders, and her eyes rest closed as she plucks the lyre's strings. A haunting refrain parts her lips as her body gently sways, her song continuing without acknowledgment for your approach.</p>
+</div>
 
 If the players approach, they can see the two stolen spell scrolls and the three vials of perfume sitting on a rock next to her. One of the vials has been uncorked, but seems otherwise unused.
 
 If the players allow Bianca to finish, her song concludes:
 
-> [!quote]+ **Læs højt**
-> Near enough, his amber eye gleams\
-> My feet betray the better of me\
-> A silver-lit path that wanders my dreams\
-> His shadowed gaze shall guide me\
-> Ever on.\
-> Run\
-> Leap\
-> Still he flees\
-> But now the sky's around us\
-> We're soaring\
-> Falling\
-> Don't look down\
-> Don't look down\
-> Don't look down\
-> Don't look down\
-> Don't look down
+<div class="description" style="text-align: center;">
+<p>Near enough, his amber eye gleams
+<br>My feet betray the better of me
+<br>A silver-lit path that wanders my dreams
+<br>His shadowed gaze shall guide me
+<br>
+<br>Ever on.
+<br>
+<br>Run
+<br>Leap
+<br>Still he flees
+<br>But now the sky's around us
+<br>We're soaring
+<br>Falling
+<br>
+<br>Don't look down
+<br>Don't look down
+<br>Don't look down
+<br>Don't look down
+<br>Don't look down</p>
+</div>
 
 Whether the players interrupt her or allow her to finish, Bianca greets them with some surprise and warmth and asks whether they’re the owners of the wagon beside the tower.
 
 ![[Bianca Stoyanovich.png]]
-<span class="credit">"[[Non-Player Characters#Bianca Stoyanovich|Bianca Stoyanovich]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Bianca Stoyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: [[Non-Player Characters#Bianca Stoyanovich|Bianca Stoyanovich]]**
+> [!profile]+ **Profile: Bianca Stoyanovich**
 > **Roleplaying Information**
 > ***Resonance.*** When the players first meet her, Bianca should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
 > 
@@ -106,7 +120,7 @@ Bianca can share the following information if asked:
 
 If the players ask about Bianca's husband, she is willing to share the following information:
 
-* Thirteen years ago, Bianca was the daughter of a wealthy family. She forfeited her inheritance, however, when she fell in love with a brawny and strapping young logger named [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]]. Against her parents' wishes, she fled from her comfortable life to live with him in a cottage in the nearby woods.
+* Thirteen years ago, Bianca was the daughter of a wealthy family. She forfeited her inheritance, however, when she fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents' wishes, she fled from her comfortable life to live with him in a cottage in the nearby woods.
 * While "the vampire" slept, the wilds were more peaceful—but ever since Strahd awoke, Kiril has been "haunted—not by any ghost, but by his own rage." (If the players ask what Kiril is enraged by, Bianca states simply and soberly: "A lack of power. An absence of control.")
 * Bianca is horrified if any of the players suggest—even implicitly—that Kiril might have harmed her, vowing that he "would *never* harm a hair on her head." She confesses, however, that he seems to be "trapped in a whirlwind of self-destruction, lashing out at himself and others." 
 * "Every week, that . . . rage seems to devour ever-more of him," she adds quietly. "I don't know how much of the man I married is still left inside."
@@ -132,13 +146,13 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 > Players who show sympathy and compassion for Bianca's marital troubles, share their own experiences with a similar situation, and succeed on a DC 20 Charisma (Persuasion) check can convince her to share the information in **Bianca's Fall** below. (Bianca doesn't know the information regarding Ezmerelda, Ludmilla, or what Kiril did in Berez.) Players who subsequently succeed on an additional DC 15 Charisma (Persuasion) check can also convince Bianca to guide them to Mother Night's shrine when they enter the den.
 
 > [!lore]+ **Bianca’s Fall**
-> Thirteen years ago, Bianca—a twenty-one-year-old **noble**—fell in love with a brawny and strapping young logger named [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]]. Against her parents’ wishes, she fled from her life of privilege and wealth and became Kiril’s wife, living with him in a small, humble cottage in the nearby woods. They were poor, but happy—or so Bianca thought.
+> Thirteen years ago, Bianca—a twenty-one-year-old **noble**—fell in love with a brawny and strapping young logger named Kiril Stoyanovich. Against her parents’ wishes, she fled from her life of privilege and wealth and became Kiril’s wife, living with him in a small, humble cottage in the nearby woods. They were poor, but happy—or so Bianca thought.
 >
 > Eleven years ago, Kiril was bitten by a rogue **werewolf**—a defector from the Barovian werewolf pack—and infected with the curse of lycanthropy. Bianca, desperate to pierce Kiril’s shroud of guilt and self-loathing, tracked him down on the night of his transformation and allowed him to bite her, spreading the curse to her as well.
 >
 > It wasn’t long after that the two were found by Skennis, the aging leader of the Barovian werewolf pack, who had taken the pack beyond the Mists. At Skennis’s invitation, Bianca and Kiril returned with the pack to Barovia, where Emil and Zuleika Toranescu—a mated pair of born werewolves—attempted to teach them how to control their curse.
 >
-> Bianca made slow, but steady progress, and Zuleika praised her efforts. A jealous and impatient Kiril, however, found Emil’s training too slow for his liking. After learning of the secret of mastering his curse from one of [[Non-Player Characters#Baba Lysaga|Baba Lysaga]]’s witches, however, Kiril secretly killed and devoured a merchant traveling the road from Vallaki to Krezk.
+> Bianca made slow, but steady progress, and Zuleika praised her efforts. A jealous and impatient Kiril, however, found Emil’s training too slow for his liking. After learning of the secret of mastering his curse from one of Baba Lysaga’s witches, however, Kiril secretly killed and devoured a merchant traveling the road from Vallaki to Krezk.
 >
 > From that point forward, Kiril controlled his curse with ease. Emil and Zuleika harbored their own suspicions about his expedited growth, but chose not to raise them for fear of stoking division.
 >
@@ -146,9 +160,9 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 >
 > Enraged by his defeat, Kiril cut a bloody swathe across the lands beyond the mists. As he did, he acquired the nickname “the Black Terror"—so named for his distinctive charcoal-colored fur—and drew the attention of novice monster hunter Ezmerelda d’Avenir. Ezmerelda tracked Kiril to Barovia and sought to trap him, but Kiril outwitted her and devoured her leg. Only the timely arrival of Dmitri and Anna Krezkov saved Ezmerelda’s life, driving Kiril off as he retreated to the werewolves’ den.
 >
-> Three months ago, when Strahd awoke and Emil began discussing abandoning Barovia for greener pastures, Kiril saw a door of opportunity opening to him. He returned once more to the village of Berez, where he begged [[Non-Player Characters#Baba Lysaga|Baba Lysaga]] for Strahd’s favor and the strength to claim Emil’s place. 
+> Three months ago, when Strahd awoke and Emil began discussing abandoning Barovia for greener pastures, Kiril saw a door of opportunity opening to him. He returned once more to the village of Berez, where he begged Baba Lysaga for Strahd’s favor and the strength to claim Emil’s place. 
 >
-> Spying an opportunity to place the werewolf pack squarely beneath Strahd’s thumb, Lysaga granted Kiril a witch’s brew that bestowed upon him a monstrous transformation, grossly empowering his werewolf’s curse while driving his pride and bloodlust to new, terrifying heights. Through the aid of [[Non-Player Characters#Ludmilla Vilisevic|Ludmilla Vilisevic]], one of Strahd’s vampiric brides, she also won Kiril the loyalty of a pack of Strahd’s **dire wolves**, which flanked him upon his return to the den.
+> Spying an opportunity to place the werewolf pack squarely beneath Strahd’s thumb, Lysaga granted Kiril a witch’s brew that bestowed upon him a monstrous transformation, grossly empowering his werewolf’s curse while driving his pride and bloodlust to new, terrifying heights. Through the aid of Ludmilla Vilisevic, one of Strahd’s vampiric brides, she also won Kiril the loyalty of a pack of Strahd’s **dire wolves**, which flanked him upon his return to the den.
 >
 > There, Kiril once more challenged Emil for the leadership of the pack—and this time, Kiril won. Victory did not sate Kiril’s appetite, however. Instead, Bianca has watched him sink ever-deeper into a haze of jealousy, rage, and paranoia. She fears for him, for herself, and for all of the people of Barovia who might fall prey to his madness.
 >
@@ -161,16 +175,18 @@ Whether the players allow her to keep the lyre or not, Bianca bids them farewell
 
 Once she has obtained any useful materials from her wagon, Ezmerelda advises the players that they will need to stake out the den until the pack has departed for the night, then move quickly to determine whether Ilya Krezkov is imprisoned inside. (If the players suggest a direct assault, Ezmerelda wryly advises them that challenging a pack of nearly a dozen werewolves and half again as many ordinary wolves would be a fool’s errand at best, and suicidal at worst.)
 # L3. Svalich Woods
+
+The journey from Lake Baratok to the werewolf den is three miles long and takes one hour.
+
 As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in the Svalich Wood to the west of Lake Baratok. Read:
 
-> [!quote]+ **Læs højt**
-> Ezmerelda leads you to the brink of a small hollow—a natural depression in the forest floor. Its edges are framed by towering trees, their black trunks framing glimpses of Lake Baratok's rocky shore. Mount Baratok looms above the landscape in the distance, its cliffs and rocky spurs a stark gray against the darkened treetops.
->
-> The ground at the base of the hollow is covered by a thin shroud of mist over a blanket of fallen leaves and moss. On its northern side, an intricate network of large, gnarled tree roots creates an arched, cave-like structure.
->
-> The air is cool and damp here, carrying the earthy scent of wet soil and decaying leaves. The hollow itself is silent, save for the faint rustling of leaves and the distant lapping of water against the shore.
+<div class="description">
+<p>Ezmerelda leads you to the brink of a small hollow—a natural depression in the forest floor. Its edges are framed by towering trees, their black trunks framing glimpses of Lake Baratok's rocky shore. Mount Baratok looms above the landscape in the distance, its cliffs and rocky spurs a stark gray against the darkened treetops.</p>
+<p>The ground at the base of the hollow is covered by a thin shroud of mist over a blanket of fallen leaves and moss. On its northern side, an intricate network of large, gnarled tree roots creates an arched, cave-like structure. </p>
+<p>The air is cool and damp here, carrying the earthy scent of wet soil and decaying leaves. The hollow itself is silent, save for the faint rustling of leaves and the distant lapping of water against the shore.</p>
+</div>
 
-Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in [[pdfs/Curse of Strahd.pdf#page=202|Approaching the Den (p. 201)]].
+Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in <span class="citation">Approaching the Den (p. 201)</span>.
 
 Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
 
@@ -185,18 +201,16 @@ Ezmerelda suggests that the party station one person on the edge of the hollow t
 ### L3a. Campfire Tales
 As night falls, Ezmerelda invites the players and Ireena to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
 
-At the players’ choice, Ezmerelda can share one or both of the following stories when her turn arises: the tale of how she came to know [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]], or the tale of how she lost her leg.
+At the players’ choice, Ezmerelda can share one or both of the following stories when her turn arises: the tale of how she came to know Dr. Rudolph van Richten, or the tale of how she lost her leg.
 
 ***Rudolph van Richten.*** Ezmerelda tells the story as follows:
 
-> [!quote]+ **Læs højt**
-> "It was nearly two decades ago that I first saw him. My family was travelling with the Radanavich clan—a Vistani caravan—when a Radanavich child fell deathly ill. The child’s parents took him to a local doctor—a man by the name of Rudolph van Richten.
->
-> "Van Richten did all he could to keep the boy alive. Three days later, however, he passed away—and his father, a leader among the Radanaviches, blamed Van Richten for his child's death. That night, aided by four others, he stole into Van Richten's family home and kidnapped Van Richten's own son in vengeance. My parents awoke me at midnight, and we departed at once. It was only later that I learned what cargo we were carrying—and that my own parents had helped acquire him.
->
-> "Van Richten himself, desperate to rescue him, tracked our caravan down and bound my parents to a tree. After extracting his son's location, however, he departed without shedding a drop of their blood—an act of mercy I have never forgotten.
->
-> "Ten years later, I ran from home, seeking to follow in Van Richten's footsteps. I found him a man changed—scarred and haunted by the years that had passed. His kindness, however, had never faded, and he agreed to take me on as his student. I spent two years with him, learning all I could about monsters and how to fight them, before we ultimately parted ways."
+<div class="description">
+<p>"It was nearly two decades ago that I first saw him. My family was travelling with the Radanavich clan—a Vistani caravan—when a Radanavich child fell deathly ill. The child’s parents took him to a local doctor—a man by the name of Rudolph van Richten.</p>
+<p>"Van Richten did all he could to keep the boy alive. Three days later, however, he passed away—and his father, a leader among the Radanaviches, blamed Van Richten for his child's death. That night, aided by four others, he stole into Van Richten's family home and kidnapped Van Richten's own son in vengeance.  My parents awoke me at midnight, and we departed at once. It was only later that I learned what cargo we were carrying—and that my own parents had helped acquire him.</p>
+<p>"Van Richten himself, desperate to rescue him, tracked our caravan down and bound my parents to a tree. After extracting his son's location, however, he departed without shedding a drop of their blood—an act of mercy I have never forgotten.</p>
+<p>"Ten years later, I ran from home, seeking to follow in Van Richten's footsteps. I found him a man changed—scarred and haunted by the years that had passed. His kindness, however, had never faded, and he agreed to take me on as his student. I spent two years with him, learning all I could about monsters and how to fight them, before we ultimately parted ways."</p>
+</div>
 
 After finishing her story, Ezmerelda's expression darkens. "The night I departed his company, we exchanged harsh words—words I'd prefer to forget." She sighs. "Even so, when I received his final letter, I came at once to Barovia, praying that he would not face Zarovich alone."
 
@@ -204,14 +218,12 @@ If asked, Ezmerelda can share that the Radanaviches sold Van Richten’s son—a
 
 ***The Black Terror.*** Ezmerelda tells the story as follows:
 
-> [!quote]+ **Læs højt**
-> "It was a year after I'd parted ways with Dr. Van Richten, and I felt as though no monster could challenge me. That's when I heard whispers of a beast known as the Black Terror—a werewolf that was the bane of several villages skirting the dark forests of Darkon. I vowed to track it and put an end to its reign of terror.
->
-> "It took many nights of investigation and research, but I finally caught sight of the beast at the edge of a shadowed swamp, its fangs stained red with the blood of its latest meal. My heart raced as I watched it slip into the mists—no ordinary fog, but the veil that shrouds the worlds themselves—and I knew that if I failed to pursue it, I might be forced to begin my hunt anew.
->
-> "In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.
->
-> "In that moment, I knew I would die, alone and powerless—until Dmitri and Anna emerged from the woods, cold silver flashing in their hands. The werewolf fled, and the Krezkovs brought me back to their home, where they nursed me back to health. When I recovered, they took me to Vallaki and commissioned the local toymaker, a brilliant man called Blinsky, to craft me a new leg. To this day, this leg reminds me of the importance of caution—and the dangers of unchecked zeal."
+<div class="description">
+<p>"It was a year after I'd parted ways with Dr. Van Richten, and I felt as though no monster could challenge me. That's when I heard whispers of a beast known as the Black Terror—a werewolf that was the bane of several villages skirting the dark forests of Darkon. I vowed to track it and put an end to its reign of terror.</p>
+<p>"It took many nights of investigation and research, but I finally caught sight of the beast at the edge of a shadowed swamp, its fangs stained red with the blood of its latest meal. My heart raced as I watched it slip into the mists—no ordinary fog, but the veil that shrouds the worlds themselves—and I knew that if I failed to pursue it, I might be forced to begin my hunt anew.</p>
+<p>"In my arrogance, I thought I could handle whatever lay beyond. I was a Vistani—a born wanderer of the Mists—and a student of Rudolph van Richten himself. I plunged ahead without a second thought—and the Black Terror ambushed me, springing from the gloom with claws and teeth. He tore off my leg below the knee, my bright blood staining his charcoal hide.</p>
+<p>"In that moment, I knew I would die, alone and powerless—until Dmitri and Anna emerged from the woods, cold silver flashing in their hands. The werewolf fled, and the Krezkovs brought me back to their home, where they nursed me back to health. When I recovered, they took me to Vallaki and commissioned the local toymaker, a brilliant man called Blinsky, to craft me a new leg. To this day, this leg reminds me of the importance of caution—and the dangers of unchecked zeal."</p>
+</div>
 
 When her story ends, Ezmerelda gazes into the flames. "I owe the Krezkovs a debt I can never repay," she says softly. "But finding Ilya and returning him home, safe and sound—that would be a start."
 
@@ -219,33 +231,34 @@ Ezmerelda isn’t sure whether the Black Terror still lingers in Barovia. “I v
 # L4. Werewolf Den
 One hour after nightfall, the majority of the werewolf pack departs the den. Read:
 
-> [!quote]+ **Læs højt**
-> The night stirs as several large, dark shapes emerge from beneath the mountain crags. One among them towers above the others, its bulky body easily twice the size of theirs.
->
-> The pack turns south, then west, loping along the shoreline of Lake Baratok until its members vanish into the dark, clustered trees of the Svalich Wood.
+<div class="description">
+<p>The night stirs as several large, dark shapes emerge from beneath the mountain crags. One among them towers above the others, its bulky body easily twice the size of theirs.</p>
+<p>The pack turns south, then west, loping along the shoreline of Lake Baratok until its members vanish into the dark, clustered trees of the Svalich Wood.</p>
+</div>
 
 > [!lore]+ **Members of the Pack**
 > At the time the players first arrive at the werewolf den, the pack contains the following werewolves:
 > 
-> * [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]], the pack leader, and his wife, [[Non-Player Characters#Bianca Stoyanovich|Bianca Stoyanovich]]
+> * Kiril Stoyanovich, the pack leader, and his wife, Bianca Stoyanovich
 > * Six long-time members of the pack formerly loyal to Emil Toranescu, who now follow Kiril out of fear of him and Strahd
 > * Four werewolves infected by Kiril within the past ten weeks, who follow Kiril slavishly and who embraced the curse through cannibalizing innocent humans as he did.
 > 
 > When leaving Barovia, Kiril takes only the long-time members of the pack with him to hunt, leaving his four bloodthirsty lackeys behind to supervise and protect the den. Kiril doesn't allow the long-time members of the pack to eat everything they hunt, and has threatened to dismember or kill them if they dare touch anything more than the scraps he leaves behind.
 
-As the players approach, the exterior of the den is largely as described in [[pdfs/Curse of Strahd.pdf#page=202|Approaching the Den (p. 201)]]. However, add the following text to the end of that description:
+As the players approach, the exterior of the den is largely as described in <span class="citation">Approaching the Den (p. 201)</span>. However, add the following text to the end of that description:
 
-> [!quote]+ **Læs højt**
-> An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.
+<div class="description">
+<p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>
+</div>
 
 A successful DC 12 Wisdom (Medicine) check reveals that the elk's throat was torn away by a single massive set of jaws, easily large enough to devour a humanoid's torso whole.
 
 > [!info]+ **Interior Lighting**
 > No torches line the walls of the cave. Instead, small clusters of glowing yellow fungus line the walls in their place, each cluster providing dim light in a 5-foot-radius.
 ## L4a. Cave Mouth & Guard Post
-[[pdfs/Curse of Strahd.pdf#page=204|<em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em>]]
+<span class="citation"><em>This area corresponds to Z1. Cave Mouth (p. 203) and Z2. Guard Post (p. 203).</em></span>
 
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=204|Z1. Cave Mouth (p. 203)]] and [[pdfs/Curse of Strahd.pdf#page=204|Z2. Guard Post (p. 203)]]. However, revise the description of this area to read as follows:
+This area is largely as described in <span class="citation">Z1. Cave Mouth (p. 203)</span> and <span class="citation">Z2. Guard Post (p. 203)</span>. However, revise the description of this area to read as follows:
 
 <div class="description">
 <p>The open jaws of the wolf's head form a fifteen-foot-high canopy of rock over the cave mouth, held up by natural pillars of rock. The ceiling rises to a height of twenty feet inside the cave. Small clusters of amber light dot the walls, casting a faint glow across the cavern floor.</p>
@@ -259,34 +272,34 @@ Azianka and Davanka are restless, and can easily be lured from the cave mouth by
 
 If the players enter the cave mouth while Azianka and Davanka are present, the two women demand they identify themselves, then thank them for bringing "fresh meat" right to their doorstep. (Due to the werewolves' ***keen hearing and smell*** features, invisible creatures can't hide from the werewolves unless also shielded by *pass without trace* or similar magic.) The two **werewolves** (as described in [[Bestiary]]) then toss aside their spears, assume their hybrid forms, and attack. On initiative count 20 of combat, both women also howl to raise the alarm, summoning the two **werewolf brawlers** and six **wolves** from [[#L4d. Deep Caves]], which arrive after 1 round.
 
-The sounds of combat here, or within 20 feet of the cave mouth, alerts the wolves and **werewolf brawlers** in [[#L4d. Deep Caves]], who arrive after 1 round to investigate.
-
 Replace the wolves' ***bite*** attack with the following action options:
 
 * ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
 * ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
 
 ## L4b. Underground Spring
-[[pdfs/Curse of Strahd.pdf#page=204|<em>This area corresponds to Z4. Underground Spring (p. 203).</em>]]
+<span class="citation"><em>This area corresponds to Z4. Underground Spring (p. 203).</em></span>
 
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=204|Z4. Underground Spring (p. 203)]]. However, the area is lit by yellow clumps of fungus, not torches.
+This area is largely as described in <span class="citation">Z4. Underground Spring (p. 203)</span>. However, the area is lit by yellow clumps of fungus, not torches.
 
 Additionally, if the players linger or delve deeper into this chamber, read:
 
-> [!quote]+ **Læs højt**
-> A soft ripple runs across the surface of the dark pool.
+<div class="description">
+<p>A soft ripple runs across the surface of the dark pool.</p>
+</div>
 
 A creature that approaches the pool sees its reflection distorted. Instead of its own reflection, the creature sees a monstrous image that reflects its worst impulses, urges, and desires. For example:
 
 * Ezmerelda sees her own reflection, but with black sclera and golden irises, predatory canines, and oily black fur covering her skin, with a terrible snarl splitting her face (literally) from ear to ear. (This image reflects Ezmerelda’s hatred of monsters, and her subconscious fear that her protective nature will turn to cruelty and zealotry.)
 * Ireena sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.)
 ## L4c. Wolf Den
-[[pdfs/Curse of Strahd.pdf#page=204|<em>This area corresponds to Z3. Wolf Den (p. 203).</em>]]
+<span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
 
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=204|Z3. Wolf Den (p. 203)]]. However, add the following text to the end of the area’s description:
+This area is largely as described in <span class="citation">Z3. Wolf Den (p. 203)</span>. However, add the following text to the end of the area’s description:
 
-> [!quote]+ **Læs højt**
-> An old, scrawny wolf lies curled up by the fire, its head turned away from you.
+<div class="description">
+<p>An old, scrawny wolf lies curled up by the fire, its head turned away from you.</p>
+</div>
 
 The wolf is Skennis, an old, blind **werewolf** with 36 hit points in wolf form. No other **wolves** are in this cave.
 
@@ -303,24 +316,25 @@ If a player approaches or inspects the wolf, read:
 
 Skennis is not asleep, only dozing. The players must succeed on a group DC 14 Dexterity (Stealth) check to pass without alerting him. If the group check fails, read:
 
-> [!quote]+ **Læs højt**
-> The old wolf's head snaps upwards, revealing three swollen cuts that slice across its cheek, their edges crusted with dried blood. Its eyes, milky white and unseeing, stare blankly ahead as its nostrils flare, its scarred ears twitching rapidly as it sniffs the cold air. Its ears flatten against its skull, and it releases a low, cautious growl.
+<div class="description">
+<p>The old wolf's head snaps upwards, revealing three swollen cuts that slice across its cheek, their edges crusted with dried blood. Its eyes, milky white and unseeing, stare blankly ahead as its nostrils flare, its scarred ears twitching rapidly as it sniffs the cold air. Its ears flatten against its skull, and it releases a low, cautious growl.</p>
+</div>
 
 The sound alerts Skennis to the presence of intruders, but not their identities or locations. The players must succeed on an additional group DC 15 Dexterity (Stealth) check to exit the room without drawing Skennis’s attention or ire. Otherwise, the players can quiet Skennis by healing his cuts or offering him food, which he accepts with a soft, grateful whine. (The cuts were left by Kiril, who “punished" Skennis for attempting to steal a mouthful of goat meat the previous night.)
 
-If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind [[pdfs/Curse of Strahd.pdf#page=205|Z6. Kiril's Cave (p. 204)]], and emerges into [[pdfs/Curse of Strahd.pdf#page=206|Z8. Ring of Stone (p. 205)]]. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
+If the players treat him with kindness—rather than simply attempting to pacify him—Skennis (remaining in wolf form) motions for them to wait, then proceeds through [[#L4d. Deep Caves]], ascends the tunnel behind <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and emerges into <span class="citation">Z8. Ring of Stone (p. 205)</span>. Upon arriving there, he briefly pauses, then barks several times in false alarm, summoning the six **wolves** from [[#L4d. Deep Caves]]. (The two **werewolf brawlers** there are awoken by the disturbance, but continue to doze in their cave, lowering the DC of any Dexterity (Stealth) check made to avoid their notice to 11.)
 
 If the players remain in Skennis’s cave without feeding, healing, pacifying, incapacitating, or hiding from him, his growl escalates to a rumbling snarl. One round later, he releases a sharp, piercing howl that echoes across the walls of the cave and into the valley beyond.
 
 Skennis’s howl alerts Ilya and Zuleika in [[#L4e. Shrine of Mother Night]], the two **werewolf brawlers** and six **wolves** in [[#L4d. Deep Caves]], Bianca in **Z8. Ring of Stone**, and Azianka and Davanka (if still alive and within earshot of the den). The werewolf brawlers and wolves arrive after one round, Azianka and Davanka arriving at least two rounds later.
 ## L4d. Deep Caves
-[[pdfs/Curse of Strahd.pdf#page=204|<em>This area corresponds to Z5. Deep Caves (p. 203).</em>]]
+<span class="citation"><em>This area corresponds to Z5. Deep Caves (p. 203).</em></span>
 
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=204|Z5. Deep Caves (p. 203)]]. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from [[pdfs/Curse of Strahd.pdf#page=205|Z7. Shrine of Mother Night (p. 204)]].
+This area is largely as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. However, replace the word “torchlit" in the description with “yellow-lit." In addition, players who pass through this area can see flickering torchlight emanating from <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>.
 
-Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, [[pdfs/Curse of Strahd.pdf#page=204|Z5a. South Cave (p. 203)]] is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while [[pdfs/Curse of Strahd.pdf#page=204|Z5b. North Cave (p. 203)]] is occupied by six alert **wolves** loyal to Strahd and Kiril.
+Bianca, Wensencia, and Kellen are not present when the players arrive. Instead, <span class="citation">Z5a. South Cave (p. 203)</span> is occupied by two slumbering **werewolf brawlers** in wolf form named Kobal Mironovich and Radovan Lipsiege, while <span class="citation">Z5b. North Cave (p. 203)</span> is occupied by six alert **wolves** loyal to Strahd and Kiril.
 
-To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in [[pdfs/Curse of Strahd.pdf#page=204|Z5. Deep Caves (p. 203)]]. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
+To sneak through this area without disturbing the wolves, the players must succeed on a DC 19 Dexterity (Stealth) check, made with disadvantage as described in <span class="citation">Z5. Deep Caves (p. 203)</span>. If they hear or see a potential intruder, the wolves begin growling and barking, awakening Kobal and Radovan. The werewolves and wolves then move to investigate the source of the disturbance. Once they've cornered any intruders, Kobal and Radovan assume their hybrid forms and attack.
 
 <div class="statblock">
 <h2>Werewolf Brawler</h2>
@@ -379,17 +393,17 @@ To sneak through this area without disturbing the wolves, the players must succe
 </div>
 
 > [!info]+ **Where Wolves?**
-> When the players first infiltrate the Werewolf Den, Bianca is sitting alone in [[pdfs/Curse of Strahd.pdf#page=206|Z8. Ring of Stone (p. 205)]], descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
+> When the players first infiltrate the Werewolf Den, Bianca is sitting alone in <span class="citation">Z8. Ring of Stone (p. 205)</span>, descending to the main cavern only if Skennis raises the alarm. Wensencia no longer exists as a member of the werewolf pack, while Kellen has been made an adult member of the pack and a member of Kiril's raiding party.
 
 ## L4e. Shrine of Mother Night
-[[pdfs/Curse of Strahd.pdf#page=205|<em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em>]]
+<span class="citation"><em>This area corresponds to Z7. Shrine of Mother Night (p. 204).</em></span>
 
-This area is largely as described in *Z7. Shrine of Mother Night*. However, there is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. Additionally, revise the area's description to read as follows:
+This area is largely as described in <span class="citation">Z7. Shrine of Mother Night</span>. However, there is no torch or luminescent fungi in or adjoining the chamber’s southern alcove. Additionally, revise the area's description to read as follows:
 
-> [!quote]+ **Læs højt**
-> Rough-hewn stairs lead down to a torchlit cave. From a small crack in the chamber ceiling, a shaft of moonlight illuminates a crude wooden statue standing against the far wall, bearing the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Around its neck hangs a gleaming platinum medallion in the shape of a sunburst, a large ruby set in its center, and mounds of gold, silver, and gemstones are piled high around its base. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall. Gold coins have been driven into the empty sockets where their eyes should be.
->
-> Two wooden cages flank the statue, their lids held shut with heavy rocks. In the left-side cage kneels a youth with sunken eyes and loose, tattered clothing, a rotting human leg laid across the ground before his cage. In the right-side cage, an amber-eyed woman wearing shredded clothes sits with her legs crossed, her shaggy, rope-like strands of hair tied back behind a black bandana. Silver collars around their necks are chained to the wall behind them, each collar’s band carved with patterns of wicked-looking thorns.
+<div class="description">
+<p>Rough-hewn stairs lead down to a torchlit cave. From a small crack in the chamber ceiling, a shaft of moonlight illuminates a crude wooden statue standing against the far wall, bearing the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Around its neck hangs a gleaming platinum medallion in the shape of a sunburst, a large ruby set in its center, and mounds of gold, silver, and gemstones are piled high around its base. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall. Gold coins have been driven into the empty sockets where their eyes should be.</p>
+<p>Two wooden cages flank the statue, their lids held shut with heavy rocks. In the left-side cage kneels a youth with sunken eyes and loose, tattered clothing, a rotting human leg laid across the ground before his cage. In the right-side cage, an amber-eyed woman wearing shredded clothes sits with her legs crossed, her shaggy, rope-like strands of hair tied back behind a black bandana. Silver collars around their necks are chained to the wall behind them, each collar’s band carved with patterns of wicked-looking thorns.</p>
+</div>
 
 The medallion is the *Holy Symbol of Ravenkind*. The youth is Ilya Krezkov, a thirteen-year-old **werewolf** with 36 hit points. The woman is Zuleika Toranescu, Ilya’s aunt and a **werewolf** priestess of Mother Night. Both Ilya and Zuleika are starving and have three levels of exhaustion as a result.
 
@@ -411,17 +425,17 @@ Players who saw Ilya's sketch of Zuleika in [[Arc K - The Fallen Abbey#Ilya’s 
 > Upon learning that Ilya was Zuleika’s nephew, Kiril crafted a cruel plan. He imprisoned Ilya in a collar and cage and began to starve him of food, as he had Skennis and Zuleika. Eventually, Kiril knew, Ilya would have no choice but to consume the human flesh that had been left by his cage—and, when Ilya was ready, kill and devour a human captive, thereby embracing his curse the same way Kiril had.
 
 > [!item]+ **Silverthorn Collar**
-> Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by [[Non-Player Characters#Baba Lysaga|Baba Lysaga]], the swamp witch of Berez. While worn by a lycanthrope, the lycanthrope can't regenerate. In addition, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
+> Both Zuleika and Ilya wear *silverthorn collars*, magic items crafted for Kiril by Baba Lysaga, the swamp witch of Berez. While worn by a lycanthrope, the lycanthrope can't regenerate. In addition, the interior of a *silverthorn* collar extrudes tiny silver thorns each time the lycanthrope attempts to transform, dealing 1 piercing damage and preventing the transformation.
 >
 > Each collar is magically locked and bears a single, small keyhole, the key to which Kiril wears on a cord around his neck. A locked collar can also be opened with a successful DC 25 Strength check or a successful DC 25 Dexterity (Thieves’ Tools) check. However, each time a creature attempts to open a collar without first unlocking it, or attempts to pick the lock without using the proper key, that creature must make a DC 17 Dexterity saving throw or take 7d8 piercing damage. Whether the creature succeeds or fails on the saving throw, the collar’s wearer also immediately takes 31 (7d8) piercing damage as the collar extrudes large thorns that pierce the wearer’s neck.
 >
 > The spells *dispel magic* and *knock* have no effect on either collar. In addition, if a prisoner teleports while wearing the collar, the collar teleports with its wearer.
 
 > [!info]+ **Collars and Anti-Magic**
-> A _silverthorn collar_ is affected normally by [[pdfs/Curse of Strahd.pdf#page=168|Khazan's Spell Drain (p. 167)]] at [[pdfs/Curse of Strahd.pdf#page=168|Chapter 11: Van Richten's Tower (p. 167)]]. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
+> A _silverthorn collar_ is affected normally by <span class="citation">Khazan's Spell Drain (p. 167)</span> at <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>. If her collar is removed, Zuleika is glad to help the players rescue Emil from Castle Ravenloft in [[Arc P - Ravenloft Heist]].
 
 > [!info]+ **The Chains**
-> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in [[pdfs/Player's Handbook.pdf#page=152|Player's Handbook (p. 151)]], with an AC of 19. 
+> The chains connecting Ilya and Zuleika's collars to the cavern wall have the statistics of a *chain (10 feet)*, as described in <span class="citation">Player's Handbook (p. 151)</span>, with an AC of 19. 
 
 When the two prisoners first notice the players, Ilya presses himself against the back of his cage, clearly terrified, while Zuleika watches quietly. Ilya demands to know who the players are and whether they’re members of the werewolf pack.
 
@@ -432,7 +446,7 @@ If the players introduce themselves and act kindly toward him, Ilya is willing t
 
 If the players ask about Zuleika, she introduces herself as Zuleika Toranescu, though she urges the players to keep their voices low. “The pack’s leader may have departed for his hunt," she hisses. “But others may still linger deeper in the den."
 
-If the players ask why she and Ilya have been imprisoned, she tells them truthfully that they have been imprisoned here by [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]], “the leader of this pack." If recognized as Dmitri Krezkov’s sister, she admits to being Ilya’s aunt. "Although," she notes dryly, with a sideways glance toward Ilya, “until recently, I had not seen him in quite some time."
+If the players ask why she and Ilya have been imprisoned, she tells them truthfully that they have been imprisoned here by Kiril Stoyanovich, “the leader of this pack." If recognized as Dmitri Krezkov’s sister, she admits to being Ilya’s aunt. "Although," she notes dryly, with a sideways glance toward Ilya, “until recently, I had not seen him in quite some time."
 
 If identified as a werewolf, Zuleika freely admits to being one. If her humanity is questioned as a result, she tilts her head and asks, curiously, “You judge me for a condition that I did not ask for, and which I have never used in malice?"
 
@@ -443,7 +457,7 @@ If told that the players have been sent on behalf of Dmitri and Anna Krezkov, Il
  If the players treat Ilya with kindness and succeed on a DC 10 Charisma (Persuasion) check, they can convince him to share the following information, which he relays with quiet horror and shame:
 
 * Three weeks ago, a woman resembling Zuleika approached him at the Shrine of the White Sun in Krezk. She identified herself as Zuleika Krezkova, his long-absent aunt, and told him that his father was secretly a **werewolf**—and that his curse had passed to Ilya as well. (Zuleika has steadfastly denied doing so, and insists that someone imitated her appearance for their own purposes—a claim that Ilya has come to believe.)
-* “Zuleika" told Ilya that his curse was a mighty weapon against [[Strahd von Zarovich|Strahd von Zarovich]] and the servants of darkness, but warned him that his parents would soon attempt to suppress that “blessing" before it could emerge. She told him to refuse any *potions of wolfsbane* his parents attempted to feed him, then departed from Krezk.
+* “Zuleika" told Ilya that his curse was a mighty weapon against Strahd von Zarovich and the servants of darkness, but warned him that his parents would soon attempt to suppress that “blessing" before it could emerge. She told him to refuse any *potions of wolfsbane* his parents attempted to feed him, then departed from Krezk.
 * Ilya didn’t believe her, but soon changed his mind when his parents revealed the truth of his heritage mere days later. Determined to keep his family safe from Strahd and his minions, he secretly poured out the *potion of wolfsbane* his parents gave him before his mother locked him and his father away in their cottage’s secret basement.
 * Ilya doesn’t remember what happened next. All he knows is that he awoke in a cage in the den the following morning, with blood staining his mouth. He’s been haunted ever since by the thought of those he may have harmed.
 
@@ -453,15 +467,15 @@ If questioned, Zuleika can share the following information:
 
 * She is a descendant of the Krezkov line, which has long been cursed with werewolf lycanthropy. Thirteen years ago, she met Emil Toranescu, another **werewolf** who taught her to see the beauty in her condition, and to master the beast within through meditation and prayer. When her family rejected her efforts, she fled Krezk and came to live as Emil’s wife as a member of Barovia’s werewolf pack—and, as her spiritual efforts progressed, a priestess to Mother Night, the divine patron of lycanthropes.
 * Until recently, the werewolf pack ranged far and wide through the Mists for its hunts. In those days, the pack was a refuge—a family—for those who had been outcast from society for fear of their curse.
-* One of those outcasts was [[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]], a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
+* One of those outcasts was Kiril Stoyanovich, a young **werewolf** who joined the pack alongside his wife, Bianca. Where Zuleika had endured years of meditation to master her curse, however, Kiril was impatient and thirsty to prove himself. “There is a way for a werewolf to embrace his curse wholeheartedly," she murmurs, “without wisdom or reservation. It is a dark and forbidden thing, and requires its bearer to commit the ultimate taboo: to slay an innocent—one who has done you no wrong—and consume their flesh." 
 * Although she was never able to prove Kiril had done so, his rapid progress roused her suspicions, and she watched warily as he became ever-more reckless, bloodthirsty, and cruel, often ranging far afield to go hunting on his own. Zuleika pitied his wife, Bianca, who often struggled to calm Kiril’s dark moods and rages. “I never asked where she came from," Zuleika says softly. “When we join the pack, we are born anew, leaving the ash of our old lives behind. But I know she gave up much to be with us—and even more to be with him."
 * Five years ago, the pack’s leader—an old **werewolf** named Skennis—stepped down from his position. Although Skennis had chosen Emil, Zuleika’s husband, to succeed him, Kiril challenged Emil for control of the pack. Emil swiftly defeated him, however, and Kiril nursed a grudge against Emil ever since.
-* Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects [[Non-Player Characters#Baba Lysaga|Baba Lysaga]]—the witch of Berez—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.") 
+* Three months ago, shortly after Strahd awoke from his long slumber, Emil began to discuss a plan for departing through the Mists, before Strahd imprisoned them there forever. Not long thereafter, Kiril vanished from the pack for seven full days. When he returned, he was flanked by six of Strahd’s **dire wolves**—and his lycanthropic strength had mutated and grown, leaving him a terrible force to be reckoned with. "He stank of the swamp," Zuleika growls, her lip curling, "and of foul, tainted witchcraft." (If asked, Zuleika can confirm that she suspects Baba Lysaga—the witch of Berez—was somehow involved in Kiril's transformation, which, in her opinion, "left him more curse than man.") 
 * Upon his return, Kiril made his bid for power. “He beat Emil within an inch of his life," Zuleika murmurs, “and bade the dire wolves to carry him away to the castle dungeons, to be punished for his disloyalty." When Zuleika attempted to stop him, Kiril defeated her as well, seizing her holy symbol and imprisoning her in her own shrine..
 
 If asked about the collars, or if the players offer or attempt to remove them, Zuleika can share the following information:
 
-* The collars bear the stink of the swamp witch, [[Non-Player Characters#Baba Lysaga|Baba Lysaga]]. Each time she attempts to transform, they form magical silver thorns that pierce her neck, extinguishing her strength. Each time she or Ilya attempts to remove them, the collars form larger spikes, which dig deep into their necks and threaten to rip out their throats.
+* The collars bear the stink of the swamp witch, Baba Lysaga. Each time she attempts to transform, they form magical silver thorns that pierce her neck, extinguishing her strength. Each time she or Ilya attempts to remove them, the collars form larger spikes, which dig deep into their necks and threaten to rip out their throats.
 * Only Kiril has the key to their collars, which he wears on a cord around his neck made of tanned human sinews beside Zuleika’s wooden holy symbol. He never parts with them or removes them from his neck.
 
 If asked about the shrine, corpses, treasure, or *Holy Symbol of Ravenkind*, or if the players attempt to retrieve the treasure or *Holy Symbol*, Zuleika can share the following warning:
@@ -504,7 +518,7 @@ If the players agree to swear Zuleika's oath and retrieve the *Holy Symbol of Ra
 > 
 > You can also use the holy symbol as a spellcasting focus for your cleric and paladin spells. You gain a +1 bonus to spell attack rolls and to the saving throw DCs of your cleric and paladin spells.
 ### Bianca’s Return
-Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—[[Non-Player Characters#Bianca Stoyanovich|Bianca Stoyanovich]] descends from [[pdfs/Curse of Strahd.pdf#page=206|Z8. Ring of Stone (p. 205)]], passes through [[pdfs/Curse of Strahd.pdf#page=205|Z6. Kiril's Cave (p. 204)]], and approaches [[pdfs/Curse of Strahd.pdf#page=205|Z7. Shrine of Mother Night (p. 204)]]. 
+Partway through the players’ conversation with Zuleika—before the players learn how to free Ilya or obtain the *Holy Symbol of Ravenkind*—Bianca Stoyanovich descends from <span class="citation">Z8. Ring of Stone (p. 205)</span>, passes through <span class="citation">Z6. Kiril's Cave (p. 204)</span>, and approaches <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>. 
 
 Any character with a passive Wisdom (Perception) score of 18 or above hears Bianca pass through the curtain at the rear of Kiril’s Cave. Characters who act swiftly can conceal themselves from view by moving along the southern staircase and succeeding on a DC 20 group Dexterity (Stealth) check. (On a failure, Bianca confronts them atop the southern staircase, obstructing their escape.)
 
@@ -520,7 +534,7 @@ If Bianca doesn’t notice the players, she proceeds as follows, assuming the pl
 * Zuleika grasps the bars of her cage. “He made his choice long ago. You can still find a different path."
 * Bianca lunges for Zuleika’s cage and wraps her claws around the bars, thrusting her muzzle between them. “I gave up *everything* for him. Do you have any idea what I’ve sacrificed to be here?"
 * Zuleika meets Bianca’s gaze without flinching. She then replies, softly, “Do you?"
-* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to [[pdfs/Curse of Strahd.pdf#page=205|Z6. Kiril's Cave (p. 204)]], where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
+* Bianca freezes, then resumes her true human form. She then turns away from Zuleika’s cage, pauses, and tiredly says, “It doesn’t matter. It never did." Bianca then proceeds to <span class="citation">Z6. Kiril's Cave (p. 204)</span>, where she uses her ***shapechange*** feature to assume her white-furred wolf form, curls up on the ground, and stares blankly across the cavern.
 
 If Bianca notices and confronts the players, or if the players make no efforts to conceal themselves or escape, she demands, in a quiet, deadly tone, that they depart the den immediately and never return. If they fail to do so, she threatens to break the _crystal of alarm_ around her neck, summoning Kiril and the rest of the pack back to Barovia. “When Kiril returns," she warns breathlessly, “he’ll skin you alive."
 

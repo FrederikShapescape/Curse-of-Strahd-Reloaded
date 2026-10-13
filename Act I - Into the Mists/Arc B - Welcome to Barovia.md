@@ -6,26 +6,26 @@ At the Blood of the Vine Tavern, the players learn that the village has been und
 
 After successfully defending the barricades, the players learn that Strahd has personally invaded the burgomaster’s mansion, killing Ismark’s father and biting his sister, Ireena. With the village’s burgomaster dead, Strahd formally withdraws the horde from the village, allowing Ismark, Ireena, and the players to pick up the pieces.
 
-The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer [[Non-Player Characters|Madam Eva]] how Strahd can be defeated. Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, [[Non-Player Characters#Father Donavich|Father Donavich]]'s son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as [[Non-Player Characters#Father Donavich|Father Donavich]] requests—or spare him?
+The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer Madam Eva how Strahd can be defeated. Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
 
 > [!design]+ **Design Note: Arrival in Barovia**
-> The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out [[Non-Player Characters|Madam Eva]]’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
+> The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
 # B1. Old Svalich Road
-*<em>This scene takes place in Chapter 2: Area A.</em>*
+<span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
 
 The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
 
-This scene unfolds as described in [[pdfs/Curse of Strahd.pdf#page=34|Old Svalich Road (p. 33)]].
+This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
 # B2. Gates of Barovia
-*<em>This scene takes place in Chapter 2: Area B.</em>*
+<span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
 
-This scene unfolds as described in [[pdfs/Curse of Strahd.pdf#page=35|Gates of Barovia (p. 34)]].
+This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
 
 The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
 # B3. Svalich Woods
-*<em>This scene takes place in Chapter 2: Area C.</em>*
+<span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
 
-This scene begins as described in [[pdfs/Curse of Strahd.pdf#page=35|Svalich Woods (p. 34)]]. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
+This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
 Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
 
@@ -35,13 +35,13 @@ Dalvan's hand holding the compass is splayed out in the direction of a nearby tr
 >
 > In the wake of Strahd's attack on the village of Barovia, one of the survivors—a young man named Dalvan Olensky—was overcome with terror and despair.
 >
-> Determined to find a way free from Barovia, Dalvan traveled to the Vistani encampment at Tser Pool, seeking out the reputed Vistani seer [[Non-Player Characters|Madam Eva]]. There, [[Non-Player Characters|Madam Eva]] read his future in the Tarokka cards, and drew the Horseman—a card that predicted that he would die in the Barovian valley.
+> Determined to find a way free from Barovia, Dalvan traveled to the Vistani encampment at Tser Pool, seeking out the reputed Vistani seer Madam Eva. There, Madam Eva read his future in the Tarokka cards, and drew the Horseman—a card that predicted that he would die in the Barovian valley.
 >
 > Panicked, Dalvan returned to the village of Barovia under cover of night, stole a horse and compass, and set off for the eastern road out of Barovia. When the Svalich Road seemed to end, Dalvan delved into the woods, crossing through the mist and reemerging on the opposite side of the road.
 >
 > A terrified, desperate, and delirious Dalvan repeated the loop thirteen times, his stolen horse expiring from exhaustion halfway through. It wasn't long before Dalvan succumbed to the effects of the Barovian fog as well—though not before inscribing his own epitaph in the form of the carving on the fourth tree.
 >
-> [[Non-Player Characters|Madam Eva]] regrets Dalvan's fate—but as the avatar of the Seeker, she is bound to read the future when asked, and knows that no efforts to escape can unravel a future that she has foreseen.
+> Madam Eva regrets Dalvan's fate—but as the avatar of the Seeker, she is bound to read the future when asked, and knows that no efforts to escape can unravel a future that she has foreseen.
 
 >[!info]+ **Dalvan's Compass**
 >Like all compasses in Barovia, Dalvan's compass behaves strangely as it approaches the vicinity of the edge of the Barovian valley—such as by Yester Hill in [[Arc J - The Stolen Gem]] or toward the peak of Mount Ghakis in [[Arc S - A Sword of Sunlight]]. Because there is no true "magnetic north" beyond the Mists that encircle Barovia, the needle of a compass that approaches the edge of the valley begins to tremble and eventually spin wildly the closer it gets. (This strange behavior ends when the compass is removed from the edge of the valley.)
@@ -67,11 +67,11 @@ If the players follow the footpath in the direction of the arrow, they find that
 If the players then leave Dalvan's corpse and return, they find that both his and the horse's remains have vanished.
 
 > [!design]+ **Design Note: Dalvan’s Fate**
-> Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow [[Non-Player Characters|Madam Eva]]’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
+> Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in [[pdfs/Curse of Strahd.pdf#page=32|Skeletal Rider (p. 31)]] in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at [[Non-Player Characters|Madam Eva]]’s direction to Katarina’s tree and long-lost locket, which the players can use to let [[Non-Player Characters#Varushka|Varushka]]’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
+> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
 # B4. Barovian Overlook
-*<em>This scene takes place in Chapter 2: Area D.</em>*
+<span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
 
 The players emerge from the Svalich Woods one mile and twenty minutes after departing Dalvan's corpse. When they do, read:
 
@@ -88,7 +88,7 @@ The journey from here to the outskirts of the village is two miles long and take
 > [!info]+ **The Fortified Village**
 > The village of Barovia has been heavily fortified to defend against Strahd’s nightly siege. Barricades composed of logs, planks, and broken furniture have been erected at every major entrance into the settlement, with additional obstructions raised in every alleyway or gap between the villagers’ homes. A trench has been dug around the village and planted with sharp stakes, and archers patrol the rooftops at all hours of day and night.
 ## B5a. The Barricade
-This scene largely unfolds as described in [[pdfs/Curse of Strahd.pdf#page=42|Approaching the Village (p. 41)]]. However, modify the description as follows:
+This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
 
 <div class="description">
 <p>As the morning deepens, the overcast skies brightening to a dull, gloomy grey, the outskirts of the village come into clearer view. A wide dirt trench surrounds the settlement, five feet across and just as deep, with hundreds of sharpened wooden stakes thrusting up like jagged teeth from the earth within. Up ahead, beside a tall heap of charred wood, the road continues over a makeshift wooden bridge, the muddy ground beyond giving way to slick, wet cobblestones.</p>
@@ -97,10 +97,10 @@ This scene largely unfolds as described in [[pdfs/Curse of Strahd.pdf#page=42|Ap
 </div>
 
 ![[Ismark.png]]
-<span class="credit">"[[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]], who is largely as described in [[pdfs/Curse of Strahd.pdf#page=44|E2. Blood of the Vine Tavern (p. 43)]]. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
+<span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
 
-> [!profile]+ **Profile: [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]]**
+> [!profile]+ **Profile: Ismark Kolyanovich**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Ismark should inspire flattery with his genuine interest and empathy for the players, sympathy for his guilt and desperation, endearment for his anxiety to step beyond his ancestor's shadow, and gratitude for his friendliness and aid.
@@ -116,7 +116,7 @@ The man is [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]], who 
 >
 > ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
 >
-> ***Relationships.*** Ismark is the adoptive brother of [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]], and the great-grandson of Ismark the Great.
+> ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
 
 As the players approach, Kereza challenges them. Read:
 
@@ -133,12 +133,12 @@ After confirming that the barricade is nearly repaired, Ismark invites the playe
 If the players agree, Muriel follows them to the town square, staying aloft in the air overhead and watching with keen interest.
 
 > [!abstract]+ **The Raven**
-> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in [[pdfs/Curse of Strahd.pdf#page=29|Beliefs and Superstitions (p. 28)]]. (This superstition is shared by all Barovians, not just Vistani.)
+> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
 
 > [!design]+ **Design Note: Entering the Village**
-> This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** [[Non-Player Characters#Muriel Vinshaw|Muriel Vinshaw]] and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
+> This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
 >
-> Muriel will later reappear in [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with [[Non-Player Characters|Madam Eva]], and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
+> Muriel will later reappear in [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with Madam Eva, and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
 ## B5b. The Town Square
 As the players and Ismark pass through the village streets, read:
 
@@ -147,7 +147,7 @@ As the players and Ismark pass through the village streets, read:
 <p>Ismark guides you through a second, larger barricade, manned by grim-faced villagers wielding clubs and spears. Beyond it stands an old, chipped stone statue standing at the center of a small town square, depicting a man wearing leather armor and holding a sword. More than a dozen makeshift tents and campfires have been set up around it, hosting a haggard-looking host of young, old, and sickly-looking villagers.</p>
 </div>
 
-Add the description of the exterior of the Blood of the Vine Tavern, given in [[pdfs/Curse of Strahd.pdf#page=44|E2. Blood of the Vine Tavern (p. 43)]].
+Add the description of the exterior of the Blood of the Vine Tavern, given in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
 
 The tents host the village’s elderly, sick, and children, who have been gathered here as a fortification of last resort. The statue bears a weather-worn plaque at its base, which reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C." (“B.C." stands for “Barovian Calendar.") 
 ![[Ismark the Great.png]]
@@ -155,22 +155,22 @@ The tents host the village’s elderly, sick, and children, who have been gather
 If the players ask about the statue, Ismark can share the following information:
  
 * In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
-* Ismark Antonovich was [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]]'s great-grandfather. Ismark's father, Kolyan, gave him that name in the hopes that he would one day become a great warrior.
+* Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father, Kolyan, gave him that name in the hopes that he would one day become a great warrior.
 ## B5c. The Blood of the Vine Tavern
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=44|E2. Blood of the Vine Tavern (p. 43)]]. However, instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. (Alenka, Mirabel, and Sorvia aren’t present in the tavern, having fled the village for Tser Pool the day before the siege began.)
+This area is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. However, instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. (Alenka, Mirabel, and Sorvia aren’t present in the tavern, having fled the village for Tser Pool the day before the siege began.)
 
 After entering the tavern, Ismark pays Arik to fetch them drinks. As the players sit down with him, Ismark apologizes for the state of the village and asks how they’ve come to arrive in the valley. "You must have a thousand questions," he says sympathetically. "I'd be glad to answer as many as I can."
 
 Ismark can share the following information:
 
-* The players have entered the land of Barovia, a realm surrounded by deadly fog and ruled by [[Strahd von Zarovich|Strahd von Zarovich]], a powerful vampire who slumbered in Castle Ravenloft until recently.
+* The players have entered the land of Barovia, a realm surrounded by deadly fog and ruled by Strahd von Zarovich, a powerful vampire who slumbered in Castle Ravenloft until recently.
 * Outsiders are occasionally spirited into Barovia by the mists. (Ismark has no knowledge of Death House, but vaguely remembers tales of unorthodox ways by which travelers have come to the valley.) There is no escaping Barovia once an outsider has entered it.
 * Just over three months ago, a man named Doru, the son of the village priest, raised a rebellion against the castle, hoping to free the valley from its prison in the mists. Their revolt failed, awakening Strahd from his dormancy and spurring the vampire to vow vengeance upon the village below.
 * Several dozen Barovians fled to the town of Vallaki, almost a day’s travel to the west. The remainder stayed in the village, determined to defend their homes and those who were unable to make the journey.
 * Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
 * Many Barovians fear that the village is doomed. The undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in [[pdfs/Curse of Strahd.pdf#page=44|Roleplaying Ismark (p. 43)]] and [[pdfs/Curse of Strahd.pdf#page=27|Barovian Lore (p. 26)]]. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]], hasn’t yet been bitten by Strahd.)
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
@@ -181,17 +181,17 @@ Shortly after Ismark begins answering the players' questions, read:
 ![[Bildrath_transparent.png]]
 <span class="credit">"Bildrath" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The man is Bildrath Cantemir, the owner of [[pdfs/Curse of Strahd.pdf#page=44|Bildrath's Mercantile (p. 43)]]. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
+The man is Bildrath Cantemir, the owner of <span class="citation">Bildrath's Mercantile (p. 43)</span>. If any of the players appear interested in speaking with him further, he invites them to sit at his table instead to "hear the real story of this bloody land." "The wine's shit," he grunts, shoving a pitcher of wine across the table, "but so's everything else."
 
 If asked about Bildrath's statement about "the last fools that trusted him," Ismark winces. "He's right to hate me," he says quietly. "I asked the other villagers to stay and defend our homes. I was arrogant and foolish—I didn't appreciate just how powerful the Devil and his creatures were." He closes his eyes. "Now dozens of my friends and neighbors are gone—and I'm still here."
 
 Should one or more of the players join him, Bildrath can share the following information:
 
-* Just over three months ago, a pack of would-be "revolutionaries" marched off to Castle Ravenloft to "slay the vampire." Doru, the son of [[Non-Player Characters#Father Donavich|Father Donavich]], the village priest, "filled their heads with fairy tales" of banishing the Mists and bringing the Sun back to Barovia.
+* Just over three months ago, a pack of would-be "revolutionaries" marched off to Castle Ravenloft to "slay the vampire." Doru, the son of Father Donavich, the village priest, "filled their heads with fairy tales" of banishing the Mists and bringing the Sun back to Barovia.
 * None of the revolutionaries ever came back. A few days later, a dusk-skinned elf came to the village and announced that the village had ninety days to make peace with the gods before the lord of Castle Ravenloft—now awoken after a hundred years of slumber—exacted penance for their disobedience.
 * Some villagers left. Many others wanted to leave. However, Ismark delivered a resounding speech in the village square before the statue of Ismark the Great, promising the villagers that those who remained would stand and defend their homes. "The audacity of the bastard," Bildrath sneers. "Standing in front of his great-grandfather's statue like he was worth a *tenth* of him."
-* Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, [[Non-Player Characters#Parriwimple|Parriwimple]], inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
-* Ninety days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them, which left [[Non-Player Characters#Parriwimple|Parriwimple]]—Bildrath's nephew—an orphan.)
+* Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, Parriwimple, inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
+* Ninety days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them, which left Parriwimple—Bildrath's nephew—an orphan.)
 
 When he's regained his composure, Bildrath warns the players that the village is doomed, and likely all of Barovia with it. "There's no sun to bring back," he spits. "No escape from the mists. This is Hell, now and for all eternity. The sooner you lot accept that, the better off you'll be."
 ### Mary's News
@@ -199,13 +199,13 @@ As the players' conversations with [[Non-Player Characters#Ismark Kolyanovich|Is
 
 <div class="description">
 <p>The door to the tavern swings open once more, and a woman steps through, clad in a tattered and threadbare cloak. Her hair, tied into two loops that fall around her neck, is unkempt and tangled, and her wide eyes dart across the room with fearful energy.</p>
-<p>Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen [[Non-Player Characters#Gertruda|Gertruda]] since last night, and Nori isn't in the stable. I think [[Non-Player Characters#Gertruda|Gertruda]]'s gone to Vallaki—alone."</p>
+<p>Her gaze falls upon Ismark, and she steps shakily forward. As her features come into the light, you see that her face is pale, her eyes blotchy, with dried tears staining the flesh across her cheeks. Her voice is a ragged, haunting whisper as she says, "Master Kolyanovich—I apologize for interrupting you and your guests. But I haven't seen Gertruda since last night, and Nori isn't in the stable. I think Gertruda's gone to Vallaki—alone."</p>
 </div>
 
 The tavern immediately falls silent, and Ismark's eyes crease with worry. He gives Mary his condolences, and promises that he will organize a search party to look for her. "If she didn’t make it to Vallaki, we'll find her—and bring her home safely."
 
 > [!abstract]+ **The Search Party**
-> If the players offer to assist the search party in locating [[Non-Player Characters#Gertruda|Gertruda]], Ismark thanks them for their generosity, but assures them that the hunters and trappers he plans to organize know the local roads and woods far better than they, and should be able to skirt alongside the edges of the undead horde without risking much trouble. "The more who accompany them, however," he says apologetically, "the more likely the horde notices their movements and attacks."
+> If the players offer to assist the search party in locating Gertruda, Ismark thanks them for their generosity, but assures them that the hunters and trappers he plans to organize know the local roads and woods far better than they, and should be able to skirt alongside the edges of the undead horde without risking much trouble. "The more who accompany them, however," he says apologetically, "the more likely the horde notices their movements and attacks."
 > 
 > "If you'd like to help, however," he adds, "we can use all hands to organize tonight's defense here." Ismark then makes the request given in [[#Ismark’s Request]].
 
@@ -222,26 +222,26 @@ Unless the players intervene, the following sequence then unfolds:
 
 If the players ask, Mary can share the following information:
 
-* [[Non-Player Characters#Gertruda|Gertruda]] is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, [[Non-Player Characters#Gertruda|Gertruda]] has become fixated on the town of Vallaki, believing that if she could only journey to Vallaki and speak with the Burgomaster, she could convince him to bring aid.
-* Mary has repeatedly forbidden [[Non-Player Characters#Gertruda|Gertruda]] from traveling away from the village. With the advent of the siege, however, [[Non-Player Characters#Gertruda|Gertruda]] has become stubbornly convinced that help from Vallaki is the only way to end the village's suffering.
-* Last night, Mary and [[Non-Player Characters#Gertruda|Gertruda]] had a tumultuous argument that ended with both on poor terms. This morning, Mary woke to find their old horse, Nori, missing from her stall—and [[Non-Player Characters#Gertruda|Gertruda]] nowhere to be found. (Mary believes [[Non-Player Characters#Gertruda|Gertruda]] took Nori in an effort to outrun the zombie horde.)
+* Gertruda is her twenty-one-year-old daughter. Ever since Doru, her betrothed, marched on Castle Ravenloft and failed to return, Gertruda has become fixated on the town of Vallaki, believing that if she could only journey to Vallaki and speak with the Burgomaster, she could convince him to bring aid.
+* Mary has repeatedly forbidden Gertruda from traveling away from the village. With the advent of the siege, however, Gertruda has become stubbornly convinced that help from Vallaki is the only way to end the village's suffering.
+* Last night, Mary and Gertruda had a tumultuous argument that ended with both on poor terms. This morning, Mary woke to find their old horse, Nori, missing from her stall—and Gertruda nowhere to be found. (Mary believes Gertruda took Nori in an effort to outrun the zombie horde.)
 
-A few moments after Bildrath has left, if the players haven't already done so, Ismark turns to comfort Mary. "I promise you," he says, his voice breaking, "That I will do *everything* I can to see that [[Non-Player Characters#Gertruda|Gertruda]] is brought home safely."
+A few moments after Bildrath has left, if the players haven't already done so, Ismark turns to comfort Mary. "I promise you," he says, his voice breaking, "That I will do *everything* I can to see that Gertruda is brought home safely."
 
 Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comforted her), and departs the tavern.
 
-> [!lore]+ **Where's [[Non-Player Characters#Gertruda|Gertruda]]?**
-> [[Non-Player Characters#Gertruda|Gertruda]], despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to get aid from the Burgomaster. [[Non-Player Characters#Gertruda|Gertruda]], however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, [[Non-Player Characters#Gertruda|Gertruda]] politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild.
-> Strahd appeared amused by [[Non-Player Characters#Gertruda|Gertruda]]’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, [[Non-Player Characters#Gertruda|Gertruda]] reluctantly agreed to accompany him.
-> Since then, [[Non-Player Characters#Gertruda|Gertruda]] has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. 
+> [!lore]+ **Where's Gertruda?**
+> Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to get aid from the Burgomaster. Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild.
+> Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
+> Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. 
 ### Ismark’s Request
 After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
 
-If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, [[pdfs/Curse of Strahd.pdf#page=45|E4. Burgomaster’s Mansion (p. 44)]]. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
+If the players agree to aid in the town’s defense, Ismark is deeply grateful. He asks them to first retrieve a crate of “fire bottles" from his sister, Ireena, who is overseeing the defense of the village’s southern perimeter from their home, <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. (Ismark, who has to return to the western barricades to prepare for the return of the dead, can’t take the time to do so himself.) If asked, Ismark can explain that a “fire bottle" is a bottle of distilled wine topped with a rag wick, meant to be lit and hurled at approaching undead.
 
 Once the players have retrieved the crate of fire bottles and had an opportunity to rest at the manor, Ismark tells them, they should take the fire bottles to the eastern barricade—the place where they first entered the village—where they’ll be stationed throughout the night.
 ## B5d. The Burgomaster’s Mansion
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=45|Burgomaster’s Mansion (p. 44)]]. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
+This area is largely as described in <span class="citation">Burgomaster’s Mansion (p. 44)</span>. However, Burgomaster Kolyan Indirovich has not yet been killed, and Ireena hasn’t yet been bitten.
 ### The Angry Mob
 When the players arrive, they find a mob of ten Barovian **commoners** has formed outside of the mansion. Add the following to the end of this area’s description:
 
@@ -252,12 +252,12 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 <p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]], who is largely as described in [[pdfs/Curse of Strahd.pdf#page=46|Roleplaying Ireena (p. 45)]].
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
 ![[Ireena.png]]
-<span class="credit">"[[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Ireena Kolyana" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]]**
+> [!profile]+ **Profile: Ireena Kolyana**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
@@ -273,7 +273,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 >
 > ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
 >
-> ***Relationships.*** Ireena is the (knowing) adopted sister of [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]], the (unknowing) sister of [[Non-Player Characters#Izek Strazni|Izek Strazni]], and the second (unknowing) reincarnation of Tatyana Federovna.
+> ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the second (unknowing) reincarnation of Tatyana Federovna.
 
 > [!profile]+ **Profile: Burgomaster Kolyan Indirovich**
 > **Roleplaying Information**
@@ -290,12 +290,12 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 >
 > ***Morale.*** In a fight, Kolyan would attempt to negotiate a peace—but keep one hand on his blade if necessary to defend himself or his neighbors.
 >
-> ***Relationships.*** Kolyan is the burgomaster of the village of Barovia, the biological father of [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]], the adoptive father of [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]], and the grandson of Ismark the Great.
+> ***Relationships.*** Kolyan is the burgomaster of the village of Barovia, the biological father of Ismark Kolyanovich, the adoptive father of Ireena Kolyana, and the grandson of Ismark the Great.
 
 > [!lore]+ **Alenka’s Grief**
 > Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.
 >
-> Unbeknownst to Alenka, Anton and Dezdrelda are prisoners of [[Non-Player Characters#Volenta Popofsky|Volenta Popofsky]], one of Strahd’s vampiric brides, in Castle Ravenloft. The players will later encounter Anton as a masked servant in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]].
+> Unbeknownst to Alenka, Anton and Dezdrelda are prisoners of Volenta Popofsky, one of Strahd’s vampiric brides, in Castle Ravenloft. The players will later encounter Anton as a masked servant in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]].
 
 Driven to desperation by Strahd’s attacks on the village, Alenka and the mob believe that a sacrifice or offering is needed to appease the vampire and soothe his rage. The following conversation unfolds if the players don’t intervene:
 
@@ -317,14 +317,14 @@ If the players fail to disperse the mob but refuse to allow Ireena to be taken, 
 If combat breaks out, Ireena joins the players in defending the mansion while Kolyan pleads for the combatants to avoid killing anyone. If two of the Barovians are knocked unconscious, or if one is killed, the remainder flee.
 
 > [!info]+ **Nonlethal Damage**
-> Wanton death to the Barovian commoners will alienate the villagers and the members of Ismark’s family. Players who wish to avoid killing the Barovians can incapacitate their opponents as described in [[pdfs/Player's Handbook.pdf#page=199|Knocking a Creature Out (*Player's Handbook*, p. 198)]]. If players choose not to do so, allow unconscious members of the mob to make death saving throws as described in [[pdfs/Player's Handbook.pdf#page=199|Monsters and Death (*Player's Handbook*, p. 198)]]. 
+> Wanton death to the Barovian commoners will alienate the villagers and the members of Ismark’s family. Players who wish to avoid killing the Barovians can incapacitate their opponents as described in <span class="citation">Knocking a Creature Out (*Player's Handbook*, p. 198)</span>. If players choose not to do so, allow unconscious members of the mob to make death saving throws as described in <span class="citation">Monsters and Death (*Player's Handbook*, p. 198)</span>. 
 
 If the players successfully disperse the mob, Kolyan and Ireena invite them into the manor with gratitude.
 
 > [!design]- **Design Note: The Mob**
 > This scene has been added to communicate Ireena’s origins to the players, foreshadow Strahd’s interest in her, offer a dramatic question while the players visit the mansion, and endear Ireena and Kolyan to the players before Strahd’s arrival during the siege later that night.
 ### Within the Mansion
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=45|E4. Burgomaster’s Mansion (p. 44)]]. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
+This area is largely as described in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
 
 If the players assisted in dispersing the mob, Kolyan and Ireena welcome them warmly, especially if the players mention Ismark’s name. Whether or not the players mention that Ismark granted them room and board at the manor, Kolyan invites them to stay for lunch in gratitude for their aid in dealing with Alenka.
 #### Lunch with the Burgomaster
@@ -334,14 +334,14 @@ During the meal, Kolyan and Ireena ask the players about their interests and liv
 
 If the players are looking to purchase additional supplies, Ireena offers them directions to Bildrath’s Mercantile, but warns them not to mention Ismark's name. If the players ask her why Ismark is called "the Lesser," Ireena and Kolyan wince, and can share the following information:
 
-* When Strahd's dusk elf servant—a cruel-looking man named [[Non-Player Characters#Rahadin|Rahadin]]—delivered his warning three months ago, many Barovians were prepared to flee the village for Vallaki.
+* When Strahd's dusk elf servant—a cruel-looking man named Rahadin—delivered his warning three months ago, many Barovians were prepared to flee the village for Vallaki.
 * Ismark, however, delivered a thundering and inspiring speech, invoking the memory of Lugdana and Ismark the Great to encourage them to stay and fight for their homes. Most did so.
 * When Strahd's siege began, many who lost homes or loved ones blamed Ismark, who they felt had led them astray with his foolish fantasies of heroism and valor. They now call him "Ismark the Lesser" in mockery of his ancestry.
 * No one feels more guilty or ashamed than Ismark himself, who has taken the weight of every death incurred in the siege on his own shoulders.
 
 If the players ask about Doru's rebellion, Ireena can share the following information:
 
-* Doru was a friend of theirs, and the son of the village priest [[Non-Player Characters#Father Donavich|Father Donavich]]. He was a bright and cheery young man, with a sunny disposition and a zeal for everything he did.
+* Doru was a friend of theirs, and the son of the village priest Father Donavich. He was a bright and cheery young man, with a sunny disposition and a zeal for everything he did.
 * Just over three months ago, without warning, Doru announced a crusade against Castle Ravenloft, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Ireena's home for the previous several weeks while studying Barovian history and ecology. 
 * Ireena doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. She does remember, however, that he had a furious argument with Doru at one point, which confused her when he accompanied Doru to Castle Ravenloft shortly thereafter.
 #### Kolyan’s Dilemma
@@ -368,10 +368,10 @@ If the players provide a suitably impressive or insightful answer, Kolyan asks i
 Burgomaster of Barovia</p>
 </div>
 
-The letter is sealed with the wax sigil of the burgomaster of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vargas Vallakovich]] and [[Non-Player Characters#Lady Fiona Wachter|Lady Fiona Wachter]] of Vallaki, or Burgomaster Dmitri Krezkov of Krezk.
+The letter is sealed with the wax sigil of the burgomaster of Barovia: a longsword before a rising sun. Kolyan concedes that he cannot promise the letter will be obeyed, noting it has been “years" since he traveled to any of the other settlements in the valley. He vows, however, that it should at least “open the ears" of those they may wish to approach, such as Baron Vargas Vallakovich and Lady Fiona Wachter of Vallaki, or Burgomaster Dmitri Krezkov of Krezk.
 
 > [!item]+ **Letter of Introduction**
-> Players who present Kolyan’s letter of introduction to [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vargas Vallakovich]], [[Non-Player Characters#Lady Fiona Wachter|Lady Fiona Wachter]] of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
+> Players who present Kolyan’s letter of introduction to Baron Vargas Vallakovich, Lady Fiona Wachter of Vallaki, Burgomaster Dmitri Krezkov of Krezk within the first ten minutes of meeting them, or their servants or family members, have advantage on any Charisma (Persuasion) check made within that ten minutes, provided it is possible for the check to succeed.
 #### Rooms at the Mansion
 If the players mention Ismark's offer to provide them with rooms, Ireena shows them to the mansion’s two guest bedrooms and provides them with basic supplies. "I can't say how much sleep you'll be able to get, or when," she says apologetically, her own eyes bearing dark circles beneath them. "But if nothing else, they should provide a quiet place to rest."
 
@@ -380,7 +380,7 @@ If the players ask about her parents, Ireena freely shares the following informa
 * Ismark and Ireena's mother was Korina Targolova. Korina died of a sickness fourteen years ago, but Kolyan has done his best since then to continue raising both children alone. (The scarf Ireena wears is her last memory of her mother.)
 * Kolyan, their father, was the one who found Ireena when she was a young girl, by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
 
-As the players explore their rooms, one of them finds a torn excerpt of *Van Richten's Guide to Vampires* by [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]] sitting on a night table by the bed. This excerpt of the preface, which Van Richten tore from Doru's book in the midst of a furious argument, reads as follows:
+As the players explore their rooms, one of them finds a torn excerpt of *Van Richten's Guide to Vampires* by Dr. Rudolph van Richten sitting on a night table by the bed. This excerpt of the preface, which Van Richten tore from Doru's book in the midst of a furious argument, reads as follows:
 
 <div class="description">
 <p>In some shadowed corners of the world, the vampire reigns as a fearsome predator. Beyond mere bloodlust, these creatures are cursed with a range of abilities and weaknesses that make them as enigmatic as they are terrifying.</p>
@@ -402,54 +402,54 @@ When the players are ready to depart, Ireena retrieves a wooden crate containing
 > A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 
 > [!abstract]+ **Visiting the Church**
-> Players who insist upon visiting [[pdfs/Curse of Strahd.pdf#page=46|E5. Church (p. 45)]] find it largely as described in [[#B5i. The Barovian Church]] below. However, [[Non-Player Characters#Parriwimple|Parriwimple]] is not at the church at this time, and [[Non-Player Characters#Father Donavich|Father Donavich]] does not mention Doru's fate without Ireena or Ismark present.
+> Players who insist upon visiting <span class="citation">E5. Church (p. 45)</span> find it largely as described in [[#B5i. The Barovian Church]] below. However, Parriwimple is not at the church at this time, and Father Donavich does not mention Doru's fate without Ireena or Ismark present.
 ## B5e. Bildrath’s Mercantile
-*<em>This scene takes place in Chapter 3: Area E1.</em>*
+<span class="citation"><em>This scene takes place in Chapter 3: Area E1.</em></span>
 
-Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in [[pdfs/Curse of Strahd.pdf#page=44|Bildrath’s Mercantile (p. 43)]]. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
+Should the players choose to visit it before proceeding to [[#B5f. The Eastern Barricade]], this  area is largely as described in <span class="citation">Bildrath’s Mercantile (p. 43)</span>. However, instead of selling items for ten times the price listed in the _Player’s Handbook_, Bildrath sells them for only twice the price, citing the recent economic upheaval. 
 
 If any players were kind to him in the tavern, he instead sells those players items at the normal price listed in the *Player's Handbook*—a special deal, for them only. If any players defended Ismark in the tavern, Bildrath glowers at them and instead sells those players items at five times the price listed in the _Player’s Handbook_, spitefully claiming them to be a “special deal" for friends of the town’s “great hero."
 
-During the players’ conversation with Bildrath, [[Non-Player Characters#Parriwimple|Parriwimple]] enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
+During the players’ conversation with Bildrath, Parriwimple enters the room carrying a box of wares that Bildrath asked him to fetch. He is excitedly curious about the players’ presence, but Bildrath orders him to return to his bedroom in order to avoid “disturbing the customers."
 
-If Bildrath orders [[Non-Player Characters#Parriwimple|Parriwimple]] to remove the players from the store, [[Non-Player Characters#Parriwimple|Parriwimple]] attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
+If Bildrath orders Parriwimple to remove the players from the store, Parriwimple attempts to grapple them and pull them out the door, preferring to avoid violence if at all possible.
 
 ![[Bildrath_And_Parriwimple_transparent.png]]
-<span class="credit">"Bildrath and [[Non-Player Characters#Parriwimple|Parriwimple]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Bildrath and Parriwimple" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ## B5f. The Eastern Barricade
 ### Preparing the Barricade
-Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and [[Non-Player Characters#Parriwimple|Parriwimple]], who are largely as described in [[pdfs/Curse of Strahd.pdf#page=44|E1. Bildrath’s Mercantile (p. 43)]]. However, [[Non-Player Characters#Parriwimple|Parriwimple]] has the statistics of a **berserker** with a spear (+5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.) instead of a greataxe. Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
+Shortly after returning to the barricade at the eastern entrance to the village, the players are met by Bildrath and Parriwimple, who are largely as described in <span class="citation">E1. Bildrath’s Mercantile (p. 43)</span>. However, Parriwimple has the statistics of a **berserker** with a spear (+5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.) instead of a greataxe. Bildrath also carries a light crossbow (+2 to hit, range 80/320 ft., one target. *Hit:* 4 (1d8 + 0) piercing damage).
 
-When the players first encounter [[Non-Player Characters#Parriwimple|Parriwimple]], read:
+When the players first encounter Parriwimple, read:
 
 <div class="description">
 <p>A hulking figure stands at Bildrath’s side—a young man, tall and brawny. His shaggy brown hair falls messily across his face, and his crooked teeth glint in the grey light. Though muscles ripple beneath his tunic, there's a lightness and immaturity to his posture that belies his strength and size. He fidgets with the hem of his tunic as your eyes fall upon him.</p>
 </div>
 
-Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, [[Non-Player Characters#Parriwimple|Parriwimple]] is glad to meet new friends.
+Bildrath greets the players warmly or coldly, depending on their interaction at the Blood of the Vine Tavern and (if they visited him there) Bildrath's Mercantile. Regardless of Bildrath’s disposition, Parriwimple is glad to meet new friends.
 
-> [!profile]+ **Profile: [[Non-Player Characters#Parriwimple|Parriwimple]]**
+> [!profile]+ **Profile: Parriwimple**
 >
 > **Roleplaying Information**
-> ***Resonance.*** [[Non-Player Characters#Parriwimple|Parriwimple]] should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
+> ***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
 >
-> ***Emotions.*** [[Non-Player Characters#Parriwimple|Parriwimple]] most often feels curiosity, hope, wonder, melancholy, and confusion.
+> ***Emotions.*** Parriwimple most often feels curiosity, hope, wonder, melancholy, and confusion.
 >
-> ***Motivations.*** [[Non-Player Characters#Parriwimple|Parriwimple]] wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
+> ***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
 >
-> ***Inspirations.*** When playing [[Non-Player Characters#Parriwimple|Parriwimple]], channel Lenny Small (*Of Mice and Men*) and Forrest Gump (*Forrest Gump*).
+> ***Inspirations.*** When playing Parriwimple, channel Lenny Small (*Of Mice and Men*) and Forrest Gump (*Forrest Gump*).
 >
 > **Character Information**
-> ***Persona.*** To the world, [[Non-Player Characters#Parriwimple|Parriwimple]] is a cheerful, simple-minded young man. To those he trusts, [[Non-Player Characters#Parriwimple|Parriwimple]] is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
+> ***Persona.*** To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
 >
-> ***Morale.*** In a fight, [[Non-Player Characters#Parriwimple|Parriwimple]] would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
+> ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
 >
-> ***Relationships.*** [[Non-Player Characters#Parriwimple|Parriwimple]] is an orphan and the nephew of the general-store owner Bildrath Cantemir.
+> ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
 
 Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
 
-If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs [[Non-Player Characters#Parriwimple|Parriwimple]] to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See [[pdfs/Player's Handbook.pdf#page=149|Adventuring Gear (Player’s Handbook, p. 148)]] for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs [[Non-Player Characters#Parriwimple|Parriwimple]] to obey those players’ instructions as though they were his own.
+If any of the players treated him kindly at the Blood of the Vine Tavern or Bildrath's Mercantile, Bildrath instructs Parriwimple to present them with a crate containing two bags of ball bearings, two bags of caltrops, ten iron spikes, and three flasks of oil from his shop, to be used in preparing the barricade for the siege. (See <span class="citation">Adventuring Gear (Player’s Handbook, p. 148)</span> for more information regarding these items.) Bildrath also directs the players to a pair of ten-foot ladders nailed to one of the houses nearby, which can allow any ranged combatants to ascend to the house’s roof. Finally, Bildrath instructs Parriwimple to obey those players’ instructions as though they were his own.
 
 > [!info]+ **The Barricade**
 > The barricade the players have been assigned to defend is a thirty-foot-long, six-foot-tall assembly of tree logs, piled furniture, and nailed wooden planks. Each five-foot-long section of the barricade has AC 15, 10 hit points, and immunity to piercing, psychic, and poison damage. 
@@ -466,13 +466,13 @@ Dusk falls soon after the players complete their preparations. Read:
 <p>A blood-curdling howl pierces the night, followed by a second—and then a third. The cacophony of inhuman shrieks and moans grows louder, echoing across the basin from all directions as the distant forest seems to come alive.</p>
 </div>
 
-If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. [[Non-Player Characters#Parriwimple|Parriwimple]] nods in determination, clutching his spear closer to his chest.
+If he is present, Bildrath’s face grows grim, and he grips his crossbow tightly. “It begins," he mutters, as the din fades once more into the cold night. Parriwimple nods in determination, clutching his spear closer to his chest.
 
 > [!info]+ **A Moonless Night**
 > At night, torches mounted at ten-foot intervals along the barricade illuminate the surrounding area out to a distance of forty feet. On the night of the siege, thick fog rolls in with the undead up to the area of illumination, preventing defenders with darkvision from seeing any approaching creatures early.
 
 > [!abstract]+ **Holding the Line**
-> If the zombies successfully break through the barricade, [[Non-Player Characters#Parriwimple|Parriwimple]] attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
+> If the zombies successfully break through the barricade, Parriwimple attempts to hold the choke point with his spear, though he’s grateful for any aid the players might provide.
 
 > [!info]+ **Undead Fortitude**
 > Revise each **zombie** and **zombie plague spreader’s** ***undead fortitude*** feature to read as follows:
@@ -481,10 +481,9 @@ If he is present, Bildrath’s face grows grim, and he grips his crossbow tightl
 
   
 > [!combat]- **Combat - The Siege**  
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=148|Ghoul (MM p. 148)]] · [[pdfs/Monster Manual.pdf#page=300|Wight (MM p. 300)]] · [[pdfs/Monster Manual.pdf#page=315|Zombie (MM p. 315)]]
 > **Combat Level**: Mild (first wave), Mild (second wave), Bloody (third wave)
 > **Expected Character Level**: 3
-> **Allies:** Bildrath (CR 0), [[Non-Player Characters#Parriwimple|Parriwimple]] (CR 2)
+> **Allies:** Bildrath (CR 0), Parriwimple (CR 2)
 > **Expected HP Consumption:** 66%
 > 
 > ### **Enemies:**
@@ -521,7 +520,7 @@ In combat, the zombies focus their attacks on the barricade, attempting to batte
 
 The zombies again attempt to batter down the barricade, while the ghouls attempt to climb over it using their claws.
 
-***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** [[pdfs/Van Richtens Guide to Ravenloft.pdf#page=256|(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)]] approach the barricade. Read:
+***The Third Wave.*** At the beginning of the seventh round of combat after the first wave arrives, a **wight** and a **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> approach the barricade. Read:
 
 <div class="description">
 <p>A lone undead shambles slowly from the darkness, its white eyes staring dully past the flickering torchlight. Its flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills continually from its mouth and down onto the bloodstained earth before dissipating into the air.</p>
@@ -532,7 +531,7 @@ The zombies again attempt to batter down the barricade, while the ghouls attempt
 >
 > In addition, revise its ***virulent miasma*** action such that a Humanoid reduced to 0 hit points doesn’t automatically die, and instead only rises as a zombie if it dies before stabilizing or regaining hit points. The DC for stabilizing a creature reduced to 0 hit points in this way increases to 20.
 
-The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor [[Non-Player Characters#Parriwimple|Parriwimple]] have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
+The plague spreader first approaches the players as closely as possible, then releases its ***virulent miasma***, attempting to hit as many creatures as possible. (If possible, aim to ensure that the miasma hits Bildrath, to make sure the players understand the nature of its attack. Neither Bildrath nor Parriwimple have seen or heard of a zombie plague spreader before, and both are ignorant of the virus it carries.) After the plague spreader uses its miasma, the red mist stops spilling from its mouth.
 
 Meanwhile, the wight attacks from the darkness beyond the torches’ light, making ***longbow*** attacks from 60 feet away. If the players engage the plague spreader in melee combat or reduce it to 90 hit points or fewer, the wight draws its ***longsword*** and engages the players directly.
 ## B5g. The Western Barricade
@@ -563,15 +562,14 @@ If the players follow her, Muriel guides them west toward the town square, then 
 <span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
 
 
-Ismark, who has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
+Ismark (who has the statistics of a **veteran**) has been reduced to 40 hit points, welcomes any help the players can provide against the plague spreader. If reduced to 30 hit points or fewer, Ismark obstructs the plague spreader directly while taking the Dodge action on each of his turns, hoping to delay it while providing the players sufficient time to defeat it.
 
 The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***virulent miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
   
 > [!combat]- **Combat - The Town Square**  
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=315|Zombie (MM p. 315)]] · [[pdfs/Curse of Strahd.pdf#page=239|Rahadin (CoS App D p. 238)]]
 > **Combat Level**: Mild
 > **Expected Character Level**: 3
-> **Allies:** [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]] (CR 3)
+> **Allies:** Ismark Kolyanovich (CR 3)
 > **Expected HP Consumption:** 16%
 > 
 > ### **Enemies:**
@@ -592,47 +590,47 @@ The plague spreader, which begins 120 feet from the center of the town square an
 
 > [!info]+ **Dying NPCs**
 >
-> As noted in Monsters and Death ([[pdfs/Player's Handbook.pdf#page=199|Player's Handbook, p. 198]]), allied non-player characters—such as [[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]] and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws ([[pdfs/Player's Handbook.pdf#page=198|Player's Handbook, p. 197]]).
+> As noted in Monsters and Death (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Ismark Kolyanovich and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (<span class="citation">Player's Handbook, p. 197</span>).
 ### Rahadin’s Proclamation
 Shortly after the players defeat the plague spreader, a lone horseman flanked by twelve **zombies** approaches the town square from the west. Read:
 
 <div class="description">
-<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it trail a dozen shambling undead, flanking the horseman with six to a side.</p>
+<p>You hear the sound of hoofsteps squelching through mud. From the shadows on the western road emerges a cloaked man riding an ash-gray horse with dull, shadowed eyes. Behind it, in V-shaped formation with the horseman taking the lead, trail a dozen shambling undead.</p>
 <p>The flickering torchlight paints the man’s features in shades of burning orange and red, revealing a tall, lithe figure of dusky complexion, with long, black hair that falls past his neck. A light cloak is draped across his shoulders, its edge rimmed with thick, white fur, and gloves of supple black leather cover his hands. A deep blue tunic trimmed with bronze is visible beneath a layer of tough, yet flexible leather armor, and a curved saber hangs from a sheath at his belt, with a pair of scimitars strapped to his back above it.</p>
 <p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
 </div>
 
-This is [[Non-Player Characters#Rahadin|Rahadin]], riding his *phantom steed*. As he comes to a halt at the edge of the town square, he pulls a scroll from his cloak and unfurls. If not interrupted, he begins to read from it, his resonant voice carrying across the square:
+This is Rahadin, riding his *phantom steed*. As he comes to a halt at the edge of the town square, he pulls a scroll from his cloak and unfurls. If not interrupted, he begins to read from it, his resonant voice carrying across the square:
 
 <div class="description">
-<p>"Five score and seven days past, this people rose in unlawful rebellion against [[Strahd von Zarovich|Strahd von Zarovich]], Count of Barovia, Master of Castle Ravenloft, and Protector of the Balinok Mountains. For this treasonous act, this settlement has been met with righteous punishment, so that its inhabitants might learn the weight of their defiance.</p>
-<p>"Witnessed by the eyes of the dead and damned, this price has been extracted in blood, common and noble alike. Let it be known that on this day, the mercy of [[Strahd von Zarovich|Strahd von Zarovich]] extends once more unto those who return to their fief and field—while those who continue in their folly shall be swept away as chaff before the wind."</p>
+<p>"Five score and seven days past, this people rose in unlawful rebellion against Strahd von Zarovich, Count of Barovia, Master of Castle Ravenloft, and Protector of the Balinok Mountains. For this treasonous act, this settlement has been met with righteous punishment, so that its inhabitants might learn the weight of their defiance.</p>
+<p>"Witnessed by the eyes of the dead and damned, this price has been extracted in blood, common and noble alike. Let it be known that on this day, the mercy of Strahd von Zarovich extends once more unto those who return to their fief and field—while those who continue in their folly shall be swept away as chaff before the wind."</p>
 </div>
 
-If not prevented, [[Non-Player Characters#Rahadin|Rahadin]] searches the crowd, his gaze finally settling on Ismark. Leaving the undead behind, he approaches Ismark on horseback. 
+If not prevented, Rahadin searches the crowd, his gaze finally settling on Ismark. Leaving the undead behind, he approaches Ismark on horseback. 
 
-As [[Non-Player Characters#Rahadin|Rahadin]] approaches the players (or vice—versa), the players can hear the sounds of his ***deathly choir.*** Read: 
+As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***deathly choir.*** Read: 
 
 <div class="description">
 <p>It begins with a dull roar—a prickle at the edge of your awareness, like the washing of the ocean against the shore. As the man grows closer, however, the muffled sound grows ever—more insistent, amplifying and building upon itself—until it resolves from a more innocuous sound, almost like waves, into a torrent of screams.</p>
 <p>Your ears fill with a cacophony of a thousand voices, pleading, suffering, dying: a psychic onslaught that crashes against your mind from every direction, leaving little room for thought. The man, however, remains unflinching—seemingly undisturbed by the symphony of screams that surrounds him.</p>
 </div>
 
-The players can notice that any other Barovians within ten feet of [[Non-Player Characters#Rahadin|Rahadin]] appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When [[Non-Player Characters#Rahadin|Rahadin]] speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.
+The players can notice that any other Barovians within ten feet of Rahadin appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When Rahadin speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.
 
-Upon approaching Ismark, [[Non-Player Characters#Rahadin|Rahadin]] inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
+Upon approaching Ismark, Rahadin inspects him briefly, then states coldly: “Please accept my congratulations on your new position—and my condolences on your loss." Unless obstructed, he then turns his horse around and departs the village, once more trailed by the twelve **zombies**.
 
-[[Non-Player Characters#Rahadin|Rahadin]]’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after [[Non-Player Characters#Rahadin|Rahadin]] departs, Ismark appears to process the weight of [[Non-Player Characters#Rahadin|Rahadin]]’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If [[Non-Player Characters#Parriwimple|Parriwimple]] is present, he urges the players to follow Ismark.)
+Rahadin’s initial proclamation leaves Ismark stiff and stone-faced, but his subsequent greeting leaves Ismark shell-shocked and frozen. Shortly after Rahadin departs, Ismark appears to process the weight of Rahadin’s words, releases a bellowing, wordless cry, and runs for the burgomaster’s mansion. (If Parriwimple is present, he urges the players to follow Ismark.)
 
-> [!abstract]+ **The Players Challenge [[Non-Player Characters#Rahadin|Rahadin]]**
-> [[Non-Player Characters#Rahadin|Rahadin]] takes little interest in the players. If challenged, he states merely that the siege was “the will of Strahd," and informs the players that it is “not for them to question the actions of their betters." If asked his identity, he shares only that he is [[Non-Player Characters#Rahadin|Rahadin]], chamberlain of Castle Ravenloft, and a humble servant of [[Strahd von Zarovich|Strahd von Zarovich]].
+> [!abstract]+ **The Players Challenge Rahadin**
+> Rahadin takes little interest in the players. If challenged, he states merely that the siege was “the will of Strahd," and informs the players that it is “not for them to question the actions of their betters." If asked his identity, he shares only that he is Rahadin, chamberlain of Castle Ravenloft, and a humble servant of Strahd von Zarovich.
 >
-> If grappled, restrained, or attacked, [[Non-Player Characters#Rahadin|Rahadin]] first commands them to “cease their foolishness," noting that “in the spirit of the night’s mercy, and in light of their foreign nature," he is not unwilling to overlook their disobedience on this single occasion. If the interfering player continues their interference, [[Non-Player Characters#Rahadin|Rahadin]] swiftly and efficiently dispatches them. 
+> If grappled, restrained, or attacked, Rahadin first commands them to “cease their foolishness," noting that “in the spirit of the night’s mercy, and in light of their foreign nature," he is not unwilling to overlook their disobedience on this single occasion. If the interfering player continues their interference, Rahadin swiftly and efficiently dispatches them. 
 >
-> Once an interfering player has been knocked unconscious, [[Non-Player Characters#Rahadin|Rahadin]] uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following [[pdfs/Dungeon Master's Guide.pdf#page=272|Lingering Injuries (<em>Dungeon Master’s Guide</em>, p. 272)]]: **Lose an Arm or Hand**, **Lose a Foot or Leg**, or **Internal Injury**. This injury lasts until the player has completed two long rests.
+> Once an interfering player has been knocked unconscious, Rahadin uses the pommel of his saber to slam their wrist, knee, or ribs, temporarily causing that player to gain the effects of one of the following <span class="citation">Lingering Injuries (<em>Dungeon Master’s Guide</em>, p. 272)</span>: **Lose an Arm or Hand**, **Lose a Foot or Leg**, or **Internal Injury**. This injury lasts until the player has completed two long rests.
 
 <div class="statblock">
-<h2>[[Non-Player Characters#Rahadin|Rahadin]], Castle Chamberlain</h2>
+<h2>Rahadin, Castle Chamberlain</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
@@ -671,33 +669,33 @@ Upon approaching Ismark, [[Non-Player Characters#Rahadin|Rahadin]] inspects him 
 <strong>Challenge</strong> 14<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of [[Non-Player Characters#Rahadin|Rahadin]] that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people [[Non-Player Characters#Rahadin|Rahadin]] has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]]'s innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
+<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
 - 3/day: phantom steed<br>
 - 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When [[Non-Player Characters#Rahadin|Rahadin]] drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and [[Non-Player Characters#Rahadin|Rahadin]] can push the target up to 5 feet away. Instead of pushing the target, [[Non-Player Characters#Rahadin|Rahadin]] can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of [[Non-Player Characters#Rahadin|Rahadin]]'s next turn.</p>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
+<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 8 (1d4 +6) piercing and 5 (2d4) poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of [[Non-Player Characters#Rahadin|Rahadin]] must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>[[Non-Player Characters#Rahadin|Rahadin]] can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> [[Non-Player Characters#Rahadin|Rahadin]] can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punishing Strike.</em></strong> When [[Non-Player Characters#Rahadin|Rahadin]] is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses [[Non-Player Characters#Rahadin|Rahadin]] with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses [[Non-Player Characters#Rahadin|Rahadin]] with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. [[Non-Player Characters#Rahadin|Rahadin]] doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When [[Non-Player Characters#Rahadin|Rahadin]] is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of [[Non-Player Characters#Rahadin|Rahadin]] must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of [[Non-Player Characters#Rahadin|Rahadin]]'s next turn.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
+<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
+<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>[[Non-Player Characters#Rahadin|Rahadin]], Kinslayer</h2>
+<h2>Rahadin, Kinslayer</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
@@ -736,22 +734,22 @@ Upon approaching Ismark, [[Non-Player Characters#Rahadin|Rahadin]] inspects him 
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of [[Non-Player Characters#Rahadin|Rahadin]] that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people [[Non-Player Characters#Rahadin|Rahadin]] has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and [[Non-Player Characters#Rahadin|Rahadin]] can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and [[Non-Player Characters#Rahadin|Rahadin]] can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of [[Non-Player Characters#Rahadin|Rahadin]] that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of [[Non-Player Characters#Rahadin|Rahadin]]'s next turn.</p>
-<p><strong><em>Swift Step.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] takes the Dash or Disengage action.
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
+<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
 <h3>Reactions</h3>
-<p>[[Non-Player Characters#Rahadin|Rahadin]] can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> [[Non-Player Characters#Rahadin|Rahadin]] can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> [[Non-Player Characters#Rahadin|Rahadin]] adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses [[Non-Player Characters#Rahadin|Rahadin]] with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
 </div>
 
 ## B5h. Return to the Mansion
@@ -774,7 +772,7 @@ Shortly after the players arrive, Ireena stirs awake, shrieking in despair when 
 * Though she doesn’t remember who the visitor was, she remembers a tall, gaunt silhouette; a deep, resonant voice; and a set of burning, hypnotic red eyes.
 * The voice—a man’s—spoke to her, and her memory went blank. She remembers feeling a sudden, sharp pain on her neck, followed by the sound of her father shouting. As she fell into unconsciousness, she recalls hearing the voice murmur, “We shall meet again."
 
-Ireena is horrified by her father’s death and the prospect that their home was visited by the Devil, [[Strahd von Zarovich|Strahd von Zarovich]]. She is bewildered as to why Strahd might kill her father but spare her, and is deeply disturbed by the prospect that she is somehow responsible for Kolyan’s fate.
+Ireena is horrified by her father’s death and the prospect that their home was visited by the Devil, Strahd von Zarovich. She is bewildered as to why Strahd might kill her father but spare her, and is deeply disturbed by the prospect that she is somehow responsible for Kolyan’s fate.
 
 Once the players have sufficiently comforted the siblings, Ismark exhaustedly asks the players to remain at the mansion with Ireena while he returns to the town square to ensure that any wounded Barovians are cared for. “We will see to our father’s burial tomorrow," he adds, quietly. "And if you can—try to get some sleep. You've more than earned it."
 ### The Argument
@@ -787,7 +785,7 @@ The players can eavesdrop on this conversation with a successful DC 13 Dexterity
 <p>Ireena's voice, sharp with indignation, pierces the silence. "You have no right, Ismark. You can't just decide to send me away, like I'm some kind of inconvenience! I'm Father's child as much as you, and our people need me to rebuild. You need me too!"</p>
 <p>Ismark's reply is measured, though laced with an unmistakable note of worry. "The Devil has his sights set on you—and even if we don't believe the legend about women with red hair, others might. Barovia just isn't safe for you anymore."</p>
 <p>A snort of defiance echoes from the other side of the thin wooden partition. "I am no coward, Ismark, and I will not abandon our friends and neighbors in their hour of need."</p>
-<p>There's a pause. Then, Ismark says, quietly, "[[Non-Player Characters#Gertruda|Gertruda]] left the village this morning. Alone."</p>
+<p>There's a pause. Then, Ismark says, quietly, "Gertruda left the village this morning. Alone."</p>
 <p>You hear a ragged breath from Ireena's direction. "<em>Why?</em>"</p>
 <p>"Her mother thinks she went to Vallaki—she was convinced that help from Vallaki is the only way to end our suffering," Ismark murmurs.</p>
 <p>There's a long, suffering silence. Then—</p>
@@ -806,13 +804,13 @@ If confronted, Ismark can reluctantly share the following information:
 
 When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 ### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in [[pdfs/Curse of Strahd.pdf#page=45|E4. Burgomaster's Mansion (p. 44)]]. Ismark and Ireena are in the dining room, quietly drinking tea.
+The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
 
 When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
 
 ***Escorting Ireena.*** Ismark first quietly notes that Ireena appears to have become a target for both the Devil and her fellow villagers, and that he no longer believes the village, which lies directly beneath the shadow of Castle Ravenloft, to be safe for her. 
 
-Ismark shares the information regarding his desire to bring her to Vallaki as described in [[pdfs/Curse of Strahd.pdf#page=44|Roleplaying Ismark (p. 43)]], and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
+Ismark shares the information regarding his desire to bring her to Vallaki as described in <span class="citation">Roleplaying Ismark (p. 43)</span>, and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
 
 > [!warning]+ **Clarifying Expectations**
 > 
@@ -820,9 +818,9 @@ Ismark shares the information regarding his desire to bring her to Vallaki as de
 > 
 > As such, while Ireena is not an essential NPC to the campaign, a party that declines Ismark's request likely has mismatched expectations with the type of campaign you plan to run. If the players refuse to escort Ireena to Vallaki, pause the game and check in with them to clarify and confirm expectations. If the players are still reluctant to bring Ireena with them, ask questions and discuss the issue further before resuming the game.
 
-***Seeking [[Non-Player Characters|Madam Eva]].*** Strahd's attack on the village has only strengthened Ismark's belief that the Barovians must find some way of escaping the vampire's tyranny. "We can't go on living like this," he croaks, his knuckles whitening as he stares into his mug. "I've heard how terrible things were a hundred years ago, before he went to sleep. Vampires lurking in every shadow. Parents and their children disappearing in the night. Rats and wolves and bats reporting our every move to the castle. Even if the Devil goes dormant again in fifty or sixty years' time, who would we be if we condemned our children and grandchildren to that same fate?"
+***Seeking Madam Eva.*** Strahd's attack on the village has only strengthened Ismark's belief that the Barovians must find some way of escaping the vampire's tyranny. "We can't go on living like this," he croaks, his knuckles whitening as he stares into his mug. "I've heard how terrible things were a hundred years ago, before he went to sleep. Vampires lurking in every shadow. Parents and their children disappearing in the night. Rats and wolves and bats reporting our every move to the castle. Even if the Devil goes dormant again in fifty or sixty years' time, who would we be if we condemned our children and grandchildren to that same fate?"
 
-Although he asks them to be discreet in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of [[Non-Player Characters|Madam Eva]], a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
+Although he asks them to be discreet in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of Madam Eva, a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
 
 If the players agree to do so, the player with the highest passive Wisdom (Perception) score notices a **rat**—one of Strahd's spies—watching them with rapt, malevolent, and intelligent interest from beneath a nearby piece of furniture. Once noticed, the rat immediately dashes toward the kitchen in a clear attempt to escape.
 
@@ -830,31 +828,31 @@ The players have one round to kill the rat as it scurries toward a large hole in
 
 ***Delivering the Coffin.*** After asking his first two favors, Ismark asks the players to assist him and Ireena in carrying Kolyan's coffin to the church. If they do, the two siblings accompany the players to the church.
 ## B5i. The Barovian Church
-*<em>This scene takes place in Chapter 3: Area E5.</em>*
+<span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
-When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for [[Non-Player Characters#Father Donavich|Father Donavich]], if [[Non-Player Characters#Parriwimple|Parriwimple]] is still alive, read the following:
+When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
 
 <div class="description">
 <p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
-<p>A hulking silhouette steps forward from the mist—[[Non-Player Characters#Parriwimple|Parriwimple]].</p>
+<p>A hulking silhouette steps forward from the mist—Parriwimple.</p>
 </div>
 
 If Bildrath died in the siege, add:
 
 <div class="description">
-<p>[[Non-Player Characters#Parriwimple|Parriwimple]]'s clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
+<p>Parriwimple's clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
 </div>
 
-[[Non-Player Characters#Parriwimple|Parriwimple]], who is out for a walk ("It helps me think," he mumbles, if asked), can share the following information if asked:
+Parriwimple, who is out for a walk ("It helps me think," he mumbles, if asked), can share the following information if asked:
 
-* [[Non-Player Characters#Father Donavich|Father Donavich]] used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
-* Ever since the siege started, however, Donavich shut himself inside the church and turned away visitors more often than not. When [[Non-Player Characters#Parriwimple|Parriwimple]] last saw him two days ago, Donavich looked like he hadn’t slept or bathed in almost a week.
-* [[Non-Player Characters#Father Donavich|Father Donavich]] hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which [[Non-Player Characters#Parriwimple|Parriwimple]] considers odd. ([[Non-Player Characters#Parriwimple|Parriwimple]] always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
-* [[Non-Player Characters#Parriwimple|Parriwimple]] misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. ([[Non-Player Characters#Parriwimple|Parriwimple]] also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, [[Non-Player Characters#Parriwimple|Parriwimple]] hopes that he somehow survived.
+* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
+* Ever since the siege started, however, Donavich shut himself inside the church and turned away visitors more often than not. When Parriwimple last saw him two days ago, Donavich looked like he hadn’t slept or bathed in almost a week.
+* Father Donavich hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which Parriwimple considers odd. (Parriwimple always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
+* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, Parriwimple hopes that he somehow survived.
 
-[[Non-Player Characters#Parriwimple|Parriwimple]] won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
+Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
 ### Inside the Church
-This area is largely as described in [[pdfs/Curse of Strahd.pdf#page=46|Church (p. 45)]]. However, modify the descriptive text for [[pdfs/Curse of Strahd.pdf#page=46|E5a. Hall (p. 45)]] to remove Doru’s scream: 
+This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
 
 <div class="description">
 <p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
@@ -869,56 +867,56 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 
 > [!lore]+ **A Recent History of the Church**
 >
-> [[Non-Player Characters#Father Donavich|Father Donavich]] was no supporter of Doru’s march on Castle Ravenloft. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
+> Father Donavich was no supporter of Doru’s march on Castle Ravenloft. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
 >
 > Donavich’s holy symbol, however, did little to protect his son. When Strahd began his siege on the village of Barovia six nights ago, his undead forces were not alone: Strahd also sent Doru, now a freshly turned **vampire spawn**, to terrorize the church and torment his father. Donavich barely managed to lure and trap Doru in the undercroft, where he remains imprisoned still.
 >
-> Since Doru returned, [[Non-Player Characters#Father Donavich|Father Donavich]] has been unable to cast any spells and no longer feels the Morninglord’s presence when he prays. When Strahd sent Doru back to Barovia, he allowed Doru to continue wearing his father’s holy symbol as a cruel joke. As a result, Donavich wrongly believes that Doru’s undead nature has corrupted his symbol—and, therefore, his relationship with the Morninglord—and so prevented him from reaching the Morninglord’s divine grace.
+> Since Doru returned, Father Donavich has been unable to cast any spells and no longer feels the Morninglord’s presence when he prays. When Strahd sent Doru back to Barovia, he allowed Doru to continue wearing his father’s holy symbol as a cruel joke. As a result, Donavich wrongly believes that Doru’s undead nature has corrupted his symbol—and, therefore, his relationship with the Morninglord—and so prevented him from reaching the Morninglord’s divine grace.
 >
-> In fact, however, it is [[Non-Player Characters#Father Donavich|Father Donavich]]’s own loss of faith that hinders him—a crisis that blinds him to an even starker truth. Donavich believes that his son, Doru, is dead, and that the **vampire spawn** trapped in the undercroft is a foul and profane beast that wears Doru’s skin. He is mistaken: though his body is now undead, Doru’s soul is very much alive.
+> In fact, however, it is Father Donavich’s own loss of faith that hinders him—a crisis that blinds him to an even starker truth. Donavich believes that his son, Doru, is dead, and that the **vampire spawn** trapped in the undercroft is a foul and profane beast that wears Doru’s skin. He is mistaken: though his body is now undead, Doru’s soul is very much alive.
 >
 > Though he cannot ignore Strahd’s direct commands, and though his thirst for blood weighs heavily on his thoughts and actions, Doru continues to fight bitterly against his own vampiric nature. Though he doesn’t always succeed, it was this resistance that allowed his father to entrap him in the undercroft at all. When hope rises in him, Doru calls out to his father to release him, pleading for salvation and forgiveness. Donavich, however, has so far refused to respond.
 >
 > Doru continues to wear his father’s holy symbol, both to reassure himself that they will one day reconcile and to steel his will when the vampire’s urges rise too strongly within. His ability to resist the call of blood has slowly grown since his imprisonment—but so too has his exhaustion, exacerbated by slow starvation. Now, Doru’s sanity balances on a knife’s edge, and a simple push could mean salvation—or damnation.
 
-> [!profile]+ **Profile: [[Non-Player Characters#Father Donavich|Father Donavich]]**
+> [!profile]+ **Profile: Father Donavich**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
 >
 > ***Emotions.*** In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with Doru, he most often feels hope, relief, gratitude, confusion, fear, and shame.
 >
-> ***Motivations.*** [[Non-Player Characters#Father Donavich|Father Donavich]] wants to free his son from Strahd’s clutches—at any cost.
+> ***Motivations.*** Father Donavich wants to free his son from Strahd’s clutches—at any cost.
 >
-> ***Inspirations.*** When playing [[Non-Player Characters#Father Donavich|Father Donavich]], channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Denethor (The Lord of the Rings).
+> ***Inspirations.*** When playing Father Donavich, channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Denethor (The Lord of the Rings).
 >
 > **Character Information**
-> ***Persona.*** To the world, [[Non-Player Characters#Father Donavich|Father Donavich]] is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
+> ***Persona.*** To the world, Father Donavich is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
 >
-> ***Morale.*** In a fight, [[Non-Player Characters#Father Donavich|Father Donavich]] would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
+> ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
 >
-> ***Relationships.*** [[Non-Player Characters#Father Donavich|Father Donavich]] is Doru’s father and the priest of the Barovian church.
+> ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
 
 If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
 
 As the conversation unfolds, the following exchanges might occur:
 
-* If Ismark, Ireena, or a player asks about burying the deceased burgomaster, [[Non-Player Characters#Father Donavich|Father Donavich]] informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, [[Non-Player Characters#Father Donavich|Father Donavich]] informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
-* If Ismark, Ireena, or a player informs him that [[Non-Player Characters#Gertruda|Gertruda]] (Doru's betrothed) has gone missing, [[Non-Player Characters#Father Donavich|Father Donavich]] mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
+* If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
+* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
+* If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
 
 If the players inquire further, Donavich can share the following information:
 
-* When Doru set off for Castle Ravenloft, [[Non-Player Characters#Father Donavich|Father Donavich]] gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
+* When Doru set off for Castle Ravenloft, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
 * Six days ago, as the siege was beginning, Doru returned to the church at midnight, now transformed into a **vampire spawn**. Donavich managed to lure Doru into the undercroft and trap him there.
 * Ever since Doru returned, Donavich hasn’t been able to cast spells or feel the Morninglord’s presence. He believes that this is because Doru still has his holy symbol, and that Strahd’s foul influence has corrupted Donavich’s connection to the gods.
 * Donavich believes that his son is dead, and that the creature that wears his skin is a mockery that must be destroyed.
 
 Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
 
-If the players agree, Donavich produces the key to the padlock in [[pdfs/Curse of Strahd.pdf#page=46|E5d. Trapdoor (p. 45)]] and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
+If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
 ### Descent to the Undercroft
-The undercroft is largely as described in [[pdfs/Curse of Strahd.pdf#page=48|E5g. Undercroft (p. 47)]]. However, modify the last sentence of the description as follows: 
+The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
 
 <div class="description">
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
@@ -933,7 +931,7 @@ Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to t
 Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
 
 <div class="description">
-<p>From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of [[Non-Player Characters#Father Donavich|Father Donavich]].</p>
+<p>From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of Father Donavich.</p>
 <p>His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.</p>
 <p>"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."</p>
 </div>
@@ -946,20 +944,20 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 > [!profile]+ **Profile: Doru**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and [[Non-Player Characters#Gertruda|Gertruda]].
+> ***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and Gertruda.
 >
 > ***Emotions.*** Doru most often feels grief, guilt, shame, desperation, resignation, and hope.
 >
-> ***Motivations.*** Doru wants to reconcile with his father and ensure [[Non-Player Characters#Gertruda|Gertruda]]'s safety.
+> ***Motivations.*** Doru wants to reconcile with his father and ensure Gertruda's safety.
 >
 > ***Inspirations.*** When playing Doru, channel Theon Grejoy (Game of Thrones), Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad), and Steve Harrington (Stranger Things).
 >
 > **Character Information**
 > ***Persona.*** To the world, Doru is a monstrous, bloodthirsty vampire spawn. To those he trusts, Doru is a broken, guilty man who is desperate to avoid hurting those he loves.
 >
-> ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or [[Non-Player Characters#Gertruda|Gertruda]] were endangered, he would fight savagely to protect them.
+> ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
 >
-> ***Relationships.*** Doru is [[Non-Player Characters#Father Donavich|Father Donavich]]'s son, [[Non-Player Characters#Escher|Escher]]'s former friend, and [[Non-Player Characters#Gertruda|Gertruda]]'s betrothed.
+> ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
 
 > [!info]+ **Doru Will Remember That**
 >
@@ -969,7 +967,7 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 >
 > For example, if the players antagonize Doru twice and offer no kindness or encouragement, the first die should show a three. If the second die rolls a one or a two, Doru attacks.
 
-Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell [[Non-Player Characters#Father Donavich|Father Donavich]] that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
+Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell Father Donavich that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
 
 > [!abstract] **The Players Attack**
 > Doru doesn't fight to defend himself if attacked. Instead, he curls into a ball at the end of the room and pleads for the players to give him a chance—just one chance—to prove himself. If the players decline, Doru whimpers for his father to save him as he dies, though his pleas go unheard and unheeded.
@@ -977,10 +975,10 @@ Doru’s request is simple: to prove to himself that he can control his vampiric
 Doru can also share the following information with the players if asked:
 
 * As a child, Doru was enraptured by stories of the sun and the light and hope that it once brought to the valley. As he grew older, he learned swordsmanship from Ismark and studied the book *Van Richten’s Guide to Vampires* to learn how to destroy the undead. He dreamed of one day destroying the Devil of Castle Ravenloft and bringing freedom to his people.
-* Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the burgomaster's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]].
-* Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named [[Non-Player Characters#Escher|Escher]]—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
-* With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, [[Non-Player Characters#Escher|Escher]] was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that [[Non-Player Characters#Escher|Escher]] betrayed them.)
-* Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that [[Non-Player Characters#Escher|Escher]] had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
+* Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the burgomaster's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter Dr. Rudolph van Richten.
+* Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
+* With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, Escher was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that Escher betrayed them.)
+* Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
 * Doru spent nearly three months at Castle Ravenloft, during which Strahd repeatedly forced him to drink the blood of his former companions. Six nights ago, Strahd commanded Doru to return to the church and his father. 
 * Doru can’t disobey Strahd’s direct orders, and can feel his presence at all times. His vampiric bloodthirst is a constant distraction, and it’s difficult to control his predatory urges and instincts. When he first returned to the church, he was almost grateful that his father had locked him in the undercroft, where he couldn’t do any harm.
 * Doru doesn’t know if his soul or body can be saved, but he’s kept his father’s holy symbol to remind him of his faith and family, and to steel his will against the addictions of his new form. If not for that, he suspects that he would have lost control days or even weeks ago. (Doru doesn’t know why Strahd allowed him to keep it, but suspects that Strahd viewed it as a form of ironic amusement.)
@@ -989,10 +987,10 @@ If the players ask about his argument with "Alanik," Doru admits, shamefacedly, 
 
 As the conversation continues, Doru might ask the players:
 
-* whether [[Non-Player Characters#Escher|Escher]] has been seen in the village, and
-* whether Doru’s betrothed, [[Non-Player Characters#Gertruda|Gertruda]], survived the siege.
+* whether Escher has been seen in the village, and
+* whether Doru’s betrothed, Gertruda, survived the siege.
 
-If told that [[Non-Player Characters#Gertruda|Gertruda]] has left the village alone for Vallaki—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught, but hopes aloud that she made the journey safely. He asks the players to look out for her and help bring her home should they find her. Doru feels that he has earned his fate, but believes that [[Non-Player Characters#Gertruda|Gertruda]], a good and compassionate woman, deserves far better.
+If told that Gertruda has left the village alone for Vallaki—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught, but hopes aloud that she made the journey safely. He asks the players to look out for her and help bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
 ### Doru's Trial
 If the players agree to fulfill Doru’s request by exposing him to fresh blood, he asks them to remain silent while he resists—and to strike him down if he succumbs. When the trial begins, read the following:
 
@@ -1000,7 +998,7 @@ If the players agree to fulfill Doru’s request by exposing him to fresh blood,
 <p>Doru’s muscles tense and he squeezes his eyes shut. A few moments later, his nostrils flare, and a thin line of saliva begins to run down his lips. He whimpers, his clawed fingers flexing and twitching.</p>
 <p>"When the shadows come," he whispers, “I will not yield. Darkness is the destroyer, and temptation its weapon. I will face the night and its horrors and await the horizon. For in the light of the Morninglord's love, only light can remain."</p>
 <p>Doru's voice shakes, his emaciated body trembling. One fist is clenched at his side, the other squeezing the bloodstained sunburst that lies across his neck.</p>
-<p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. [[Non-Player Characters#Gertruda|Gertruda]]. [[Non-Player Characters#Gertruda|Gertruda]]. <b><em>[[Non-Player Characters#Gertruda|Gertruda]]</em></b>  —"</p>
+<p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. Gertruda. Gertruda. <b><em>Gertruda</em></b>  —"</p>
 </div>
 
 If Doru succumbs to the bloodlust (see **Doru Will Remember That** above), he pauses, then attacks. Roll initiative.
@@ -1016,13 +1014,13 @@ Doru thanks the players and relinquishes the holy symbol without protest. If the
 
 Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel off the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
 
-If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in [[pdfs/Monster Manual.pdf#page=296|Vampire (Monster Manual, p. 297)]], as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
+If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
 
-Before the players depart, Doru asks them once more to tell [[Non-Player Characters#Father Donavich|Father Donavich]] that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
+Before the players depart, Doru asks them once more to tell Father Donavich that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
 ### The Burial
-If the players return to [[Non-Player Characters#Father Donavich|Father Donavich]] with his holy symbol in hand, he accepts it with gratitude.
+If the players return to Father Donavich with his holy symbol in hand, he accepts it with gratitude.
 
-If the players tell [[Non-Player Characters#Father Donavich|Father Donavich]] that they killed Doru to obtain the symbol, read:
+If the players tell Father Donavich that they killed Doru to obtain the symbol, read:
 
 <div class="description">
 <p>Donavich's eyes well up with tears as he clasps the symbol in his hands, holding it so tightly his knuckles begin to turn white. A strangled sob escapes him as he sinks to his knees, cradling the sunburst like an infant. </p>
@@ -1038,9 +1036,9 @@ Otherwise, if the players spared Doru and relay his final message, read:
 <p>"My boy," he chokes out. "He's—he's still my boy?" </p>
 </div>
 
-Once he’s received his holy symbol, [[Non-Player Characters#Father Donavich|Father Donavich]] gladly agrees to conduct Kolyan’s burial.
+Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
 
-The cemetery is as described in [[pdfs/Curse of Strahd.pdf#page=49|E6. Cemetery (p. 48)]]. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
+The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
 
 Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
 
@@ -1076,18 +1074,18 @@ With the burial concluded, Strahd’s bats take off into the air, vanishing up i
 Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
 
 > [!lore] **Who Knows of the Abbey?**
-> All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
+> All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
 ### Return to the Mansion
 When the players return to the burgomaster’s manor following the burial, Ismark packs them three days' worth of rations in cloth sacks for the journey to come. As he does, Ireena tells the players that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
 
 As Ismark packs the rations, he can share the following information:
 
 * The journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
-* Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given [[Non-Player Characters|Madam Eva]]'s reputation.)
+* Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given Madam Eva's reputation.)
 ## B5j. Lugdana's Knoll
 Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.)
 
-Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently debriefing a pair of Barovian **scouts** regarding their unsuccessful search for [[Non-Player Characters#Gertruda|Gertruda]]—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
+Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently debriefing a pair of Barovian **scouts** regarding their unsuccessful search for Gertruda—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
 
 Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Ireena's absence, but still wants to see her brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Ireena's favorite spots around the village—and provides brief directions to get there. 
 
@@ -1124,11 +1122,11 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 
 > [!info]+ **Ireena Joins the Party**
 >
-> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble**, and carries a light crossbow (+3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage). She also has the [[pdfs/Player's Handbook.pdf#page=168|Healer (Player's Handbook, p. 167)]] feat, and begins with two *healer's kits*.
+> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble**, and carries a light crossbow (+3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage). She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
 >
 > Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Investigation, Medicine, Perception, and Stealth, and proficiency in Dexterity saving throws. When she first joins the party at 3rd level, she has 25 (5d8) hit points.
 >
-> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See *Tasha’s Cauldron of Everything, p. 142* for more information about how to run and level sidekicks.)
+> Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
 >
 > By default, Ireena chooses the following sidekick options as she gains levels:
 >
@@ -1139,18 +1137,18 @@ When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and
 >
 > None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
 ## B5k. Mad Mary’s Townhouse
-*<em>This scene takes place in Chapter 3: Area E3.</em>*
+<span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
 
-There should be no reason for the players to visit [[pdfs/Curse of Strahd.pdf#page=45|Mad Mary’s Townhouse (p. 44)]] in this revision. However, if they do, the following changes have been made:
+There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
 
-Mad Mary did not hide [[Non-Player Characters#Gertruda|Gertruda]] in this house for her entire life. Instead, [[Non-Player Characters#Gertruda|Gertruda]] lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and [[Non-Player Characters#Gertruda|Gertruda]] initially bonded as young girls over the loss of their parents—Ireena's mother and [[Non-Player Characters#Gertruda|Gertruda]]'s father.) When he was alive, [[Non-Player Characters#Gertruda|Gertruda]]’s father was a merchant who raised [[Non-Player Characters#Gertruda|Gertruda]] on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
+Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and Gertruda initially bonded as young girls over the loss of their parents—Ireena's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
 
-The first floor of this old, dirty dwelling comprises a one-room divided living space. To the north lies a small kitchen, its countertops dirty and covered with dust. There is a broken glass on the floor and a rotted meal for two set on a table covered with a dirty blue tablecloth. (Mary poured herself a glass of wine to steady her nerves after realizing [[Non-Player Characters#Gertruda|Gertruda]]'s disappearance, and dropped it on the floor in anguish.)
+The first floor of this old, dirty dwelling comprises a one-room divided living space. To the north lies a small kitchen, its countertops dirty and covered with dust. There is a broken glass on the floor and a rotted meal for two set on a table covered with a dirty blue tablecloth. (Mary poured herself a glass of wine to steady her nerves after realizing Gertruda's disappearance, and dropped it on the floor in anguish.)
 
 A small sitting area to the south contains a fireplace, two comfortable armchairs, and a dirty rug. Stairs lead up from here to the second floor.
 
 The second floor corridor contains three wooden doors. One leads to a bathroom with an unemptied chamber pot and a bowl of dirty bathwater. Another leads to Mary’s bedroom, which holds a writing desk and a bed. (If found here, Mary is sitting on the bed, quietly sobbing.) 
 
-The third door, which is slightly ajar, leads to [[Non-Player Characters#Gertruda|Gertruda]]’s bedroom; a tray holding a broken tea kettle and cup has shattered on the floor before it. (Mary was bringing [[Non-Player Characters#Gertruda|Gertruda]] tea when she found her daughter missing, and dropped it in horror.)
+The third door, which is slightly ajar, leads to Gertruda’s bedroom; a tray holding a broken tea kettle and cup has shattered on the floor before it. (Mary was bringing Gertruda tea when she found her daughter missing, and dropped it in horror.)
 
-[[Non-Player Characters#Gertruda|Gertruda]]'s room holds a clumsily handwoven dress and a shelf holding a dozen well-read, dog-eared books, as well as a hairbrush, a rug, and an open window.
+Gertruda's room holds a clumsily handwoven dress and a shelf holding a dozen well-read, dog-eared books, as well as a hairbrush, a rug, and an open window.

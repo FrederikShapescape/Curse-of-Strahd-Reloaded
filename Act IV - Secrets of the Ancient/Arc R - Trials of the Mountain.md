@@ -992,7 +992,7 @@ One hour after the players have begun their long rest, Strahd again scries and v
 
 If the door is answered, Strahd cordially requests permission to enter. If the players agree to do so, Strahd enters the tower, makes a critical comment regarding its interior and/or the players’ campsite, and instructs the players to meet him on the roof. He then assumes his mist form, flies to the tower roof, and resumes his original form. When the players join him, proceed to [[#Strahd’s Questions]].
 
-Otherwise, Strahd smiles coldly and asks if the players are familiar with the topography upon which their ill-chosen resting place lies. "This mountain," he adds, his voice touched with a sharp amusement, "is ancient, its crags shaped by millennia of erosion. The tower in which you currently stand is perched upon a cliffside—one that, in turn, rests upon a natural arch of stone. Nature’s formations are long-lived indeed, but to an immortal’s eyes, even they can grow withered with age." 
+Otherwise, Strahd smiles coldly and asks if the players are familiar with the topography upon which their ill-chosen resting place lies. "This mountain," he adds, his voice touched with a sharp amusement, "is ancient, its crags shaped by millennia of erosion. The tower in which you currently stand is perched upon a cliffside—one that, in turn, rests upon a natural overhang of stone. Nature’s formations are long-lived indeed, but to an immortal’s eyes, even they can grow withered with age." 
 
 Strahd pauses and allows his words to linger before continuing: "This particular formation, I regret to inform you, has worn thinner with each passing century. Should it collide with a force of suitable strength, I fear this lofty perch may not rest quite so high as it does now. Yet I am the Land—and for as long as I wish it, no harm shall come to its foundations."
 
@@ -1019,7 +1019,7 @@ If the players subsequently invite Strahd inside, he offers them a cold, mocking
 >
 > <hr> 
 > 
-> The characters have one round to vacate the tower. When the round ends, Strahd casts _lightning bolt_ to destroy the arch supporting the cliff’s weight. Read:
+> The characters have one round to vacate the tower. When the round ends, Strahd casts _lightning bolt_ to destroy the overhang supporting the cliff’s weight. Read:
 > 
 > <hr>
 > 
@@ -1484,7 +1484,7 @@ If a player follows the corridor, read:
 
 The western path leads to [[#The Trash Heap]], the eastern path leads to [[#The Amber Shrine]], and the southern path leads to [[#The Room of Regret]]. Each tunnel curves out of sight, obscuring whatever lies beyond.
 
-![[The Bodak Cave.png]]
+
 
 If the bodaks are active when the players enter this area, a player with a passive Wisdom (Perception) score of 16 or greater notices a silhouette briefly flicker across the wall of the eastern tunnel (leading to [[#The Amber Shrine]]). (The silhouette belongs to Deirdre, who has vacated [[#The Eastern Nest]] to investigate the newcomers. If the players approach the eastern tunnel, Deirdre exits [[#The Amber Shrine]] and returns to [[#The Eastern Nest]].)
 
@@ -2381,6 +2381,9 @@ The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder 
 
 ![[Burebis_hi-res.jpg]]
 <span class="credit">"Elder Burebis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+![[The_Shrine_of_the_Rozana.jpg]]
+<span class="credit">"Shrine of the Rozana" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/DM_Andy/posts/cos-reloaded-of-166310502">here!</a></span>
 
 > [!lore]+ **Elder Burebis**
 > One thousand years ago, the young and arrogant storm giant Burebis came to the valley of Barovia—then called Girvisa by the Tauta—seeking to prove his abilities in foresight against the being called "the Seeker." Although Burebis lost their competition—a series of predictions regarding an impending storm—the Seeker was impressed by his audacity and skill, and invited him to become her student in the ways of omen-finding and foresight.
