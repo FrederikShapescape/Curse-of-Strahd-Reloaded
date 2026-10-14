@@ -708,7 +708,7 @@ Mens hun blander bunken, bemærker spillerne en fløjelspose på jorden ved side
 
 Hvis spillerne accepterer [[Non-Player Characters|Madam Eva]]s anmodning eller spørger videre, informerer hun dem om at posen indeholder ti guldstykker. "Mit oldebarnsbarnsbarn, Arabelle, fejrer sin tiende navnedag om to dage," siger hun. "Til denne betydningsfulde lejlighed ønsker jeg at give hende en gave — men i min høje alder er jeg ude af stand til at foretage rejsen selv."
 
-[[Non-Player Characters|Madam Eva]] beder spillerne om at bruge midlerne i posen til at købe et stykke legetøj til Arabelle hos Blinsky Toys i Vallaki — Blinskys, bemærker hun kærligt, er Arabelles favoritter — og levere legetøjet til Vistani-lejren sydvest for Vallaki inden middag på Arabelles navnedag. Hun tilføjer at spillerne er velkomne til at beholde eventuel byttepenge som betaling for deres umage.
+[[Non-Player Characters|Madam Eva]] beder spillerne om at bruge midlerne i posen til at købe et stykke legetøj til Arabelle hos Blinsky Toys i Vallaki — Blinskys, bemærker hun kærligt, er Arabelles favoritter — og levere legetøjet til Vistani-lejren sydvest for Vallaki inden kl. 12 på Arabelles navnedag. Hun tilføjer at spillerne er velkomne til at beholde eventuel byttepenge som betaling for deres umage.
 
 Eva tilføjer, med et kryptisk smil, at spillerne måske vil nyde at tale med Arabelle, da hun er "et højst interessant barn" — og at spillerne måske finder venskab med hendes familie en gave i sig selv. (Hvis spillerne spørger, deler Eva kun at Arabelles far, [[Non-Player Characters#Luvash|Luvash]], er leder af Vallakian-Vistani-lejren, og hans bror [[Non-Player Characters#Arrigal|Arrigal]] en "sansende og intelligent mand.")
 
@@ -1472,7 +1472,7 @@ Når spillerne først træder ud af deres værelser ud på *N2k. Guest Balcony* 
 
 Idet han sænker sin stemme, advarer Urwin spillerne om at de skal være forsigtige i Vallaki — både på grund af byens hårde retshåndhævelse og nylige politiske spændinger. Urwin kan dele følgende yderligere information, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=97|Vallaki Lore (p. 96)]]:
 
-* Datoen for Festival of the Blazing Sun, som finder sted fra daggry til middag på spillernes femte hele dag i Vallaki,
+* Datoen for Festival of the Blazing Sun, som finder sted fra daggry til kl. 12 på spillernes femte hele dag i Vallaki,
 * Vallakis nyere historie af festivaler,
 * Baronens strenge regler vedrørende hans festivaler — og skæbnen for dem der taler ondt om dem,
 * [[Non-Player Characters#Izek Strazni|Izek Stranis]] brutale natur og frygtelige styrke, baronens håndlanger. ("Mange har forsøgt at teste hans styrke," bemærker Urwin alvorligt. "Alle har fejlet.")

@@ -25,7 +25,7 @@
 | Monster | Trykt | PDF-link |
 |---|:---:|---|
 | **Strahd Zombie** | CoS App D | (se nedenfor — CoS Appendix D) |
-| **Vampire Spawn** (Doru) | p298 | [[pdfs/Monster Manual.pdf#page=298\|Vampire Spawn (MM p. 298)]] |
+| **Vampire Spawn** (Doru) | p298 | [[pdfs/Monster Manual.pdf#page=299\|Vampire Spawn (MM p. 298)]] |
 | **Zombie** | p315 | [[pdfs/Monster Manual.pdf#page=315\|Zombie (MM p. 315)]] |
 | **Wolf** | p341 | [[pdfs/Monster Manual.pdf#page=341\|Wolf (MM p. 341)]] |
 | **Dire Wolf** | p321 | [[pdfs/Monster Manual.pdf#page=321\|Dire Wolf (MM p. 321)]] |
@@ -66,7 +66,7 @@
 | **Swarm of Bats** | p337 | [[pdfs/Monster Manual.pdf#page=337\|Swarm of Bats (MM p. 337)]] |
 | **Swarm of Insects** | p338 | [[pdfs/Monster Manual.pdf#page=338\|Swarm of Insects (MM p. 338)]] |
 | **Vampire** | p297 | [[pdfs/Monster Manual.pdf#page=297\|Vampire (MM p. 297)]] |
-| **Vampire Spawn** | p298 | [[pdfs/Monster Manual.pdf#page=298\|Vampire Spawn (MM p. 298)]] |
+| **Vampire Spawn** | p298 | [[pdfs/Monster Manual.pdf#page=299\|Vampire Spawn (MM p. 298)]] |
 | **Werewolf** | p211 | [[pdfs/Monster Manual.pdf#page=211\|Werewolf (MM p. 211)]] |
 | **Wight** | p300 | [[pdfs/Monster Manual.pdf#page=300\|Wight (MM p. 300)]] |
 | **Will-o'-Wisp** | p301 | [[pdfs/Monster Manual.pdf#page=301\|Will-o'-Wisp (MM p. 301)]] |

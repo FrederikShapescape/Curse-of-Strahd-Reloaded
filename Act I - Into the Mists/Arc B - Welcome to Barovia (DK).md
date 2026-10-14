@@ -938,7 +938,7 @@ Hvis han erfarer at Ismark og Ireena er med spillerne, opfører Donavich sig var
 Mens samtalen udspiller sig, kan følgende udvekslinger finde sted:
 
 * Hvis Ismark, Ireena eller en spiller spørger om begravelse af den afdøde borgmester, informerer [[Non-Player Characters#Father Donavich|Father Donavich]] dem om at han med glæde vil forestå en begravelse, men at han ikke kan udføre de hellige ritualer der ville helliggøre Kolyans jordiske rester. (Donavich er bedrøvet over at høre om Kolyans død, og udtrykker sin medfølelse.)
-* Hvis Ismark, Ireena eller en spiller bemærker skaderne på kirken, informerer [[Non-Player Characters#Father Donavich|Father Donavich]] dem om at de blev forårsaget af en **vampire spawn** der angreb under belejringen — den udøde skal af hans søn, Doru. (Både Ismark og Ireena er chokerede og forfærdede over at høre om Dorus skæbne, da de troede han døde ved Castle Ravenloft.)
+* Hvis Ismark, Ireena eller en spiller bemærker skaderne på kirken, informerer [[Non-Player Characters#Father Donavich|Father Donavich]] dem om at de blev forårsaget af en **vampire spawn** der angreb under belejringen — den udøde skal af hans søn, [[Non-Player Characters#Doru|Doru]]. (Både Ismark og Ireena er chokerede og forfærdede over at høre om Dorus skæbne, da de troede han døde ved Castle Ravenloft.)
 * Hvis Ismark, Ireena eller en spiller informerer ham om at [[Non-Player Characters#Gertruda|Gertruda]] (Dorus forlovede) er forsvundet, sørger [[Non-Player Characters#Father Donavich|Father Donavich]] over hende og mumler en stille bøn om at Morgenens Herre beskytter hendes sjæl.
 
 Hvis spillerne spørger videre, kan Donavich dele følgende information:
@@ -963,7 +963,7 @@ Krypten er en lav, klam kælder under kapellet. Læs følgende når spillerne st
 
 *(Rumbeskrivelsen er inlinet + oversat fra CoS E5g, s. 47, så du ikke skal åbne PDF'en under spil. CoC:R's eneste ændring til originalen er den sidste sætning: den oprindelige "du får et glimt af en udtæret skikkelse i det fjerne hjørne" er fjernet — Doru opdages i stedet via passive Perception 16, se lige nedenfor.)*
 
-Doru, en **vampire spawn**, har brugt sin ***spider climb*** feature til at klamre sig til loftet ved lyden af spillernes tilnærmelse. En spiller med en passive Wisdom (Perception) score på 16 eller højere opdager ham automatisk i det mørke øverste hjørne på den fjerne side af rummet. Ellers læs følgende efter at én runde er gået:
+[[Non-Player Characters#Doru|Doru]], en **vampire spawn** ([[Combat Statblocks (DK)#Vampire Spawn|statblock]]), har brugt sin ***spider climb*** feature til at klamre sig til loftet ved lyden af spillernes tilnærmelse. En spiller med en passive Wisdom (Perception) score på 16 eller højere opdager ham automatisk i det mørke øverste hjørne på den fjerne side af rummet. Ellers læs følgende efter at én runde er gået:
 
 > [!quote]+ **Læs højt**
 > En ung mands stemme, anstrengt og træt, genlyder fra mørket ovenover. "I er kommet for at dræbe mig, ikke sandt?"
@@ -1047,7 +1047,16 @@ Hvis spillerne accepterer at opfylde Dorus bøn ved at udsætte ham for frisk bl
 >
 > "I lyset af Morgenens Herres kærlighed," gentager han, gispende efter luft. "I lyset af Morgenens Herres kærlighed. [[Non-Player Characters#Gertruda|Gertruda]]. [[Non-Player Characters#Gertruda|Gertruda]]. ***[[Non-Player Characters#Gertruda|Gertruda]]*** —"
 
-Hvis Doru bukker under for blodtørsten (se **Doru Will Remember That** ovenfor), holder han en pause, og angriber derefter. Rul initiative.
+Hvis Doru bukker under for blodtørsten (se **Doru Will Remember That** ovenfor), holder han en pause, og angriber derefter kilden til blodet. Rul initiative.
+
+> [!combat]- **Combat - Doru (vampire spawn)**
+> **Statblock:** [[Combat Statblocks (DK)#Vampire Spawn|Vampire Spawn (kompakt, m. CoS:R Fast Grappler)]] · [[pdfs/Monster Manual.pdf#page=299|Vampire Spawn (MM p. 298)]]
+> **Combat Level**: Deadly for 4 × level 3 — CR 5, 82 HP, regenererer 10 HP/tur.
+> - **Regeneration stoppes** af radiant damage eller holy water — Darius' **Divine Smite** er gruppens bedste våben her.
+> - Doru er **ikke-magisk modstandsdygtig** (b/p/s) — almindelige våben gør halv skade.
+> - Han går efter den der bløder (**kilden til blodet**) og forsøger at grapple + bide.
+> - **Ismark** lovede at komme ned hvis Doru bliver for farlig — han kan ankomme efter 1–2 runder som ekstra sværd (**veteran**).
+> - Doru *forsvarer sig ikke* hvis spillerne angriber ham **før** prøven (se **The Players Attack** ovenfor) — denne kamp sker kun hvis han bukker under.
 
 Ellers, hvis Doru succesfuldt modstår blodtørsten, læs:
 
@@ -1122,19 +1131,18 @@ Donavich ser flagermusenes tilstedeværelse som et dårligt varsel. I et overras
 > [!lore] **Who Knows of the Abbey?**
 > All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
 ### Return to the Mansion
-Når spillerne vender tilbage til borgmesterens herregård efter begravelsen, pakker Ismark dem tre dages rationer i klædeposer til rejsen der venter. Mens han gør det, fortæller Ireena spillerne at hun er klar til at rejse ved middagstid. Indtil da er spillerne frie til at udforske landsbyen, handle i Bildrath's Mercantile, eller på anden vis tilbringe tiden.
+Når spillerne vender tilbage til borgmesterens herregård efter begravelsen, pakker Ismark dem tre dages rationer i klædeposer til rejsen der venter. Mens han gør det, fortæller Ireena spillerne at hun er klar til at rejse ved middagstid (kl. 12). Indtil da er spillerne frie til at udforske landsbyen, handle i Bildrath's Mercantile, eller på anden vis tilbringe tiden.
 
 Mens Ismark pakker rationerne, kan han dele følgende information:
 
 * Rejsen til Vallaki er mere end en dags rejse hvis spillerne planlægger at besøge Tser Sø først, og at Ireena og spillerne sandsynligvis bliver nødt til at tilbringe en nat på vejen. Han anbefaler at gøre det ved Tser Sø selv.
 * Tser Sø er lidt under to timers rejse fra Barovia. (Selvom nogle Vistani efter sigende er i ledtog med Strahd, er Tser Sø kendt for at være et sikkert sted for rejsende at tilbringe natten, især givet [[Non-Player Characters|Madam Evas]] ry.)
 ## B5j. Lugdana's Knoll
-Cirka en time før middag sniger [[Non-Player Characters#Ireena Kolyana|Ireena]] sig stille ud af herregården og går til Lugdana's Knoll, en lille, stille bakke nord for Barovia. (Bakken er opkaldt efter paladinen Lugdana, som ifølge legenden først mødte borgmester Ismark Antonovich den Store på netop den bakke.)
+Cirka kl. 11 om formiddagen sniger [[Non-Player Characters#Ireena Kolyana|Ireena]] sig stille ud af herregården og går til Lugdana's Knoll, en lille, stille bakke nord for Barovia. (Bakken er opkaldt efter paladinen Lugdana, som ifølge legenden først mødte borgmester Ismark Antonovich den Store på netop den bakke.)
 
-Kort før middag, hvis spillerne ikke har holdt øje med hende, bemærker [[Non-Player Characters#Ismark Kolyanovich|Ismark]] — der i øjeblikket debriefes af et par barovianske **scouts** vedrørende deres mislykkede eftersøgning efter [[Non-Player Characters#Gertruda|Gertruda]] — Ireenas fravær med mild bekymring og beder spillerne finde hende og bringe hende hjem.
+Kort før kl. 12, hvis spillerne ikke har holdt øje med hende, bemærker [[Non-Player Characters#Ismark Kolyanovich|Ismark]] — der i øjeblikket debriefes af et par barovianske **scouts** vedrørende deres mislykkede eftersøgning efter [[Non-Player Characters#Gertruda|Gertruda]] — Ireenas fravær med mild bekymring og beder spillerne finde hende og bringe hende hjem.
 
-%% @claude Afsnittet herunder forstår jeg ikke... Tiden er "kort før midnat" og "Strahd og hans tjener besøger kun om natter"... Hvordan er Ismark ikke bekymret her?? Det er nat nu! %%
-Fordi Strahd og hans tjenere kun har besøgt om natten, er Ismark ikke mærkbart alarmeret over Ireenas fravær, men ønsker stadig at se hende bragt hjem så hurtigt som rimeligt muligt. Ismark anbefaler at spillerne tjekker Lugdana's Knoll først — et af Ireenas yndlingssteder omkring landsbyen — og giver korte retningsanvisninger.
+Det er højlys dag, og Strahd og hans tjenere har kun angrebet om natten — så Ismark er ikke alarmeret over Ireenas fravær, men vil stadig gerne have hende hjem så hurtigt som muligt. Ismark anbefaler at spillerne tjekker Lugdana's Knoll først — et af Ireenas yndlingssteder omkring landsbyen — og giver korte retningsanvisninger.
 
 Hvis spillerne besøger bakken, læs:
 
@@ -1143,7 +1151,7 @@ Hvis spillerne besøger bakken, læs:
 >
 > Et ensomt træ står oven på bakken, dets krogede grene rækker mod himlen som udstrakte arme. Under dets skygge knæler en kvindelig skikkelse, hendes blik fixeret mod jorden.
 
-Skikkelsen er Ireena, der har iført sig sin brystplade og karrde og nu bærer et rødt tørklæde om halsen. Mens spillerne nærmer sig, kan de se at hun bruger en planteskuffe %% @claude Jeg ved ikke hvad "planteskuffe" er. Tror ikke det er et dansk ord. Hvad var det originale engelske? %% til at grave et hul i jorden mellem træets rødder. Ireena, fixeret på sit arbejde, bemærker ikke spillerne før de kalder på hende eller på anden vis træder ind i hendes synsfelt.
+Skikkelsen er Ireena, der har iført sig sin brystplade og kårde og nu bærer et rødt tørklæde om halsen. Mens spillerne nærmer sig, kan de se at hun bruger en lille plantespade til at grave et hul i jorden mellem træets rødder. Ireena, fixeret på sit arbejde, bemærker ikke spillerne før de kalder på hende eller på anden vis træder ind i hendes synsfelt.
 
 Ireena hilser spillerne varmt, om end med nogen forlegenhed over at have fået dem til at lede efter hende. Hun deler frit at hun graver efter en lille trækiste som hun og hendes mor, Korina Targolova, begravede her før hendes mors død for fjorten år siden — en kiste hvis indhold hun håber at tage med som et minde når hun tager af sted til Vallaki, da hun ikke ved hvornår, om nogensinde, hun kan vende hjem.
 
@@ -1161,7 +1169,7 @@ Efter at have delt genstandene i kisten, fjerner Ireena sit tørklæde og afslø
 
 Vreden forlader hende da hun tilføjer, stemmen strammer: "De siger kvinder med rødt hår bringer ulykke. Jeg er ked af det — jeg ønskede aldrig at bringe nogen til jer." (Hun er taknemmelig for enhver beroligelse spillerne måtte tilbyde.)
 
-Ireena vender gerne tilbage til herregården med spillerne, eller vender selv tilbage kort efter middag hvis spillerne ikke fandt hende. Hun henter derefter en pakket rejsetaske fra sit værelse.
+Ireena vender gerne tilbage til herregården med spillerne, eller vender selv tilbage kort efter kl. 12 hvis spillerne ikke fandt hende. Hun henter derefter en pakket rejsetaske fra sit værelse.
 
 Når spillerne er klar til at rejse, tager Ireena hjertelig afsked med Ismark og drager af sted på vejen.
 
