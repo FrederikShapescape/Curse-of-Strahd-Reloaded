@@ -436,7 +436,7 @@ Hvis rustningen kastes ned til stueetagen og spillerne ikke afslører deres tils
 En skabning der skubbes over balkonens kant falder to etager, eller tyve fod, og tager 2d6 bludgeoning damage. Den skabning skal bestå et DC 15 Dexterity (Acrobatics) check eller lande prone.
 
 > [!combat]- **Combat - Animated Armor**  
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=19|Animated Armor (MM p. 19)]]
+> **Statblock:** [[pdfs/Monster Manual.pdf#page=20|Animated Armor (MM p. 19)]]
 > **Combat Level**: Mild
 > **Expected Character Level**: 2
 > **Expected HP Consumption:** 15%
@@ -829,7 +829,7 @@ Hvis spillerne forstyrrer gricken, læs:
 > Den udsender et højt, gurglenede hvin mens den kaster sig fremad, vridende sig, sene-lignende tentakler pisker mod jeres ansigter.
 
 > [!combat]- **Combat - Grick**
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=173|Grick (MM p. 173)]]
+> **Statblock:** [[pdfs/Monster Manual.pdf#page=174|Grick (MM p. 173)]]
 > **Combat Level**: Bruising
 > **Expected Character Level**: 2
 > **Expected HP Consumption:** 28%  
@@ -865,7 +865,7 @@ Når en spiller først træder ind i en af 5-fods felterne ved korridorens indga
 
 ![[Ghoulish Encounter Map.png]]
 > [!combat]- **Combat - Ghouls**
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=148|Ghoul (MM p. 148)]]
+> **Statblock:** [[pdfs/Monster Manual.pdf#page=149|Ghoul (MM p. 148)]]
 > **Combat Level**: 3 consecutive Mild encounters
 > **Expected Character Level**: 2
 > **Expected HP Consumption:** 15% each, total of 45%
@@ -944,7 +944,7 @@ Skyggerne opnår følgende ekstra feature:
 ***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
 
 > [!combat]- **Combat - Shadows**
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=269|Shadow (MM p. 269)]]
+> **Statblock:** [[pdfs/Monster Manual.pdf#page=270|Shadow (MM p. 269)]]
 > **Combat Level**: Crushing
 > **Expected Character Level**: 2
 > **Expected HP Consumption:** 131%
@@ -1329,7 +1329,7 @@ Hvis spillerne succesfuldt overtaler Gustav til at træde til side, advarer han 
 Apparitionerne er harmløse og uberørlige figmenter der ikke kan beskadiges, vendes eller opløses. Ved slutningen af hver runde skal hver spiller der forbliver mellem apparitionerne bestå et DC 10 Dexterity saving throw eller tage 2 (1d4) bludgeoning damage fra nedfaldende murbrokker.
 
 > [!combat]- **Balancing the Escape** 
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=301|Will-o'-Wisp (MM p. 301)]]
+> **Statblock:** [[pdfs/Monster Manual.pdf#page=302|Will-o'-Wisp (MM p. 301)]]
 > This encounter is designed to be a threat for a party of five 2nd-level players. For parties of much smaller sizes, modify the encounter as follows: 
 > * ***Three Players.***  Reduce the damage per round to 1 bludgeoning.
 

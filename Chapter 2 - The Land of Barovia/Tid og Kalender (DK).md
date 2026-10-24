@@ -55,16 +55,22 @@ Marcellus fandt invitationen i Death House: **"13 Neyavr, 348"**. Håkan genkend
 - **348 = Baroviansk Kalender-år 348** (B.K.)
 - Mellem 348 og 735 (nu) er der **387 år**
 - Death House har stået forladt i ~400 år — **det er ægte ældgammelt**
-- Dursterne har været døde i nær fire århundreder
+- Dursterne har været døde i nær fire århundreder (de døde ~352–353 B.K., kort efter Strahd blev vampyr)
 - Knoglerne i kælderen er fra Era of Blood (Strahd's tidligste vampyr-år)
 
 ## Hvordan det passer med Strahd-historien
 
 | Årstal | Begivenhed |
 |---|---|
-| **351 B.K.** | Strahd bliver vampyr, Mists kommer over Barovia |
-| **~348 B.K.** | Death House-middagen → Durst-familiens kult-aktiviteter eskalerer, deres børn (Rose, Thorn, Walter) myrdes som ofring til Strahd-skikkelsen |
-| **348-735 B.K.** | Death House forladt; relikvie-trækket samler udlændinge ind |
+| **~347 B.K.** | Durst-møllen åbner (invitationen fejrer dens etårsdag) |
+| **13 Neyavr 348 B.K.** ⭐ | **Death House-middagen** — dengang blot en velstående møllerfamilies selskab. Intet ondt endnu. |
+| **351 B.K.** | Strahd bliver vampyr; tågerne lukker sig om Barovia |
+| **~351–352 B.K.** | Elisabeth Durst finder ravskåret, myrder Gustav og spædbarnet Walter (som hun genopvækker); kulten opstår og tilbeder Strahd; Rose og Thorn låses inde på loftet og sulter ihjel |
+| **352 B.K.** | Etårsdagen for tågerne: kulten søger til Ravenloft og afvises (Strahds brev i det hemmelige rum) |
+| **~352–353 B.K.** | Kulten ofrer eventyrere, som Strahd selv havde udset sig → Strahd dræber Elisabeth og hele kulten. Huset bliver hjemsøgt |
+| **~353–735 B.K.** | Death House forladt; relikvie-trækket samler udlændinge ind |
+
+*Kilde: CoS:R, [[History of Barovia#Strahd’s First Followers|History of Barovia — Strahd's First Followers]]. (Rettet 2026-10-25: middagen ligger tre år **før** Strahds forvandling, ikke efter.)*
 | **735 B.K. (nu)** | Spillerne dukker op i huset, ledt af deres families relikvier |
 
 **Death House er Strahds ankerpunkt udadtil** (per [[Guldskjold-familiens hemmelighed (DK)]]). Det manifesterer for udlændinge der bærer relikvier knyttet til Barovia. Det er ikke en bygning der eksisterer kontinuerligt — det er en magisk fælde der dukker op for de rejsende den vil have.
@@ -73,7 +79,7 @@ Marcellus fandt invitationen i Death House: **"13 Neyavr, 348"**. Håkan genkend
 
 Tidligst **Session 4 i Vinens Blod Kro**, hvis nogen spiller forbinder "735 B.K." (som Ismark nævner) med "348" (på invitationen). Sandsynligvis senere — det er ikke afgørende at de gør det. Hvis de gør det selv:
 
-> **Spillerens "OH"-moment:** *"Vent — vi var i et hus der har stået forladt i 400 år. Børnene vi mødte... de har været døde siden Strahd blev vampyr."*
+> **Spillerens "OH"-moment:** *"Vent — vi var i et hus der har stået forladt i 400 år. Børnene vi mødte... de døde kort efter Strahd blev vampyr."*
 
 ---
 
@@ -97,7 +103,7 @@ Tidligst **Session 4 i Vinens Blod Kro**, hvis nogen spiller forbinder "735 B.K.
 | **Indbyggertal**                | ~300-400 landsbybeboere + gård-stab                                                                                                                                                       |
 | **Politisk status**             | Lille adelig holding under Daggerfords hertugdom. Darius den Gode var dens **Lord**                                                                                                       |
 | **Økonomi**                     | Sølvminer i bjergene mod øst (forklarer familiens stille rigdom — i sandhed: mønten beskytter familien som Aldric tog fra Strahd. Sølvet kom da Aldric købte godset af forrige ejer)      |
-| **Status i Faerûn**             | Nyrig adel — Guldskjold-navnet er kun ~700 år gammelt, ungt sammenlignet med rigtige stamslægter. Marcellus' *Pride/Wealth* udspringer delvist af kompensation for slægtens "unge" status |
+| **Status i Faerûn**             | Nyrig adel — Guldskjold-navnet er kun ~387 år gammelt (Hvidholm grundlagt ~1110 DR), ungt sammenlignet med rigtige stamslægter. Marcellus' *Pride/Wealth* udspringer delvist af kompensation for slægtens "unge" status |
 | **Kalendersystem**              | **Dale Reckoning (DR)** — standard Faerûn                                                                                                                                                 |
 | **Spillernes nuværende år**     | **1496 DR**                                                                                                                                                                               |
 | **Marcellus' kalenderkendskab** | Bekendt med DR; genkender ikke 348 B.K. som Baroviansk (forskelligt nummersystem). Håkans Session 1-improv ("ligende systemer fra andre lande") holder fint                               |
@@ -161,6 +167,8 @@ Spillerne tager afsted fra Hvidholm i Marpenoth 1496 DR. Hvis nogen kommenterer 
 | **346-351 B.K.** | "Era of Blood" — Strahd's erobringskrige + Argynvost-faldet |
 | **~349 B.K.** | Battle of the Luna River — Sølvdragens Orden knust, Argynvost dræbt |
 | **~349 B.K.** | Sir Aldric Guldskjold tager Strahds mønt, tøver ved porten → orden falder *(Guldskjold-baggrund — DM-canon)* |
+| **~347 B.K.** | Durst-møllen åbner |
+| **348 B.K.** ⭐ | **Death House-middagen** (invitationen Marcellus fandt) — før mørket |
 
 ## Post-vampire-Strahd
 
@@ -168,9 +176,9 @@ Spillerne tager afsted fra Hvidholm i Marpenoth 1496 DR. Hvis nogen kommenterer 
 |---|---|
 | **351 B.K.** | Strahd bliver vampyr; Mists kommer; Barovia forseglet |
 | **~351-352 B.K.** | Saint Markovia angriber Castle Ravenloft → dræbes |
-| **~351 B.K.** | Dursterne slår sig ned i landsbyen Barovia |
-| **348 B.K.** ⭐ | **Death House-middagen** (invitationen Marcellus fandt) |
-| **~347 B.K.** | Dursterne myrder Walter; Rose & Thorn dør; huset bliver hjemsøgt |
+| **~351–352 B.K.** | Elisabeth Durst myrder Gustav og Walter; kulten opstår; Rose & Thorn dør |
+| **352 B.K.** | Durst-kulten afvises på Ravenloft |
+| **~352–353 B.K.** | Strahd udsletter Durst-kulten; huset bliver hjemsøgt |
 | **~618 B.K.** | Ismark Antonovich (den Store) født |
 | **662 B.K.** | Ismark Antonovich dør (44 år gammel) — statuen i Barovia |
 | **~635 B.K.** | Strahd falder i seneste dvale (~100 år siden per Bildrath) |
@@ -202,7 +210,7 @@ Forskellige NPCs ved forskelligt. Brug denne tabel som scripts.
 | "Hvor længe siden blev Strahd vampyr?" | "Hundredevis af år. Mit folk har levet i tågerne i fire århundreder, måske længere. Den nøjagtige dato kender jeg ikke — Madam Eva ville vide det bedre." |
 | "Hvornår var oldefar Ismark Antonovich aktiv?" | "Han døde for 73 år siden — i 662. Men han kæmpede vampyrer i sin storhedstid, måske 30-40 år før." |
 | "Hvor længe har Strahd sovet?" | "Omkring hundrede år, siges det. Min far huskede sin egen far fortælle om en tid hvor flagermus fløj fra slottet hver nat. Det stoppede pludseligt — og blev ved med at være stille indtil for tre måneder siden." |
-| Hvis vist 348-invitation | *(rynker på panden)* "Tretten Neyavr, tre-otteogtres... det er den Baroviansk Kalender. Tre hundrede og... nær fire hundrede år siden. Hvor i alverden fandt I det?" |
+| Hvis vist 348-invitation | *(rynker på panden)* "Tretten Neyavr, tre hundrede og otteogfyrre... det er den Baroviansk Kalender. Tre hundrede og... nær fire hundrede år siden. Hvor i alverden fandt I det?" |
 
 ## Ireena Kolyana
 
@@ -226,7 +234,7 @@ Forskellige NPCs ved forskelligt. Brug denne tabel som scripts.
 | Spørgsmål | Svar |
 |---|---|
 | "Hvilket år blev Strahd vampyr?" | *"351, ved en bryllupsmorgen. Han skubbede sin bror af et tårn og jagede sin elskede ud over kanten af en klippe. Jeg var der. Jeg vil aldrig glemme dagens datum."* |
-| Vist 348-invitation | *"Tretten Neyavr, tre-otteogtres. Tre år efter Mists. Dursterne fejrede deres nye herre. Deres børn... led for det."* |
+| Vist 348-invitation | *"Tretten Neyavr, tre hundrede og otteogfyrre. Tre år før tågerne kom. Dengang var Dursterne blot møllere, der fejrede deres held. Det, der kom bagefter... deres børn betalte for det."* |
 
 ## Generiske barovianere
 

@@ -13,12 +13,12 @@
 
 | Monster | Trykt | PDF-link |
 |---|:---:|---|
-| **Animated Armor** | p19 | [[pdfs/Monster Manual.pdf#page=19\|Animated Armor (MM p. 19)]] |
-| **Ghoul** | p148 | [[pdfs/Monster Manual.pdf#page=148\|Ghoul (MM p. 148)]] |
-| **Grick** | p173 | [[pdfs/Monster Manual.pdf#page=173\|Grick (MM p. 173)]] |
-| **Poltergeist** (Ghost variant) | p147 | [[pdfs/Monster Manual.pdf#page=147\|Poltergeist (MM p. 147)]] |
-| **Shadow** | p269 | [[pdfs/Monster Manual.pdf#page=269\|Shadow (MM p. 269)]] |
-| **Specter** | p279 | [[pdfs/Monster Manual.pdf#page=279\|Specter (MM p. 279)]] |
+| **Animated Armor** | p19 | [[pdfs/Monster Manual.pdf#page=20\|Animated Armor (MM p. 19)]] |
+| **Ghoul** | p148 | [[pdfs/Monster Manual.pdf#page=149\|Ghoul (MM p. 148)]] |
+| **Grick** | p173 | [[pdfs/Monster Manual.pdf#page=174\|Grick (MM p. 173)]] |
+| **Poltergeist** (Ghost variant) | p147 | [[pdfs/Monster Manual.pdf#page=149\|Poltergeist (MM p. 148)]] |
+| **Shadow** | p269 | [[pdfs/Monster Manual.pdf#page=270\|Shadow (MM p. 269)]] |
+| **Specter** | p279 | [[pdfs/Monster Manual.pdf#page=280\|Specter (MM p. 279)]] |
 
 ## Combat-monstre fra Arc B (Welcome to Barovia)
 
@@ -26,53 +26,53 @@
 |---|:---:|---|
 | **Strahd Zombie** | CoS App D | (se nedenfor — CoS Appendix D) |
 | **Vampire Spawn** (Doru) | p298 | [[pdfs/Monster Manual.pdf#page=299\|Vampire Spawn (MM p. 298)]] |
-| **Zombie** | p315 | [[pdfs/Monster Manual.pdf#page=315\|Zombie (MM p. 315)]] |
-| **Wolf** | p341 | [[pdfs/Monster Manual.pdf#page=341\|Wolf (MM p. 341)]] |
-| **Dire Wolf** | p321 | [[pdfs/Monster Manual.pdf#page=321\|Dire Wolf (MM p. 321)]] |
+| **Zombie** | p315 | [[pdfs/Monster Manual.pdf#page=317\|Zombie (MM p. 316)]] |
+| **Wolf** | p341 | [[pdfs/Monster Manual.pdf#page=342\|Wolf (MM p. 341)]] |
+| **Dire Wolf** | p321 | [[pdfs/Monster Manual.pdf#page=322\|Dire Wolf (MM p. 321)]] |
 
 ## Combat-monstre fra Arc C (Into the Valley)
 
 | Monster | Trykt | PDF-link |
 |---|:---:|---|
-| **Wolf** | p341 | [[pdfs/Monster Manual.pdf#page=341\|Wolf (MM p. 341)]] |
-| **Dire Wolf** | p321 | [[pdfs/Monster Manual.pdf#page=321\|Dire Wolf (MM p. 321)]] |
+| **Wolf** | p341 | [[pdfs/Monster Manual.pdf#page=342\|Wolf (MM p. 341)]] |
+| **Dire Wolf** | p321 | [[pdfs/Monster Manual.pdf#page=322\|Dire Wolf (MM p. 321)]] |
 | **Wereraven** | (CoS App D) | (se nedenfor) |
 
 ## Andre standard MM-monstre (Acts II-IV)
 
 | Monster | Trykt | PDF-link |
 |---|:---:|---|
-| **Bandit** | p343 | [[pdfs/Monster Manual.pdf#page=343\|Bandit (MM p. 343)]] |
-| **Bat / Giant Bat** | p316 / p323 | [[pdfs/Monster Manual.pdf#page=316\|Bat (MM p. 316)]] |
-| **Boar / Giant Boar** | p319 | [[pdfs/Monster Manual.pdf#page=319\|Boar (MM p. 319)]] |
-| **Cult Fanatic** | p345 | [[pdfs/Monster Manual.pdf#page=345\|Cult Fanatic (MM p. 345)]] |
-| **Cultist** | p345 | [[pdfs/Monster Manual.pdf#page=345\|Cultist (MM p. 345)]] |
-| **Gargoyle** | p140 | [[pdfs/Monster Manual.pdf#page=140\|Gargoyle (MM p. 140)]] |
-| **Ghost** | p147 | [[pdfs/Monster Manual.pdf#page=147\|Ghost (MM p. 147)]] |
-| **Green Hag** | p177 | [[pdfs/Monster Manual.pdf#page=177\|Green Hag (MM p. 177)]] |
-| **Night Hag** | p178 | [[pdfs/Monster Manual.pdf#page=178\|Night Hag (MM p. 178)]] |
-| **Sea Hag** | p179 | [[pdfs/Monster Manual.pdf#page=179\|Sea Hag (MM p. 179)]] |
-| **Lich** | p202 | [[pdfs/Monster Manual.pdf#page=202\|Lich (MM p. 202)]] |
-| **Mimic** | p220 | [[pdfs/Monster Manual.pdf#page=220\|Mimic (MM p. 220)]] |
-| **Mummy** | p228 | [[pdfs/Monster Manual.pdf#page=228\|Mummy (MM p. 228)]] |
-| **Phase Spider** | p334 | [[pdfs/Monster Manual.pdf#page=334\|Phase Spider (MM p. 334)]] |
-| **Priest** | p348 | [[pdfs/Monster Manual.pdf#page=348\|Priest (MM p. 348)]] |
-| **Quasit** | p63 | [[pdfs/Monster Manual.pdf#page=63\|Quasit (MM p. 63)]] |
-| **Giant Rat / Swarm of Rats** | p327 / p339 | [[pdfs/Monster Manual.pdf#page=327\|Giant Rat (MM p. 327)]] · [[pdfs/Monster Manual.pdf#page=339\|Swarm of Rats (MM p. 339)]] |
-| **Revenant** | p259 | [[pdfs/Monster Manual.pdf#page=259\|Revenant (MM p. 259)]] |
-| **Scout** | p349 | [[pdfs/Monster Manual.pdf#page=349\|Scout (MM p. 349)]] |
-| **Skeleton** | p272 | [[pdfs/Monster Manual.pdf#page=272\|Skeleton (MM p. 272)]] |
-| **Giant Spider / Swarm of Spiders** | p328 / p338 | [[pdfs/Monster Manual.pdf#page=328\|Giant Spider (MM p. 328)]] · [[pdfs/Monster Manual.pdf#page=338\|Swarm of Spiders (MM p. 338)]] |
-| **Swarm of Bats** | p337 | [[pdfs/Monster Manual.pdf#page=337\|Swarm of Bats (MM p. 337)]] |
-| **Swarm of Insects** | p338 | [[pdfs/Monster Manual.pdf#page=338\|Swarm of Insects (MM p. 338)]] |
-| **Vampire** | p297 | [[pdfs/Monster Manual.pdf#page=297\|Vampire (MM p. 297)]] |
+| **Bandit** | p343 | [[pdfs/Monster Manual.pdf#page=344\|Bandit (MM p. 343)]] |
+| **Bat / Giant Bat** | p316 / p323 | [[pdfs/Monster Manual.pdf#page=319\|Bat (MM p. 318)]] |
+| **Boar / Giant Boar** | p319 | [[pdfs/Monster Manual.pdf#page=320\|Boar (MM p. 319)]] |
+| **Cult Fanatic** | p345 | [[pdfs/Monster Manual.pdf#page=346\|Cult Fanatic (MM p. 345)]] |
+| **Cultist** | p345 | [[pdfs/Monster Manual.pdf#page=346\|Cultist (MM p. 345)]] |
+| **Gargoyle** | p140 | [[pdfs/Monster Manual.pdf#page=141\|Gargoyle (MM p. 140)]] |
+| **Ghost** | p147 | [[pdfs/Monster Manual.pdf#page=148\|Ghost (MM p. 147)]] |
+| **Green Hag** | p177 | [[pdfs/Monster Manual.pdf#page=178\|Green Hag (MM p. 177)]] |
+| **Night Hag** | p178 | [[pdfs/Monster Manual.pdf#page=179\|Night Hag (MM p. 178)]] |
+| **Sea Hag** | p179 | [[pdfs/Monster Manual.pdf#page=180\|Sea Hag (MM p. 179)]] |
+| **Lich** | p202 | [[pdfs/Monster Manual.pdf#page=203\|Lich (MM p. 202)]] |
+| **Mimic** | p220 | [[pdfs/Monster Manual.pdf#page=221\|Mimic (MM p. 220)]] |
+| **Mummy** | p228 | [[pdfs/Monster Manual.pdf#page=229\|Mummy (MM p. 228)]] |
+| **Phase Spider** | p334 | [[pdfs/Monster Manual.pdf#page=335\|Phase Spider (MM p. 334)]] |
+| **Priest** | p348 | [[pdfs/Monster Manual.pdf#page=349\|Priest (MM p. 348)]] |
+| **Quasit** | p63 | [[pdfs/Monster Manual.pdf#page=64\|Quasit (MM p. 63)]] |
+| **Giant Rat / Swarm of Rats** | p327 / p339 | [[pdfs/Monster Manual.pdf#page=328\|Giant Rat (MM p. 327)]] · [[pdfs/Monster Manual.pdf#page=340\|Swarm of Rats (MM p. 339)]] |
+| **Revenant** | p259 | [[pdfs/Monster Manual.pdf#page=260\|Revenant (MM p. 259)]] |
+| **Scout** | p349 | [[pdfs/Monster Manual.pdf#page=350\|Scout (MM p. 349)]] |
+| **Skeleton** | p272 | [[pdfs/Monster Manual.pdf#page=273\|Skeleton (MM p. 272)]] |
+| **Giant Spider / Swarm of Spiders** | p328 / p338 | [[pdfs/Monster Manual.pdf#page=329\|Giant Spider (MM p. 328)]] · [[pdfs/Monster Manual.pdf#page=339\|Swarm of Spiders (MM p. 338)]] |
+| **Swarm of Bats** | p337 | [[pdfs/Monster Manual.pdf#page=338\|Swarm of Bats (MM p. 337)]] |
+| **Swarm of Insects** | p338 | [[pdfs/Monster Manual.pdf#page=339\|Swarm of Insects (MM p. 338)]] |
+| **Vampire** | p297 | [[pdfs/Monster Manual.pdf#page=298\|Vampire (MM p. 297)]] |
 | **Vampire Spawn** | p298 | [[pdfs/Monster Manual.pdf#page=299\|Vampire Spawn (MM p. 298)]] |
-| **Werewolf** | p211 | [[pdfs/Monster Manual.pdf#page=211\|Werewolf (MM p. 211)]] |
-| **Wight** | p300 | [[pdfs/Monster Manual.pdf#page=300\|Wight (MM p. 300)]] |
-| **Will-o'-Wisp** | p301 | [[pdfs/Monster Manual.pdf#page=301\|Will-o'-Wisp (MM p. 301)]] |
-| **Wraith** | p302 | [[pdfs/Monster Manual.pdf#page=302\|Wraith (MM p. 302)]] |
+| **Werewolf** | p211 | [[pdfs/Monster Manual.pdf#page=212\|Werewolf (MM p. 211)]] |
+| **Wight** | p300 | [[pdfs/Monster Manual.pdf#page=301\|Wight (MM p. 300)]] |
+| **Will-o'-Wisp** | p301 | [[pdfs/Monster Manual.pdf#page=302\|Will-o'-Wisp (MM p. 301)]] |
+| **Wraith** | p302 | [[pdfs/Monster Manual.pdf#page=303\|Wraith (MM p. 302)]] |
 | **Young White Dragon** | p102 | [[pdfs/Monster Manual.pdf#page=102\|Young White Dragon (MM p. 102)]] |
-| **Zombie** | p315 | [[pdfs/Monster Manual.pdf#page=315\|Zombie (MM p. 315)]] |
+| **Zombie** | p315 | [[pdfs/Monster Manual.pdf#page=317\|Zombie (MM p. 316)]] |
 
 ---
 

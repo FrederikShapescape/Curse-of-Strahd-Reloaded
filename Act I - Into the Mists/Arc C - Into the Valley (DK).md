@@ -42,11 +42,14 @@ Mens spillerne rejser, læs:
 
 Hvis nogen spillere har en passive Wisdom (Perception) score på 16 eller højere, hører de en raslende lyd og ser en silhuet hugge sig sammen i det tågede underskov. Ellers hører spillerne blot en stemme råbe ud, dæmpet og diffus i tågen: "Hvem går der? Tilkendegiv jer."
 
-Stemmen tilhører en barsk kvindelig baroviansk **scout** ved navn Kereza, som er ledsaget af en anden, blødtmælende mandlig **scout** ved navn Korga, som spillerne tidligere mødte i [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Efter at have bekræftet at spillerne ikke transporterer Ireena mod hendes vilje, advarer scouterne spillerne om at Strahds spioner er talrige i Svalich Woods, inklusiv ulve, flagermus og — til tider — træerne selv. (Hvis de spørges om træerne, kan scouterne beskrive at have set animerede ranker, unge træer og brombærklynger der vandrer gennem skoven med fjendtlig hensigt.)
+Stemmen tilhører en barsk kvindelig baroviansk **scout** ved navn Kereza, som er ledsaget af en anden, blødtmælende mandlig **spejder** ved navn Korga, som spillerne tidligere mødte i [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Efter at have bekræftet at spillerne ikke transporterer Ireena mod hendes vilje, advarer spejderne spillerne om at Strahds spioner er talrige i Svalich Woods, inklusiv ulve, flagermus og — til tider — træerne selv. (Hvis de spørges om træerne, kan spejderne beskrive at have set animerede ranker, unge træer og brombærklynger der vandrer gennem skoven med fjendtlig hensigt.)
 
-Hvis [[Non-Player Characters#Ireena Kolyana|Ireena]] er med spillerne, kan hun hjælpe spillerne med at berolige scouterne, som genkender hende og hilser hende med stille respekt. Scouterne er overraskede over at se Ireena drage ud fra landsbyen, men er enige i at Vallaki sandsynligvis er et sikrere sted end Barovia — antaget at hun kan nå dertil sikkert. (Ireena insisterer dog stædigt på at hendes rejse er en diplomatisk og humanitær én, og at spillerne er hendes eskorte og livvagter.)
+Hvis [[Non-Player Characters#Ireena Kolyana|Ireena]] er med spillerne, kan hun hjælpe spillerne med at berolige spejderne, som genkender hende og hilser hende med stille respekt. Scouterne er overraskede over at se Ireena drage ud fra landsbyen, men er enige i at Vallaki sandsynligvis er et sikrere sted end Barovia — antaget at hun kan nå dertil sikkert. (Ireena insisterer dog stædigt på at hendes rejse er en diplomatisk og humanitær én, og at spillerne er hendes eskorte og livvagter.)
 
-Scouterne leder efter Lansten-familien: to forældre og tre små børn — en pige og to drenge — der forsvandt under zombieangrebet på landsbyen og ikke er blevet set siden. Efter at have spurgt om spillerne har set deres bytte på rejsen, advarer scouterne dem om ikke at forlade vejen og bemærker at døde og mørke ting lurer under trækronerne. Kereza og Korga tager derefter respektfuldt af sted.
+Scouterne leder efter Lansten-familien: to forældre og tre små børn — en pige og to drenge — der forsvandt under zombieangrebet på landsbyen og ikke er blevet set siden. Efter at have spurgt om spillerne har set deres bytte på rejsen, advarer spejderne dem om ikke at forlade vejen og bemærker at døde og mørke ting lurer under trækronerne. Kereza og Korga tager derefter respektfuldt af sted.
+
+**Hvis spillerne spørger om Gertruda:** Kereza og Korga har også ledt efter hende — det var dem, Ismark talte med. Hun red på familiens gamle hest, Nori. Hovsporene fulgte vejen mod vejkrydset og endte brat i mudderet, hvor dybe hjulspor fra en tung vogn krydser vejen. Ingen tegn på kamp, intet blod — og ingen hest. Korga bliver bleg og hvisker: "Den sorte vogn." Mere ved de ikke.
+> **DM ved:** Gertruda er på Ravenloft Slot (se [[Arc B - Welcome to Barovia (DK)|Arc B]], *Gertruda's Fate*). Spillerne lovede Doru at lede efter hende — sporet her er deres første ledetråd. De kan ikke hente hende i Act I. *(Prep-tilføjelse, konsistent med Arc B.)*
 
 Kort efter spillerne genoptager deres rejse ned ad Den Gamle Svalich vej, begynder en let dis at falde og piske en fin tåge op der driver gennem underskoven.
 ## C1b. Van Richten's Cache
@@ -55,18 +58,28 @@ Mens spillerne fortsætter ned ad vejen, læs:
 > [!quote]+ **Læs højt**
 > I rejser dybere ind i skoven, mudderets vej leder jer længere væk fra civilisationen. Idet vejen bøjer, strejfer floden jer endnu en gang. Her er floden bredere, dens vande mørke og rolige. I kan se afspejlingen af træerne og tågen i dens overflade. Lyden af det stille, rislende vand mødes kun af bladenes raslen og det sagte regndis. Ingen fuglesang bryder den stilhed der hænger over skoven.
 
-Mens de gennemrejser denne del af Den Gamle Svalich vej, forfølges spillerne af en af Strahds spioner: en **wolf**. (Se *Strahd's Spies, pg. 29* for mere information.)
+Mens de gennemrejser denne del af Den Gamle Svalich vej, forfølges spillerne af en af Strahds spioner: en **wolf** ([[Combat Statblocks (DK)#Wolf|statblock]]).
+
+🎲 **Ulven slår Dexterity (Stealth) +4.** Spillere med en passive Wisdom (Perception) lig med eller over resultatet får øje på den mellem træerne. Bliver den opdaget, flygter den — men forsøger først at snuppe en løs genstand (en vante, et tørklæde, en hårlok), som Strahd kan bruge til sin *scrying*. Uopdaget rapporterer den til Strahd ved skumring. *(Inlinet fra CoS s. 29, "Strahd's Spies".)*
 
 Hvis spillerne modtog placeringen af Van Richtens skjulte våbendepot fra Doru i Barovias kirke, kan de træde ind i skoven mod syd for at finde det. Hvis de gør, læs:
 
 > [!quote]+ **Læs højt**
-> I træder fra vejen og ind i skoven, krydser trælinjen mens jeres fødder sinker i mudder og lerjord. Tågetotter krummer sig hen over jorden omkring jer, krogede træer rækker deres arme ovenover mens gråt lys siver gennem løvtaget. I går tre hundrede skridt og træder blødt gennem mulden og tågen til I ankommer til en lysning, hvor skoven viger for at give plads til et højt, ældgammelt egetræ hvis knortede sorte stamme rejser sig højt over sine fæller.
+> I træder fra vejen og ind i skoven, krydser trælinjen mens mudderet giver efter for jeres vægt. En let tåge krummer sig hen over jorden omkring jer, krogede træer rækker grene som arme ovenover mens gråt lys siver gennem løvtaget. I går tre hundrede skridt og træder blødt gennem mulden og tågen til I ankommer til en lysning, hvor skoven viger for at give plads til et højt, ældgammelt egetræ hvis knortede sorte stamme rejser sig højt over sine fæller.
 >
 > I indser dog snart at I ikke er alene. Fem skikkelser slæber sig eller står formålsløst rundt i lysningen, deres tøj mudderet og flænset og deres kød lige begyndt at blive blegt og gråt.
 
 De fem skikkelser er **zombies**. De matcher også beskrivelserne af Lansten-familien givet af scouterne — to forældre, en lille pige og to små drenge.
 
-Spillerne kan forsøge at lokke zombierne væk fra lysningen; givet zombiernes lave intelligens bør det være rimeligt let. Alternativt kan spillerne forsøge at overrumple og angribe zombierne for helt at tilintetgøre dem.
+**Hvorfor her?** Familien flygtede fra landsbyen under belejringen — væk fra vejen, ind i skoven, for at gemme sig for de udøde. Men de havde allerede indåndet plague spreaderens miasma. De søgte ly under det store egetræ, hvor sygdommen langsomt tog dem én efter én, og de rejste sig igen dér, hvor de døde. Zombier uden ordrer driver formålsløst omkring det sted, de vågnede. *(Prep-tilføjelse — bygger på din miasma-fortolkning fra Session 6: hurtig død ved konstant eksponering, langsom ved lidt.)*
+
+🎲 **Wisdom (Medicine) eller Intelligence (Investigation) DC 14** — **Bogoris slår med advantage** (han har plejet de syge i landsbyen og kender sygdommen) — (hvis spillerne undersøger ligene efter kampen, eller lysningen bagefter): den samme rødlige misfarvning af hud og læber, som Bogoris så hos de syge i landsbyen · en flænget rejsesæk med brød og et barnetæppe ved træets rod · ingen bidsår. Familien blev ikke dræbt af udøde — sygdommen fulgte dem herud.
+
+> [!question]+ **▶ Spillerne har ordet — "Hvad gør I?"**
+> **Stop her og giv frit spil.** Zombierne har ikke opdaget gruppen endnu.
+> **DM ved:** Det er den savnede familie — der er ingen redning, kun barmhjertighed. At lokke dem væk er let (lav INT: larm, et kast, et lokkemiddel). 🎲 Dexterity (Stealth) DC 10 for at overrumple dem.
+
+Spillerne kan forsøge at lokke zombierne væk fra lysningen; givet zombiernes lave intelligens bør det være rimeligt let. Alternativt kan spillerne forsøge at overrumple og angribe zombierne for helt at tilintetgøre dem. 
 
 > [!combat]- **Combat - Lansten-familiens zombies (valgfri)**
 > **Statblock:** [[Combat Statblocks (DK)#Zombie|Zombie (kompakt, m. revideret Undead Fortitude)]] · [[pdfs/Monster Manual.pdf#page=317|Zombie (MM p. 316)]]
@@ -88,7 +101,7 @@ Hvis spillerne når egetræet, kan de finde Van Richtens våbendepot hvor Doru f
 > [!treasure]+ **Van Richtens våbendepot — indhold**
 > Van Richtens nød-depot til vampyrjagt, i en lille ulåst trækiste under rødderne. *(CoS-originalens genstande er foldet ind sammen med plot-neutralt jæger-udstyr — juster frit.)*
 >
-> - **1× let armbrøst** + **20× forsølvede armbrøstbolte**
+> - **1× Light Crossbow +1** (+1 to hit og damage; magisk — omgår resistance mod ikke-magiske våben) + **20× forsølvede armbrøstbolte**
 > - **2× forsølvede shortswords** (mod werewolves + Strahds spawn)
 > - **1× forsølvet dagger**
 > - **9× forsølvede pile**
@@ -104,7 +117,7 @@ Hvis spillerne når egetræet, kan de finde Van Richtens våbendepot hvor Doru f
 # C2. River Ivlis Crossroads
 *<em>This scene takes place in Chapter 2: Area F.</em>*
 
-Mens spillerne nærmer sig dette område, ophører diset. Læs:
+Mens spillerne nærmer sig dette område, ophører disen. Læs:
 
 > [!quote]+ **Læs højt**
 > Snart bøjer floden endnu en gang ud af syne og den mørke skov omgiver atter vejen. Endelig viger træerne dog og afslører en høj klippe ved foden af en tåget bjergskråning. Luften er kold og fugtig her, og bløde tågestrøg hvirvler omkring klippens fod.
@@ -112,24 +125,28 @@ Mens spillerne nærmer sig dette område, ophører diset. Læs:
 Spillerne er ankommet til River Ivlis Crossroads. Tjek ikke for et tilfældigt møde når de ankommer. Læs:
 
 > [!quote]+ **Læs højt**
-> En gammel træ-galge knager i en kold vind der blæser ned fra det høje terræn mod vest; et flosset stykke reb danser fra dens bjælke. Den veltrådte vej deler sig her, og en vejviser over for galgen peger i tre retninger: **Barovia** mod øst, **Tser Sø** mod nordvest, og **Ravenloft/Vallaki** mod sydvest. Galgen står på en rådnende platform, fem fod høj, med trætrapper op til den.
+> En gammel træ-galge knager i en kold vind der blæser ned fra det høje terræn mod vest; et flosset stykke reb danser fra dens bjælke. Den veltrådte vej deler sig her, og et skilt over for galgen peger i tre retninger: **Barovia** mod øst, **Tser Sø** mod nordvest, og **Ravenloft/Vallaki** mod sydvest. Galgen står på en rådnende platform, fem fod høj, med trætrapper op til den.
 
-Denne scene begynder lignende [[pdfs/Curse of Strahd.pdf#page=36|River Ivlis Crossroads (p. 35)]]. Dog, første gang spillerne bevæger sig for at tage af sted mod Tser Pool, kan de i stedet for at se **The Hanged One** høre lyden af en hestetrukket vogn nærme sig gennem tågen. Næsten så snart lyden dukker op, kommer Strahds sorte vogn til syne, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=38|Black Carriage (p. 37)]] og [[pdfs/Curse of Strahd.pdf#page=55|Carriage House (p. 54)]].
+Første gang spillerne bevæger sig for at tage af sted mod Tser Sø, hører de lyden af en hestetrukket vogn nærme sig gennem tågen. Næsten så snart lyden dukker op, kommer Strahds sorte vogn til syne. Læs:
+
+> [!quote]+ **Læs højt**
+> Hovslag og knirkende hjul skærer gennem tågen. Ud af disen ruller en blank, sort vogn trukket af to kulsorte heste; deres ånde står som damp i den kolde luft. Vognen bærer intet våbenskjold og ingen lygter — kun mørkt, lakeret træ og jernbeslag, der glinser vådt i det grå lys. Den kommer til standsning lige foran jer.
+
+*(Den hængte skikkelse ved galgen venter, til gruppen forlader vejkrydset — se C2e.)*
 ## C2a. Strahd's Arrival
-Spillerne kan se en kusk siddende i kuskebukken: **vampire spawn** [[Non-Player Characters#Escher|Escher]], som beskrevet i [[pdfs/Curse of Strahd.pdf#page=71|K49. Lounge (p. 70)]]. Hvis Ireena er til stede, gisper hun ved synet af ham og hvisker at hun troede han var død.
+På kuskebukken sidder en slank, elegant klædt ung mand med kridhvid hud og et melankolsk blik: **vampire spawn** [[Non-Player Characters#Escher|Escher]], Dorus ældste ven fra landsbyen. Han siger intet i denne scene. Hvis Ireena er til stede, gisper hun ved synet af ham og hvisker at hun troede han var død.
 
-> [!abstract]+ **What If The Players Flee?**
->
-> The players should have little time to attempt to conceal themselves before Strahd's carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd's **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> [!abstract]+ **Hvis spillerne flygter fra vognen**
+> Spillerne har kun et øjeblik til at skjule sig, før vognen kommer til syne. Forsøger de at flygte ind i skoven, træder Strahds **dire wolves** — én for hver spiller plus Ireena — frem af tågen bag dem og spærrer vejen med blottede tænder.
 
 Vognen kommer derefter til standsning. Læs det følgende, og modificér teksten efter behov hvis Ireena ikke er til stede, og hold en kort pause efter hvert afsnit for at give spillerne en kort mulighed for at handle eller reagere:
 
 > [!quote]+ **Læs højt**
 > Kusken slipper tøjlerne, træder ned fra kuskebukken, og bevæger sig for at åbne sidedøren på vognen, idet han bukker dybt. Et øjeblik passerer — og så træder en mand ud af vognen.
 >
-> Han er høj, udtæret og klædt i stadselighed der sømmer en mand af aristokratisk, endda kongelig statur. En sort kappe er trukket pænt om hans skuldre, bundet ved halsen af en blodrød broche. Et langsværd hviler i en skede ved hans hofte, dets polerede greb glimter under det dæmpede lys. Hans skarlagenrøde tunika er broderet med intrikate mønstre, og hans hår er trukket tilbage i en skarp og pletfri spids.
+> Han er høj, udtæret og klædt i stadselighed der sømmer en mand af aristokratisk, endda kongelig statur. En sort kappe er trukket pænt om hans skuldre, bundet ved halsen af en blodrød broche. Et langsværd hviler i en skede ved hans hofte, dets polerede greb glimter under det dæmpede lys. Hans skarlagenrøde tunika er broderet med intrikate mønstre, og hans hår er trukket tilbage i en skarp spids.
 >
-> Hans øjne er mørke, og idet han bevæger sig for at justere rubinen ved sin hals, ser I at hans fingernegle danner lange, elegante kløer. Det er først da I indser at hans hud er bleg — unaturligt så — og at hans øjne glimter med en dyb, intelligent hunger.
+> Hans øjne er mørke, og idet han bevæger sig for at justere rubinen ved sin hals, ser I at hans fingernegle danner lange, elegante kløer. I indser at hans hud er unaturligt bleg og at hans øjne glimter med en dyb, intelligent hunger.
 
 Hvis [[Non-Player Characters#Ireena Kolyana|Ireena]] er med gruppen, tilføj:
 
@@ -166,67 +183,63 @@ Uanset om Ireena er med gruppen eller ej, tilføj:
 >* **Embrace Unpredictability.** In each scene before [[Arc R - Trials of the Mountain]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
 >* **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
 
-> [!abstract]+ **The Players Misbehave**
+> [!abstract]+ **Spillerne er respektløse (3-strikes)**
+> **Første uhøflighed — advarsel.** Strahd sukker: "Respektløshed klæder ingen — slet ikke over for herren af det land, I blot er gæster i. Men I er fremmede, uoplærte og forvirrede. Denne gang giver jeg jer en advarsel. Men jeg frygter, at min nåde ikke varer evigt."
 >
->  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
->  
->  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fix their gazes on the rude player. 
->  
->  The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
->  
->  The third time that a player disrespects Strahd, he frowns. Read the following:
->  
->  <hr>
->  
-> "You seem to be under the misunderstanding that you are special," Strahd says. "You are not. You are an outsider to my lands, with nary an ounce of respect or common wit. It amuses me, from time to time, to take the measure of those who enter the valley from beyond the Mists."
-> 
-> His eyes narrow. "But you have taken your own measure, and I have found it wanting. You are not brave. You are not cunning. You invite death, and I have never been one to deny my subjects such a wish, no matter how foolish. This final chance, I shall grant you, to save your own life—for I see no value in it above that of the lowliest creature that crawls in the muck." 
-> 
-> He holds up a third finger. "The next time you speak, my pets will kill you. Any who defend you will share the same fate."
-> 
-> <hr>
-> 
-> If the player violates Strahd's ultimatum, pause the game and address the player out-of-character. Note that Strahd has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end. 
-> 
-> If the players confirms their decision, resume the game. Strahd's dire wolves then attack that player. If any or all of the other players do not interfere, Strahd continues his conversation with them, undisturbed.
+> **Næste gang — "Én."** Strahd smiler og løfter én finger: "Én." Hans **dire wolves** træder frem af skyggerne (hvis de ikke allerede er fremme) og fæstner blikket på den uhøflige spiller.
+>
+> **Næste gang — "To."** Strahd ryster på hovedet og løfter to fingre: "To." Ulvene rykker nærmere den uhøflige spiller og begynder at savle.
+>
+> **Tredje gang — ultimatum.** Strahd rynker panden. Læs:
+>
+> > "I synes at være under den misforståelse, at I er noget særligt," siger Strahd. "Det er I ikke. I er udefrakommende i mine lande, uden et gran af respekt eller sund fornuft. Det morer mig fra tid til anden at tage mål af dem, der kommer ind i dalen fra den anden side af tågerne."
+> >
+> > Hans øjne smalner. "Men I har selv taget jeres mål, og jeg har fundet det for let. I er ikke modige. I er ikke snedige. I inviterer døden, og jeg har aldrig været en, der nægtede mine undersåtter et sådant ønske, hvor tåbeligt det end måtte være. Denne sidste chance giver jeg jer for at redde jeres eget liv — for jeg ser ingen værdi i det over den laveste skabning, der kryber i mudderet."
+> >
+> > Han løfter en tredje finger. "Næste gang du taler, dræber mine kæledyr dig. Enhver, der forsvarer dig, deler samme skæbne."
+>
+> **Bryder spilleren ultimatummet: stop spillet og tal ud af karakter.** Gør det krystalklart: Strahd har lovet en konsekvens, og den indtræffer. Karakteren dør; spilleren får ingen chance for at forhindre det; enhver, der forsøger at beskytte dem, dør også; ingen genoplives; og dør hele gruppen, slutter kampagnen øjeblikkeligt.
+>
+> Bekræfter spilleren sit valg, fortsæt spillet. Ulvene angriber den spiller. Blander de andre sig ikke, fortsætter Strahd uforstyrret samtalen med dem.
 
-> [!abstract]+ **Running Away**
-> If, at any point during the encounter, the players move to flee, read:
-> 
-> <hr>
-> 
-> From behind Strahd, you hear a chorus of low, feral growls. Multiple pairs of eyes glint from the underbrush—each one the height of a man's shoulder.
-> 
-> Slowly, from the shadows, slinks a pack of massive wolves, each one as tall as a horse and twice as muscled, measuring nine feet in length from head to haunches. Their fur is a thick, mottled grey, and saliva drips from their yellowed, sharpened teeth.
-> 
-> They take up positions behind and around Strahd, flanking him like a noble's honor guard.
-> 
-> "You must forgive my pets," Strahd says. "They can be . . . **overenthusiastic** at the sight of new friends."
-> 
-> <hr>
-> 
-> The wolves are **dire wolves**, as described in [[pdfs/Curse of Strahd.pdf#page=31|Dire Wolves (p. 30)]]. (The number of dire wolves in the pack is equal to the number of players in the party plus Ireena.)
-> 
-> If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
+> [!abstract]+ **Flugt**
+> Hvis spillerne på noget tidspunkt forsøger at flygte, læs:
+>
+> > Bag Strahd lyder et kor af dybe, dyriske knurren. Flere par øjne glimter fra underskoven — hvert par i højde med en mands skulder.
+> >
+> > Langsomt glider en flok enorme ulve frem af skyggerne, hver så høj som en hest og dobbelt så muskuløs, ni fod lang fra snude til bagpart. Deres pels er tyk og spættet grå, og savl drypper fra deres gule, hvæssede tænder.
+> >
+> > De indtager positioner bag og omkring Strahd og flankerer ham som en adelsmands æresgarde.
+> >
+> > "I må tilgive mine kæledyr," siger Strahd. "De kan være . . . **overivrige** ved synet af nye venner."
+>
+> Ulvene er **dire wolves** — én for hver spiller plus Ireena (se combat-callout nedenfor). Har spillerne brug for mere overtalelse, træder ulvene frem med rejst nakkehår. Flygter spillerne alligevel, angriber ulvene.
 
-> [!abstract]+ **Challenging Strahd**
-> If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
-> 
-> If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for five full rounds. During this time, each attack the player makes against Strahd automatically hits, and Strahd automatically fails all Strength and Dexterity saving throws.
-> 
-> When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins." 
-> 
-> Assuming his [[Strahd von Zarovich#The Mage|Mage]] form, Strahd casts ***telekinetic grasp*** each round to suspend the player in the air above him, and casts ***blindness/deafness*** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against ***telekinetic grasp***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
-> 
-> The first time the player succeeds their saving throw against ***telekinetic grasp***, Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
-> 
-> If the player asks to be freed from Strahd's ***telekinetic grasp***, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
-> 
-> If the player is knocked unconscious by Strahd's ***telekinetic grasp***, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
+> [!combat]- **Combat - Strahds dire wolves (kun ved flugt eller brudt ultimatum)**
+> **Statblock:** [[Combat Statblocks (DK)#Dire Wolf|Dire Wolf (kompakt)]] · [[pdfs/Monster Manual.pdf#page=322|Dire Wolf (MM p. 321)]]
+> **Combat Level**: Deadly — 5 dire wolves (4 spillere + Ireena) mod level 3. **Ikke en kamp, der skal vindes** — det er konsekvensen af et valg, der er gjort klart for spillerne.
+> - Ulvene angriber **ikke Ireena**. Strahd griber ikke selv ind.
+
+> [!abstract]+ **Strahd udfordres** ← *sandsynligvis Darius' øjeblik*
+> Hvis en spiller på noget tidspunkt udfordrer Strahd eller insisterer på, at han skal besejres, smiler Strahd, indrømmer at han "aldrig har været en, der afslog en udfordring", og inviterer spilleren til at besejre ham — her og nu — hvis de kan. Han lover ikke at gøre noget for at stoppe dem de første tredive sekunder af deres angreb.
+>
+> **Afslår spilleren**, afviser Strahd dem skuffet som en kujon: "Synd. Jeg havde håbet på bedre."
+>
+> **Accepterer spilleren**, lader Strahd dem angribe i **fem hele runder**. I den tid **rammer alle spillerens angreb automatisk**, og Strahd **fejler automatisk alle Strength- og Dexterity-saving throws**.
+>
+> Efter fem runder siger Strahd: "Imponerende beslutsomhed — om end i sidste ende forgæves." Han tilføjer: "Lad os nu se, hvordan du klarer dig, når det egentlige spil begynder."
+>
+> Strahd antager sin [[Strahd von Zarovich#The Mage|Mage]]-form og kaster ***telekinetic grasp*** hver runde for at holde spilleren svævende i luften over sig, og kaster ***blindness/deafness*** som reaction, hver gang spilleren laver et melee-angreb mod ham. Første gang spilleren fejler sit save mod *telekinetic grasp*, siger han: "Slip fri, hvis du kan." Og så, lavere: "Men skulle du komme til kort, vil en simpel bøn om nåde befri dig fra din knibe."
+>
+> Første gang spilleren **klarer** sit save mod *telekinetic grasp*, klapper Strahd ad deres sejhed og spørger, om de vælger at kæmpe videre. (Gør de, kæmper han videre med sin fulde Mage-statblock.)
+>
+> **Beder spilleren om at blive sluppet fri**, gør han det straks. "Visdom ligger i at kende sine begrænsninger," bemærker han. "Husk dette øjeblik — næste gang er jeg måske ikke så gavmild."
+>
+> **Bliver spilleren slået bevidstløs** af *telekinetic grasp*, sætter han sig på hug ved siden af dem og hvisker: "Du kæmpede tappert, men selv den største kriger kan ikke overleve det uundgåelige. Hvil nu, trøstet af visheden om, at du har underholdt mig." Han vender sig derefter mod resten af gruppen og inviterer dem til at tage sig af deres sårede kammerat.
 ## C2b. The Conversation Begins
-Hvis han ikke afledes, hilser [[Strahd von Zarovich#The Gentleman|Strahd]] hver af spillerkaraktererne individuelt — ved navn, hvis hans spioner har haft mulighed for at lære dem og rapportere tilbage til ham. Mens han gør det, fremsætter han en personlig kommentar vedrørende hver karakters art, klasse (hvis tydelig fra deres udstyr eller dragt) og/eller personlighed (hvis rapporteret af hans spioner). Hvis muligt formulerer han hver kommentar som en kompliment, sympatisk bemærkning eller (sparsomt) en yderst tilsløret trussel.
+Hvis han ikke afledes, hilser [[Strahd von Zarovich#The Gentleman|Strahd]] hver af spillerkaraktererne individuelt — ved navn, hvis hans spioner har haft mulighed for at lære dem og rapportere tilbage til ham. Mens han gør det, fremsætter han en personlig kommentar vedrørende hver karakters art, klasse (hvis tydelig fra deres udstyr eller dragt) og/eller personlighed (hvis rapporteret af hans spioner). Hvis muligt formulerer han hver kommentar som en kompliment, sympatisk bemærkning eller (sparsomt) en yderst tilsløret trussel. %% @claude Jeg tænker Strahd kender til spillerne ret godt på det her tidspunkt da i hvert fald alle hans flagermus spioner har haft frit spil ift. at observere spillerne. Hvad tænker du ift. de individualiserede kommentarer til spillerne? %%
 
-Hvis [[Non-Player Characters#Ireena Kolyana|Ireena]] er til stede, spørger Strahd derefter om "Lady Kolyana" har introduceret dem ordentligt til hans domæne, og undskylder for eventuelle "folkeeventyr" hans undersåtter måtte have delt om ham.
+Hvis [[Non-Player Characters#Ireena Kolyana|Ireena]] er til stede, spørger Strahd derefter om "Lady Kolyana" har introduceret dem ordentligt til hans domæne, og undskylder for eventuelt "eventyrligt opspind" hans undersåtter måtte have delt om ham.
 
 (Han benægter dog ikke sit angreb på landsbyen Barovia, og bemærker kun at landsbyens folk trodsede ham i en handling af det yderste forræderi. "Jeg er sikker på at I er enige i at min reaktion var afmålt," siger han. "Trods alt kan ingen herre tolerere en bebyggelse der nærede sådan oprørskhed. De gode folk i Barovia trængte til en lærestreg. Deres disciplinering var en venlighed som få andre ville have indvilget i.")
 
@@ -234,14 +247,21 @@ Mens samtalen skrider frem, bemærker Strahd at han har hørt "så vidunderlige 
 
 Hvis spillerne spørger om Death Houses natur, eller dets formål med at bringe dem til Barovia, smiler Strahd koldt og siger kun, "De fordømtes sjæle er tragisk forvredne ting. Dvæl ikke ved deres vanvid."
 
-Hvis spillerne spørger om Strahds kusk, introducerer Strahd ham som [[Non-Player Characters#Escher|Escher]], "min kusk og bægerbærer." [[Non-Player Characters#Escher|Escher]] svarer ikke på spillernes spørgsmål eller udsagn og står blot blufærdigt ved Strahds side.
+Hvis spillerne spørger om Strahds kusk, introducerer Strahd ham som [[Non-Player Characters#Escher|Escher]], "min kusk og mundskænk." [[Non-Player Characters#Escher|Escher]] svarer ikke på spillernes spørgsmål eller udsagn og står blot blufærdigt ved Strahds side.
 
-> [!abstract]+ **Requesting Freedom**
-> If the players ask whether Strahd has intentionally trapped them in Barovia, he truthfully denies doing so. If asked to release them, however, he declines to do so. "Why should I release you," he says, with a wry smile, "when it amuses me to do otherwise?"
+> [!info]- **Hvis spillerne spørger Strahd om Gertruda** *(prep-tilføjelse — gruppen lovede Doru at finde hende)*
+> Strahd lyver ikke, men han skylder dem intet. Han smiler: "Den modige unge kvinde fra landsbyen? Hun tog imod min invitation. Hun er langt sikrere under mit tag, end hun nogensinde var på disse veje." Mere siger han ikke. Escher løfter kort blikket ved navnet.
+> **DM ved:** Gertruda er på Ravenloft (Arc B, *Gertruda's Fate*). Svaret er teknisk sandt.
+
+> [!info]- **Hvis Marcellus' mønt kommer frem** *(Guldskjold-tråden — forslag)*
+> Strahd ser sit eget ansigt på mønten. Han kommenterer det ikke direkte — et kort, moret blik og et "Hvor... nostalgisk." er nok. Reveal'et om møntens oprindelse hører til Madam Eva (C4b) og senere Ravenloft.
+
+> [!abstract]+ **Hvis de beder om at blive sluppet fri**
+> Spørger spillerne, om Strahd med vilje har fanget dem i Barovia, benægter han det — sandfærdigt. Beder de ham om at lade dem gå, afslår han. "Hvorfor skulle jeg lade jer gå," siger han med et skævt smil, "når det morer mig at gøre det modsatte?"
 ## C2c. Strahd's Questions
 Under samtalen, ved øjeblikke hvor det synes naturligt at gøre det, stiller [[Strahd von Zarovich#The Gentleman|Strahd]] spillerne følgende spørgsmål (i ingen særlig rækkefølge):
 
-* "[[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]] trodsede mig ved at obstruere den retfærdighed jeg afmålte hans landsby. Hvorfor skulle jeg, som hans herre, ikke straffe ham for hans illoyalitet?"
+* "[[Non-Player Characters#Ismark Kolyanovich|Ismark Kolyanovich]] trodsede mig ved at modstille sig den retfærdighed jeg afmålte hans landsby. Hvorfor skulle jeg, som hans herre, ikke straffe ham for hans illoyalitet?"
 * "Jeg har gjort krav på [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]] og mærket hende som min egen. Hvorfor skulle jeg ikke tage hende med mig til Castle Ravenloft lige nu?"
 * "I er ulovligt indtrængende i mit land, og den sidste udefrakommende der trådte ind i Barovia nærede oprør og forræderi. Hvorfor skulle jeg ikke afsende jer nu, for at forhindre jer i at gøre det samme?" (Strahds spørgsmål henviser til [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]].)
 
@@ -250,6 +270,9 @@ Hvis spillerne begravede Walters knogler og lagde Death Houses ånder til hvile,
 * "Umiddelbart inden jeres indtræden i mit land, forvoldede I stor skade på en gruppe af mine tjenere — beboerne i et bestemt hus ved grænserne af mit domæne. Jeg havde forladt mig på de tjenere til at bringe mig prøver af interesse, men jeres aktiviteter har efterladt dem på ubestemt tid uvirksomme. Hvorfor skulle jeg ikke straffe jer for jeres forbrydelser mod dem?"
 
 Strahd formulerer hvert af disse spørgsmål som en hypotetisk. Når han stiller dem, er hans tone undersøgende, nysgerrig og i det mindste noget moret. Hvis spillerne fortvivler over udsigten til at besvare disse spørgsmål overhovedet, bemærker Strahd, "Jeg er ikke en urimelig mand. Hvis der er en grund eller logik som jeg måtte have overset, så oplys mig endelig."
+> [!question]+ **▶ Spillerne har ordet — ét spørgsmål ad gangen**
+> **Stop efter hvert spørgsmål og lad gruppen svare.** Pres tilbage på hullerne i deres argumenter; giv indrømmelserne nedenfor, når et argument er rimeligt.
+> **DM ved:** Strahd lyver ikke. Han har intet mål her og bliver ikke skuffet uanset udfald — han tager mål af dem. Ireena kan ikke røres af ham i dag.
 ## C2d. Strahd's Concessions
 Mens spillerne forsøger at besvare hans spørgsmål, fryder [[Strahd von Zarovich#The Gentleman|Strahd]] sig ved at spille djævlens advokat, presser tilbage mod deres svar og piller ved hullerne i deres argumentation. Til sidst dog, hvis spillernes pointer er rimeligt velargumenterede, er Strahd villig til at acceptere dem. (Det bør dog være ret tydeligt for spillerne at han blot humorerer dem ved at acceptere deres svar.)
 
@@ -272,9 +295,18 @@ Når spillerne har besvaret alle Strahds spørgsmål til hans tilfredshed, byder
 
 Mens han gør det, dukker Strahds **dire wolves** — inklusiv én for hver spiller plus Ireena — op fra skoven, hvis de ikke allerede er gjort det, og bevæger sig for at flankere vognen. Strahd bemærker at han og hans "venner" skal se spillerne igen — måske meget snart. Vognen og ulvene tager derefter af sted mod Castle Ravenloft.
 ## C2e. Departing the Crossroads
-Når spillerne bevæger sig for at forlade River Ivlis Crossroads efter at Strahd er taget af sted, møder de [[pdfs/Curse of Strahd.pdf#page=36|The Hanged One (p. 35)]]. Karakteren der hænges fra galgen bør være den karakter der var mest uhøflig over for Strahd eller mindst samarbejdsvillig med hans spørgsmål.
+Når spillerne bevæger sig for at forlade River Ivlis Crossroads, efter at Strahd er taget af sted, læs:
+
+> [!quote]+ **Læs højt**
+> Bag jer lyder en knirken fra galgen. Hvor der intet var før, hænger nu en livløs, grå krop. Vinden drejer den langsomt rundt, så dens døde øjne kan fæstne sig på jer.
+
+Én spiller ser **sig selv** hænge fra galgen; de andre ser en ukendt barovianer. Liget ser og lugter ægte, men smelter hurtigt bort til ingenting, hvis det røres eller flyttes. Spilleren, der ser sig selv, bør være den karakter, der var mest uhøflig over for Strahd eller mindst samarbejdsvillig med hans spørgsmål. *(Inlinet fra CoS s. 35.)*
 # C3. The Strix
 Halvvejs ned ad stien fra River Ivlis Crossroads til Tser Pool Encampment, hører spillerne lyden af en panikslagen fugl der skriger fra oven. En ravn med blåtippede vinger — genkendeligt den samme ravn der mødte dem i landsbyen Barovia — styrter derefter ned på vejen ved spillernes fødder, synligt såret. Dette er igen **wereraven** Muriel, i forklædning med 1 hit point. Hendes vinger og krop er blevet gennemboret af adskillige dusin sølvpigge, hvilket efterlader hende ude af stand til at flyve, regenerere eller forvandle sig indtil de fjernes.
+
+> [!question]+ **▶ Spillerne har ordet — "Hvad gør I?"**
+> Giv dem ét kort øjeblik med den sårede ravn, før strixen kommer skrigende.
+> **DM ved:** Det er Muriel (blå vingespidser — samme ravn som under belejringen). Hun kan ikke tale i ravneform. 🎲 Wisdom (Medicine) DC 15 fjerner piggene (fiasko → 0 HP og death saves); se nedenfor.
 
 > [!info]+ **Dying NPCs**
 >
@@ -290,8 +322,8 @@ Ravnens ankomst følges kort efter af et frygteligt, skrigende hyl og ankomsten 
 Den greater strix er ledsaget af to **swarms of lesser strix** (hver bruger statistikkerne for en **swarm of ravens**, men med sårbarhed over for fire damage). Hver lesser strix er en kunstig "krage" en smule større end en ravn, konstrueret af sækkelærred, halm, kviste og skarpe stentænder.
 
 > [!combat]- **Combat - The Strix**  
-> **Statblock:** [[pdfs/Curse of Strahd.pdf#page=230|Baba Lysaga (CoS App D p. 229)]]
-> **Kompakt (merged, 5-spiller):** [[Combat Statblocks (DK)#Greater Strix|Greater Strix]] · [[Combat Statblocks (DK)#Swarm of Lesser Strix|Swarm of Lesser Strix]]
+> **Statblock:** [[Combat Statblocks (DK)#Greater Strix|Greater Strix]] · [[Combat Statblocks (DK)#Swarm of Lesser Strix|Swarm of Lesser Strix]] (kompakt, alle justeringer bagt ind) · PDF-base: [[pdfs/Monster Manual.pdf#page=214|Manticore (MM p. 213)]] · [[pdfs/Monster Manual.pdf#page=340|Swarm of Ravens (MM p. 339)]]
+> **Standard (5-spiller):** 1 greater strix + **2** swarms. **Sårbar over for fire** — gruppens ildflasker (3–4 tilbage) gør dobbelt skade.
 > **Combat Level**: Bruising
 > **Expected Character Level**: 3
 > **Allies:** [[Non-Player Characters#Ireena Kolyana|Ireena Kolyana]] (CR 1)
@@ -380,17 +412,16 @@ Hvis hun reddes, forbliver Muriel hos spillerne indtil hun kan udlede deres hens
 
 Hvis hun erfarer at spillerne planlægger at rejse til Vallaki, rejser Muriel med dem mens hun opretholder sin ravneforklædning, i håbet om at forlade sig på sikkerhed i tal indtil hun kan rapportere sine fund til Urwin Martikov ved Blue Water Inn. Under ingen omstændigheder afslører Muriel villigt sin sande natur for spillerne på dette tidspunkt.
 
-> [!info]+ **Muriel Incognito**
-> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
-> 
-> While accompanying the group, Muriel may use her ***mimicry*** feature to produce any of the following sounds to prompt or react to the players:
-> 
-> * **Whistle.** To signal secrecy or caution.
-> * **Snoring.** To signal boredom.
-> * **Laughter.** To signal amusement.
-> * **Jingling.**  To indicate someone's arrival.
-> * **Clicking (like a key turning).** To applaud a solution to a problem.
-> * **Trumpet.** To celebrate a victory or achievement.
+> [!info]+ **Muriel inkognito**
+> Mens hun rejser med gruppen, holder Muriel lav profil og forsøger at gøre sig vellidt. I ravneform kan spillerne kun kommunikere med hende via *speak with animals* — og selv da benægter hun al viden om Strahd og strixens oprindelse og lader som om, hun er en helt almindelig, enfoldig ravn, der kun tænker på mad og rovdyr. Spørges hun om sit navn, præsenterer hun sig begejstret som **"Blue"** og bliver mere og mere stædig, jo mere hun udspørges.
+>
+> Muriel kan bruge sin ***mimicry*** til at kommentere:
+> * **Fløjt** — hemmeligholdelse eller forsigtighed
+> * **Snorken** — kedsomhed
+> * **Latter** — morskab
+> * **Klirren** — nogen ankommer
+> * **Klik (som en nøgle, der drejes)** — bifald til en løsning
+> * **Trompet** — fejrer en sejr
 
 # C4. Tser Pool
 *<em>This scene takes place in Chapter 2: Area G.</em>*
@@ -403,11 +434,11 @@ Når spillerne ankommer til Tser Sø-lejren, læs:
 > [!quote]+ **Læs højt**
 > Vejen forsvinder gradvist og erstattes af en snoet, mudret sti gennem træerne; dybe hjulspor i jorden vidner om vogne der kommer og går. Lysningen åbner sig pludseligt: ved siden af en flod der udvider sig til en lille sø flere hundrede fod bred, står fem farverige runde telte, hvert ti fod i diameter, rejst uden for en ring af fire tøndeformede vogne. Et langt større telt står nær søbredden, dets synkende form oplyst indefra. Nær det drikker otte utøjlede heste fra floden. En harmonikas klagende toner blander sig med sangen fra flere farvestrålende skikkelser omkring et bål.
 
-Ingen af Vistanierne i lejren er berusede, og kun én — Vistana-kvinden **Eliza** — tjener som spion for Strahd (brug statistikkerne for en **spy**).
+Ingen af Vistanierne i lejren er berusede, og kun én — Vistana-kvinden **Eliza** — tjener som spion for Strahd (brug statistikkerne for en **spy**: [[pdfs/Monster Manual.pdf#page=350|Spy (MM p. 349)]]).
 
-Mens spillerne træder ind i lejren, mødes de af Stanimir, en gammel Vistana der informerer dem om at lederen af deres lejr, [[Non-Player Characters|Madam Eva]], har ventet på dem og peger dem mod Evas telt. Stanimir, en jovial, farverig gammel mand med et glimt i øjet, er i det store hele som beskrevet i [[pdfs/Curse of Strahd.pdf#page=20|Mysterious Visitors (p. 19)]]. Dog har han spellen *major image* forberedt snarere end *vampiric touch*.
+Mens spillerne træder ind i lejren, mødes de af Stanimir, en gammel Vistana der informerer dem om at lederen af deres lejr, [[Non-Player Characters|Madam Eva]], har ventet på dem og peger dem mod Evas telt. Stanimir er en jovial, farverig gammel mand med et glimt i øjet. Han har statistikkerne for en **mage** ([[pdfs/Monster Manual.pdf#page=348|Mage (MM p. 347)]]) med *major image* forberedt i stedet for *vampiric touch*.
 
-Stanimir er glad for at besvare ethvert spørgsmål spillerne måtte have om Vistanierne eller om Barovia, som beskrevet i [[pdfs/Curse of Strahd.pdf#page=28|Vistani Lore (p. 27)]]. De eneste undtagelser er informationen om sjælløse barovianere, som ikke eksisterer, og Old Bonegrinder, som Stanimir ikke nævner. Derudover ved Stanimir og de andre Vistani ikke at en coven af **night hags** for nylig har slået sig ned i den gamle vindmølle, som de kun kender som Old Durst Mill. Vistanierne nævner heller ikke Vistani-forbandelser, som er ren overtro, og beskriver Strahds interesse for Tatyana som "sand begæren" snarere end "sand kærlighed."
+Stanimir er glad for at besvare ethvert spørgsmål, spillerne måtte have om Vistanierne eller om Barovia — se **Stanimir — Kan fortælle** i [[Act I - NPC Cheat Sheets (DK)#Stanimir — Jovial gammel Vistana|NPC cheat sheet]]. Han ved ikke, at en coven af **night hags** for nylig har slået sig ned i den gamle vindmølle, som Vistanierne kun kender som Old Durst Mill.
 
 Stanimir vil dog ikke diskutere Strahds ærinde ved Tser Pool. I stedet deler han sin overbevisning om at Strahd ikke vender tilbage snart, og forsikrer spillerne om at intet drøftet ved deres møde med [[Non-Player Characters|Madam Eva]] vil nå vampyrens ører.
 
@@ -419,6 +450,19 @@ Når spillerne træder ind i det store telt for at opsøge Madam Eva, læs:
 > Magiske flammer kaster et rødligt skær over teltets indre og afslører et lavt bord dækket af en sort fløjlsdug. Lysglimt synes at blinke fra en krystalkugle på bordet, mens en krumbøjet skikkelse stirrer ned i dens dyb. Idet den gamle kone taler, knitrer hendes stemme som tørre strå: "Endelig er I kommet!" Kaglende latter brister som vanvittigt lyn fra hendes vissende læber.
 
 Efter at have hilst spillerne navngiver [[Non-Player Characters#Madam Eva|Madam Eva]] hver spillerkarakter personligt og giver dem ét eller flere symbolske tilnavne relateret til deres historier, mål og/eller evner.
+
+> [!info]+ **Madam Evas tilnavne — forslag** *(hun ved for meget; målet er ubehag)*
+> - **Sir Darius:** *"Den tredje af sit navn. Arvingen, der bærer to døde mænds skygger — og tror, han allerede har fortjent sit eget."*
+> - **Sir Marcellus:** *"Den anden søn. Han, der vejer sit værd i guld — og bærer en mønt, han ikke forstår."*
+> - **Bogoris:** *"Kæmpen med de malede hænder. Han, der bærer en gæld, der ikke kan betales — og et koldt lys, han ikke selv har tændt."*
+> - **Håkan:** *"Den trofaste skygge. Vogteren, der kom for sent — og nu drømmer om at gøre det igen."*
+> - **Ireena** *(hvis hun er med)*: Eva betragter hende længe og siger kun stille: *"Barn af skoven."* Intet mere.
+>
+> **Ved navnet "Guldskjold"** tøver Eva et øjeblik og smiler mystisk. Ingen forklaring.
+>
+> **Hvis Marcellus viser mønten:** Hun genkender Strahds ansigt øjeblikkeligt. *"Den er ældre, end mit folk har dvælet i denne dal. Den blev båret ud af en mand, der ikke ønskede den. Han er længe død — men hans gæld vandrer endnu."*
+> **Hvis Darius viser skællet:** *"Ah. Det er Argynvosts. Det er fra før... fra før alt dette. Der er en mand i bjergene, som engang knælede for det. Han bor stadig dér — om man kan kalde det at bo."* (Sir Godfrey, Argynvostholt.)
+> *Kilder: [[Guldskjold-familiens hemmelighed (DK)]] · [[Bogoris' patron — DM-noter (DK)]] · [[Spillerkarakterer]].*
 
 > [!profile]+ **Profil: [[Non-Player Characters|Madam Eva]]**
 >
@@ -506,8 +550,8 @@ Mens skumringen sænker sig omkring lejrbålet, serverer Vistanierne spillerne e
 
 Hvis han ikke allerede har gjort det, spørger Arturi spillerne om nyt fra Barovia, og spørger specifikt om de har mødt en mand ved navn Rudolph van Richten. Hvis han spørges om sin interesse, bemærker Arturi stille at Van Richten er en bekendt af ham, og at han for nylig havde hørt et rygte om at han var blevet set rejse til Barovia. (Dette er en løgn. En spiller der består et DC 10 Wisdom (Insight) check udleder at Arturi taler en smule for hurtigt. Arturi afslører ikke sandheden hvis han udfordres, og trækker blot på skuldrene og siger, "Tro hvad I vælger at tro.") Arturi er usikker på om han tror Van Richten er død, men formoder at han stadig lever — om ikke andet fordi han har hørt at den gamle mand er imponerende svær at dræbe.
 
-> [!info]+ **Insight Checks**
-> Do not invite players to make Insight checks unprompted. Instead, allow players to ask for information regarding an NPC's body language or truthfulness before inviting them to make one.
+> [!info]+ **Insight checks**
+> Bed ikke spillerne om Insight checks uopfordret. Lad dem selv spørge til en NPC's kropssprog eller ærlighed, før du lader dem slå.
 
 Efter aftensmaden informerer Stanimir muntert spillerne om at de, som gæster ved en Vistani-ild, nu forventes at spille Game of Stories, og spørger om spillerne vil acceptere. For at spille må hver deltager indsætte en indsats, som kan være en genstand af lille monetær, intellektuel eller sentimental værdi. Hver deltager skal derefter dele en historie der får en mand til at "le eller græde." Hver gang en historie fortælles, må de andre deltagere i spillet gætte om historien er sandhed, løgn, eller begge dele. Ved spillets afslutning vinder deltageren med flest korrekte gæt potten.
 
@@ -520,39 +564,61 @@ Hvis spillerne accepterer udfordringen, tilbyder Eliza, Arturi og [[Non-Player C
 
 Giv spillerne nogle minutter væk fra bordet til at planlægge deres historier inden spillet begynder.
 
-> [!info]+ ***Campfire Reactions***
-> In response to the players' stories, the participants of the Game of Stories vote as follows:
-> * Stanimir, believing that a grain of truth lies at the heart of every tale, votes nothing but True.
-> * Eliza, not one for half-truths, alternates between True and False.
-> * Arturi, cynical and distrusting, alternates between Half-True and False.
-> * Ireena, quick to warm to the player, alternates between True and Half-True.
+> [!question]+ **▶ Spillerne har ordet — Game of Stories**
+> **Pause ved bordet.** Hver spiller skal vælge en indsats og en historie (sand, løgn eller halvt sand).
+> **Rækkefølge:** Stanimir → spiller 1 → Eliza → spiller 2 → spiller 3 → Arturi → spiller 4 → Ireena.
+> **DM ved:** Flest rigtige gæt vinder potten. Arturis manuskript er god forberedelse til varulvene (C11 + Arc L) — det er fint, hvis gruppen vinder det.
+
+> [!info]+ ***Stemmer ved bålet***
+> Deltagerne stemmer på spillernes historier sådan:
+> * **Stanimir** tror, der er et gran af sandhed i enhver fortælling — stemmer altid **Sand**.
+> * **Eliza** har ingen tålmodighed med halve sandheder — skifter mellem **Sand** og **Falsk**.
+> * **Arturi**, kynisk og mistroisk — skifter mellem **Halvt sand** og **Falsk**.
+> * **Ireena**, der hurtigt fatter sympati — skifter mellem **Sand** og **Halvt sand**.
 
 
-> [!lore]+ **Arturi's Manuscript**
+> [!lore]+ **Arturis manuskript** *(handout — kan vindes i Game of Stories)*
 >
-> Arturi's manuscript—authored by [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]]—is handwritten and two pages long. It is titled "A Study of the Werewolf's Curse," and reads as follows:
+> Manuskriptet er håndskrevet af [[Non-Player Characters#Dr. Rudolph van Richten|Dr. Rudolph van Richten]] og fylder to sider. Det har titlen "En undersøgelse af varulvens forbandelse" og lyder:
 >
 ><hr>
 >
-> Werewolves are among the most fearsome lycanthropes, bearing a curse as ancient as it is terrifying. For them, the affliction of lycanthropy transforms even the most civilized individual into a monstrous beast, warping the lines betwixt man and nature.
+> Varulve er blandt de mest frygtindgydende lykantroper og bærer en forbandelse lige så ældgammel som rædselsvækkende. For dem forvandler lidelsen selv det mest civiliserede individ til et monstrøst bæst og udvisker grænsen mellem menneske og natur.
 >
-> In its humanoid form, a werewolf retains many of the characteristics of its original identity, save for certain nuances such as heightened senses, an explosive temper, and an odd preference for rare meats. Over time, subtle features that hint at their animalistic nature begin to manifest. Nevertheless, it is in their wolf and hybrid forms that the true horror of the curse is revealed. A werewolf's hybrid form is particularly terrifying, with a muscular humanoid body crowned by the head of a ravenous wolf. It is capable of wielding weapons, though its favored means of attack are its devastating claws and powerful bite.
+> I sin menneskelige form bevarer en varulv mange af sin oprindelige identitets træk, bortset fra visse nuancer: skærpede sanser, et eksplosivt temperament og en underlig forkærlighed for råt kød. Med tiden begynder subtile træk, der antyder dens dyriske natur, at vise sig. Det er dog i ulve- og hybridformen, at forbandelsens sande rædsel åbenbares. En varulvs hybridform er særligt skrækindjagende: en muskuløs menneskekrop kronet af en grådig ulvs hoved. Den kan føre våben, men foretrækker sine ødelæggende klør og sit kraftfulde bid.
 >
-> Werewolves typically abandon civilization soon after their transformation. Those who reject the curse flee in fear of harming their loved ones, whereas those who accept it fear exposure and the repercussions of their violent deeds. Out in the wild, they form packs, living in cohesion with ordinary wolves and dire wolves alike.
+> Varulve forlader typisk civilisationen kort efter deres forvandling. De, der afviser forbandelsen, flygter af frygt for at skade deres kære, mens de, der accepterer den, frygter afsløring og konsekvenserne af deres voldelige gerninger. Ude i vildmarken danner de flokke og lever side om side med almindelige ulve og kæmpeulve.
 >
-> The most tragic aspect of lycanthropy is its transmission. A humanoid can contract this curse through a wound inflicted by a lycanthrope or through inheritance if one or both of its parents are lycanthropes.
+> Det mest tragiske ved lykantropi er dens overførsel. Et menneske kan pådrage sig forbandelsen gennem et sår påført af en lykantrop, eller arve den, hvis en eller begge forældre er lykantroper.
 >
-> The cursed have two paths: they may resist the beast within or embrace it. Those who resist bear unending strain—until the rising full moon triggers a compulsory and horrific transformation. These individuals often experience bloody, haunting dreams: echoes of the carnage wrought in their madness.
+> De forbandede har to veje: de kan modstå bæstet indeni eller omfavne det. De, der modstår, bærer en uendelig belastning — indtil den stigende fuldmåne udløser en tvungen og rædselsfuld forvandling. Disse individer oplever ofte blodige, hjemsøgende drømme: ekkoer af det blodbad, de forvoldte i deres vanvid.
 >
-> Some twisted souls, however, choose to accept their beastly nature. With time, they can master their abilities, calling upon the wolf's resilience and strength as they will. To do so, however, they must first perform a particular gruesome and foul act—one which I will decline to describe in these pages.
+> Nogle forvredne sjæle vælger dog at acceptere deres dyriske natur. Med tiden kan de mestre deres evner og påkalde ulvens modstandskraft og styrke efter forgodtbefindende. For at gøre det må de dog først udføre en bestemt grusom og afskyelig handling — én, jeg afstår fra at beskrive på disse sider.
 >
-> One sure way to identify an afflicted individual is the presence of a perpetually raw, bloody wound: the scar of the initial curse transmission. This wound never fully heals until the curse is lifted.
+> En sikker måde at identificere en ramt person på er et vedvarende råt, blødende sår: arret fra forbandelsens første overførsel. Dette sår heler aldrig helt, før forbandelsen er hævet.
 >
-> Beyond this mark, however, these creatures bear an extraordinary resilience. Conventional methods of harm prove ineffective in permanently subduing a werewolf. Only through the bite of silver or the chill of death's power can a werewolf be truly put to rest.
+> Ud over dette mærke besidder disse skabninger en ekstraordinær modstandskraft. Konventionelle metoder til at skade dem viser sig virkningsløse til permanent at nedkæmpe en varulv. Kun sølvets bid eller dødens kulde kan virkelig lægge en varulv til hvile.
 >
-> A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
+> En fjernelses-besværgelse kan også kurere en ramt lykantrop, selvom de, der har accepteret bæstet, kan kæmpe bittert imod. Hvad angår de ulykkelige sjæle, der er født under forbandelsen, er de dømt til at bære deres lidelse livet ud. Så vidt min forskning har vist, findes der ingen kur, intet pusterum for sådanne individer. De er fanget i en evig kamp, for altid hjemsøgt af ulven indeni.
 ### Stanimir's Tale
-Stanimir går først og leverer den samme fortælling som beskrevet i [[pdfs/Curse of Strahd.pdf#page=21|The Dancing Fire (p. 20)]]. Udelad dog det sidste afsnit, og slut i stedet med sætningen, "Skikkelsen i den dansende ild besejrer sin sidste fjende, og opløser sig derefter i en sky af røg og glør." Gennem hele hans fortælling kan spillerne bemærke at Stanimir bruger *major image*-spellen til at skabe formerne i flammerne.
+Stanimir går først. Gennem hele fortællingen bruger han *major image* til at skabe formerne i flammerne. Læs:
+
+> [!quote]+ **Læs højt**
+> Stanimir fylder munden med vin og spytter den i ilden. Flammerne skifter fra orange til grøn. Mens de danser og svajer, viser en mørk skikkelse sig i bålets kerne.
+>
+> "Vi kommer fra et ældgammelt land, hvis navn for længst er glemt — et land af konger. Vores fjender drev os fra vores hjem, og nu vandrer vi de glemte veje."
+>
+> Den mørke skikkelse i ilden tager form af en mand, der bliver slået af sin hest med et spyd gennem siden.
+>
+> Stanimir fortsætter: "En nat vaklede en såret soldat ind i vores lejr og faldt om. Vi plejede hans frygtelige sår og slukkede hans tørst med vin. Han overlevede. Da vi spurgte, hvem han var, ville han ikke svare. Alt, han ønskede, var at komme hjem, men vi var dybt inde i hans fjenders land. Vi tog ham til os som en af vores egne og fulgte ham tilbage mod hans hjemland. Hans fjender jagede ham. De sagde, han var en prins — men vi gav ham ikke op, heller ikke da deres snigmordere faldt over os som ulve."
+>
+> Dybt i bålet ser I den mørke skikkelse stå med draget sværd og kæmpe mod en hær af skyggeformer.
+>
+> "Denne mand af kongeligt blod kæmpede for at beskytte os, som vi beskyttede ham. Vi bragte ham sikkert hjem, og han takkede os. Han sagde: 'Jeg skylder jer mit liv. Bliv så længe, I ønsker, drag af sted, når I vil, og vid, at I altid vil være sikre her.'"
+>
+> Skikkelsen i den dansende ild besejrer sin sidste fjende og opløses derefter i en sky af røg og glør.
+
+*(Inlinet fra CoS s. 20 med CoS:R's ændrede slutning.)*
 
 Når hans historie er endt og alle deltagere har afgivet deres gæt — Ireena, Eliza og Arturi går sidst, hvor Ireena stemmer "Sand", Eliza stemmer "Sand", og Arturi stemmer "Halv-sand" — afslører Stanimir at hans historie faktisk var en sand fortælling om Vistani-folket, og at den sårede prins levede videre som en ven af Vistanierne, selv da hans hjerte blev forledt af skygger og tåge. (Hvis han spørges, indrømmer Stanimir at prinsen var [[Strahd von Zarovich|Strahd von Zarovich]] i dagene før han kom til Barovia, og at hans løfte til Vistanierne er hvorfor de forbliver i dalen den dag i dag, "uden frygt eller favør.")
 ### Eliza's Tale
@@ -638,7 +704,7 @@ Hvis spillerne fejlede i at skjule deres afgang, indser alle spillere med en pas
 > [!quote]+ **Læs højt**
 > Lyden af en knækkende kvist skærer gennem stilheden som splintrende glas. En busk bag jer rasler — og falder så brat til ro.
 
-Den raslende busk skjuler Vistani **bandit** Eliza. Hvis spillerne ignorerer hende, fortsætter hun med at skygge spillerne mens de nærmer sig vejkrydset. Ellers, hvis spillerne konfronterer hende, reagerer hun som følger:
+Den raslende busk skjuler Vistanaen Eliza (**spy**). Hvis spillerne ignorerer hende, fortsætter hun med at skygge spillerne mens de nærmer sig vejkrydset. Ellers, hvis spillerne konfronterer hende, reagerer hun som følger:
 
 **Hvis spillerne kalder ud til Eliza**, forbliver hun skjult og svarer ikke.
 
@@ -659,7 +725,7 @@ Eliza håber at rejse med spillerne åbenlyst til deres destination. Hvis hun n�
 
 Mens hun flygter gennem skoven, har Eliza halv cover fra enhver spiller mindst 30 fod væk, og tre-fjerdedel cover fra enhver spiller mindst 60 fod væk.
 
-**Hvis spillerne forsøger at skjule deres spor fra Eliza**, kan de gøre det ved at rejse uden for vejen og bestå et DC 11 Dexterity (Stealth) check, efterfulgt af et DC 11 Wisdom (Survival) check. Spillere der forlader vejen på denne måde møder en **will-o'-wisp** som beskrevet i [[pdfs/Curse of Strahd.pdf#page=34|Will-o'-Wisp (p. 33)]].
+**Hvis spillerne forsøger at skjule deres spor fra Eliza**, kan de gøre det ved at rejse uden for vejen og bestå et DC 11 Dexterity (Stealth) check, efterfulgt af et DC 11 Wisdom (Survival) check. Spillere der forlader vejen på denne måde møder en **will-o'-wisp** som beskrevet i [[pdfs/Curse of Strahd.pdf#page=34|Will-o'-Wisp (p. 33)]] (statblock: [[pdfs/Monster Manual.pdf#page=302|Will-o'-Wisp (MM p. 301)]]).
 ### The March of the Dead
 Når spillerne ankommer til River Ivlis Crossroads, læs:
 
@@ -670,17 +736,17 @@ Når spillerne ankommer til River Ivlis Crossroads, læs:
 
 Silhuetten er [[Non-Player Characters|Madam Eva]]. Hun svarer ikke hvis hun råbes til, og venter på at spillerne nærmer sig hende. Når de gør, hvisker hun til dem, hendes stemme rasler som en kølig vind: "*Hvad sagde jeg til jer inden I forlod mit telt?*" Hvis spillerne svarer korrekt, nikker [[Non-Player Characters|Madam Eva]] og forsikrer sig om deres identiteter.
 
-> [!abstract]+ **Eliza's Flight**
-> If the players failed to stop Eliza from following them, Eliza is hiding behind a patch of underbrush to the north of the crossroads, watching them silently. If she is, [[Non-Player Characters|Madam Eva]]'s eyes flare wide, and she exhales sharply. "Fools!" she breathes. "You were followed—dispatch her, or all is lost!" She then gestures toward Eliza's hiding place. 
-> 
-> Once noticed, Eliza immediately attempts to flee into the woods, beginning with a 30-foot head start. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in *Chases (<em>Dungeon Master's Guide</em>, p. 252)*, using the **Wilderness Chase Complications** table as follows:
-> * Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-> * Use a stampede of spooked **elk** for the stampede of spooked animals
-> * Use a **giant spider** for the creature indigenous to the area
-> 
-> While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
-> 
-> If Eliza is caught, [[Non-Player Characters|Madam Eva]] is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, [[Non-Player Characters|Madam Eva]] coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
+> [!abstract]+ **Hvis Eliza fulgte efter**
+> Lykkedes det ikke spillerne at stoppe Eliza, ligger hun skjult bag noget krat nord for vejkrydset og iagttager dem tavst. Madam Evas øjne flammer op, og hun puster skarpt ud. "Tåber!" ånder hun. "I blev fulgt — gør det af med hende, ellers er alt tabt!" Hun peger mod Elizas skjulested.
+>
+> Opdaget forsøger Eliza straks at flygte ind i skoven med 30 fods forspring. Slipper hun væk, vender hun straks tilbage til Ravenloft Slot og kommer ikke tilbage til Tser Sø den nat. Forfølger spillerne hende, køres jagten efter *Chases* (*Dungeon Master's Guide*, s. 252) med **Wilderness Chase Complications**-tabellen, hvor:
+> * **swarm of insects** = en sværm bidende mitter (statistik som **swarm of wasps**)
+> * **stampede of spooked animals** = en flok skræmte **elk**
+> * **creature indigenous to the area** = en **giant spider**
+>
+> Under flugten gennem skoven har Eliza half cover mod spillere mindst 30 fod væk og three-quarters cover mod spillere mindst 60 fod væk.
+>
+> Bliver Eliza fanget, insisterer Madam Eva på, at hun dræbes og kastes i Ivlis-floden, "så hun ikke kan rapportere, hvad hun har set og hørt, til sin herre." Udfordres hun, svarer Eva koldt: "Der kan ikke være tvivl, når Skæbnen selv balancerer på kanten af afgrunden."
 
 Hvis hun spørges yderligere, holder [[Non-Player Characters|Madam Eva]] en hånd op, og vender sig derefter tavst mod den umarkerede kirkegård nær galgen. Kort derefter begynder **The March of the Dead**. Læs:
 
@@ -691,7 +757,14 @@ Dette er ikke ånderne af dem der er begravet her, men af tidligere eventyrere d
 
 Når marchen er begyndt, informerer [[Non-Player Characters|Madam Eva]] spillerne: "Hver ånd i denne march deler et fælles træk. Kan I tænke jer hvad det måtte være?" Hvis spillerne svarer korrekt, spørger hun derefter, "Hvor tror I de er på vej hen?"
 
-Uanset spillernes svar deler [[Non-Player Characters|Madam Eva]] derefter informationen om marchen givet i [[pdfs/Curse of Strahd.pdf#page=49|March of the Dead (p. 48)]], enten som svar på spillernes spørgsmål eller på eget initiativ når marchen helt har forladt kirkegården.
+Uanset spillernes svar fortæller [[Non-Player Characters|Madam Eva]] dem følgende — enten som svar på deres spørgsmål eller af sig selv, når marchen helt har forladt kirkegården:
+
+> - Det fælles træk: **alle døde de i forsøget på at tilintetgøre Strahd.**
+> - Hver nat ved midnat rejser omkring hundrede ånder sig og marcherer op ad Den Gamle Svalich-vej til Ravenloft Slot. Hver nat forsøger de at fuldføre deres opgave — og hver nat fejler de.
+> - På slottet marcherer de til kapellet og op ad det høje tårns trappe til toppen. Dér kaster de sig ned i skakten mod krypterne, hvor de forsvinder.
+> - De interesserer sig ikke for de levende og taler ikke med nogen.
+>
+> *(Inlinet fra CoS s. 48.)*
 
 "Dette er den klippekant I går på," advarer hun dem når marchen er taget af sted. "Der er mange stier blandt skæbnens spind, men jeg kan kun se hvad der måtte være — ikke hvad der skal blive. Jeg kan fortælle jer hvad I *må* gøre, men jeg kan ikke sikre at I lykkes. For hvis I fejler, skal dette være jeres hvilested — et sted uden eftermæle, ære eller kærlighed. Forstår I?"
 
@@ -727,13 +800,13 @@ Hvis spillerne accepterer [[Non-Player Characters|Madam Eva]]s opgave, nikker hu
 >
 > Hun vender kortet.
 >
-> Det cerulean lys danser hen over dets overflade og afslører et illustration af en smågrinende vagtmand der kigger op mod en hovmodig præst, præstens pegende fingre kun centimeter fra vagtmandens næse mens vagtmanden holder en ondskabsfuldt krummet dolk parat bag sin ryg. "The Nine of Glyphs — the Traitor." Hendes mørke pupiller skifter fra side til side, som om de læser fra en usynlig tekst. "Jeg ser den ældgamle fjende af et gammelt og adeligt hus. Den vildfarne sjæl vil føre jer til ham." (Se [[Arc H - The Lost Soul]] for mere om dette korts forudsigelse.)
+> Det cerulean lys danser hen over dets overflade og afslører et illustration af en smågrinende vagtmand der kigger op mod en hovmodig præst, præstens pegende fingre kun centimeter fra vagtmandens næse mens vagtmanden holder en ondskabsfuldt krummet dolk parat bag sin ryg. "The Nine of Glyphs — the Traitor." Hendes mørke pupiller skifter fra side til side, som om de læser fra en usynlig tekst. "Jeg ser den ældgamle fjende af et gammelt og adeligt hus. Den vildfarne sjæl vil føre jer til ham."
 >
 > Hun bevæger sin hånd til det andet kort, dette ved toppen af korset. Mens hun lukker øjnene og lytter endnu en gang, blusser stearinlyset op, dets farve eksploderer i en skinnende, munter gul.
 >
 > "Dette kort fortæller om en magtfuld kraft for godhed og beskyttelse, et helligt symbol af stort håb." Hun vender kortet.
 >
-> Denne gang afslører lyset en ny illustration: en armerede kriger der knuger et revnet jernsværd og et læderbeklædt træskjold, hans ansigt skjult af en tung jernhjelm. "The Five of Swords — the Myrmidon." Hendes øjne stirrer dybt ind i mørket der lurer hinsides stearinlyset. (Se [[pdfs/Curse of Strahd.pdf#page=13|Swords (Spades), p. 12]] for dette korts forudsigelse.)
+> Denne gang afslører lyset en ny illustration: en armerede kriger der knuger et revnet jernsværd og et læderbeklædt træskjold, hans ansigt skjult af en tung jernhjelm. "The Five of Swords — the Myrmidon." Hendes øjne stirrer dybt ind i mørket der lurer hinsides stearinlyset. "Søg efter en ulvehule i bakkerne der skuer ud over en bjergsø. Skatten tilhører Moder Nat."
 >
 > Hun bevæger sin hånd til det tredje kort, ved korsets højre arm, hendes øjenlåg lukker som i en trance, hendes læber spidset i stille kontemplation. Stearinlyset forsvinder, et hjerteslag — og vender derefter tilbage i en nova af skinnende, brændende hvidt, så rent og stærkt og klart at det smerter at se på, brænder at se —
 >
@@ -749,7 +822,7 @@ Hvis spillerne accepterer [[Non-Player Characters|Madam Eva]]s opgave, nikker hu
 >
 > Hun vender kortet.
 >
-> Denne gang er den afslørede illustration en stille kirkegård kvalt i tåge, dens indgang forseglet med et skarpt jerngitter. "The Mists." [[Non-Player Characters|Madam Eva]] læner sig fremad. (Se [[pdfs/Curse of Strahd.pdf#page=16|Strahd's Enemy, p. 15]] for dette korts forudsigelse.)
+> Denne gang er den afslørede illustration en stille kirkegård kvalt i tåge, dens indgang forseglet med et skarpt jerngitter. "The Mists." [[Non-Player Characters|Madam Eva]] læner sig fremad. "En Vistana vandrer alene gennem dette land og leder efter sin læremester. Hun bliver aldrig længe ét sted. Søg hende ved Sankt Markovias kloster, nær tågerne."
 >
 > Endelig bevæger hun sin hånd til det femte kort — og næsten viger tilbage, hendes pande rynker indtil rynkerne splitter hendes pande som en grøft. Bag hende omslutter skygger stearinlyset indtil lyset næsten sluges af det krybende mørke. Da hun næste gang taler, er [[Non-Player Characters|Madam Eva]]s raslende stemme knap over en hvisken.
 >
@@ -759,13 +832,24 @@ Hvis spillerne accepterer [[Non-Player Characters|Madam Eva]]s opgave, nikker hu
 >
 > I mørket er den femte og sidste illustration kun knap synlig gennem røgen og det unaturlige tusmørke. På kortets overflade dvæler en afbildning af en kronet, smågrinende kejser klædt i kongelig stadselighed og rækkende efter et bæger vin — selvom hans lemmer er marionetlemmer af træ, snørede til snore der forsvinder i mørket ovenover.
 >
-> [[Non-Player Characters|Madam Eva]] udånder langsomt. "The Marionette." (Se [[pdfs/Curse of Strahd.pdf#page=18|Strahd's Location in the Castle, p. 17]] for dette korts forudsigelse.)
+> [[Non-Player Characters|Madam Eva]] udånder langsomt. "The Marionette." Hendes stemme falder til en hvisken. "Se mod de store højder. Find slottets bankende hjerte. Han venter tæt derved."
 >
 > Mens den sidste stavelse passerer hendes læber, fryser den gamle kvinde — og vugger så bagud, hendes øjne ruller indtil deres hvide skinner som perler i mørket — og så snapper hun tilbage, stearinlyset brænder ned til sit sædvanlige skarlagenrøde skær.
 >
 > Lyden af den naturlige verden vender tilbage — vindens hvisken gennem træerne, en fjern ugles hujen, og Ivlis-flodens fjerne plasken mod sine bredder. Det svage skær af flakkende stearinlys vender atter tilbage til kirkegården, og I føler jer trække vejret for første gang siden aflæsningen begyndte.
 >
 > [[Non-Player Characters|Madam Eva]] siger ingenting. Hun betragter jer kun tavst med mørke, tunge øjne.
+
+> [!info]- **Facit — hvad kortene peger på (DM ved, aldrig læst højt)**
+> | Kort | Skat/rolle | Konkret i CoS:R | Payoff |
+> |---|---|---|---|
+> | **Nine of Glyphs, the Traitor** | *Tome of Strahd* | **Leo Dilisnya** (gallows speaker) har bogen i Ethereal Plane. "Det adelige hus" = **Wachter**; "den vildfarne sjæl" = **Stella Wachter** | [[Arc H - The Lost Soul]] |
+> | **Five of Swords, the Myrmidon** | *Holy Symbol of Ravenkind* | Moder Nats helligdom i **varulvehulen** (bakkerne over Lake Baratok). Zuleika giver det kun mod *Oath of the New Moon* | [[Arc L - The Den of Wolves]] |
+> | **Eight of Glyphs, the Bishop** | *Sunsword* | **Vampyrens sarkofag i Amber Temple** ("ravfængslet"). "Den faldne drages hus" = **Argynvostholt**, som peger videre | Arc M → R → [[Arc S - A Sword of Sunlight]] |
+> | **The Mists** | Allieret | **Ezmerelda d'Avenir**, Van Richtens elev, i **Abbey of St. Markovia** i Krezk | [[Arc K - The Fallen Abbey]] |
+> | **The Marionette** | Strahds placering | **K20. Heart of Sorrow** i Ravenloft Slot | [[Arc U - Dreams of Dawn]] |
+>
+> *Muriel aflyttede Strahds **egen** aflæsning tidligere samme dag (5 af 7 kort) og fortæller gruppen om den i Arc J. Kilde: Running the Adventure, "The Card Reading".*
 
 [[Non-Player Characters|Madam Eva]] afslår at uddybe spillernes aflæsninger eller give yderligere information eller assistance. Hvis hun bedes om det, siger hun kun, "Skæbnens tråde kan ikke kaldes som en tjener eller manes som en magikertrick. Jeg ser kun hvad kortene viser mig, og ikke mere."
 
@@ -943,7 +1027,7 @@ Hvis spillerne spørger revenanten hvorfor den vogter broen, siger den kun, "For
 Hvis spillerne spørger hvorfor den ikke selv kan løfte våben mod Strahd, siger den kun, "Fordi min kommandør forbyder det, og min ånd er bundet fra at trodse hans vilje." Den er villig til at dele at dens kommandørs navn er Sir [[Non-Player Characters#Commander Vladimir Horngaard|Vladimir Horngaard]], men er uvillig til at dele mere, og råder spillerne til at tale med Sir Godfrey i stedet.
 
 > [!abstract]+ **Secrets of Amber**
-> If the players ask the revenant about the "amber doors" mentioned in [[Non-Player Characters|Madam Eva]]'s Tarokka reading, it stiffens, then warns the players that they "meddle with things that ought not be meddled with." If the players reassure the revenant that their interest in the "amber doors" is directed at Strahd's defeat, the revenant hesitates, then informs them it is "bound never to reveal the secrets of that which we once guarded," but shares that Sir Godfrey can provide the information they seek.
+> If the players ask the revenant about the "ravfængsel" (amber prison) mentioned in [[Non-Player Characters|Madam Eva]]'s Tarokka reading, it stiffens, then warns the players that they "meddle with things that ought not be meddled with." If the players reassure the revenant that their interest in the "ravfængsel" is directed at Strahd's defeat, the revenant hesitates, then informs them it is "bound never to reveal the secrets of that which we once guarded," but shares that Sir Godfrey can provide the information they seek.
 
 > [!info]+ **The Oathbound Revenant**
 > Each revenant of the Order of the Silver Dragon has been bound by the effects of [[Non-Player Characters#Commander Vladimir Horngaard|Vladimir Horngaard]]'s ***oathbind*** feature, which binds them to obey Vladimir's express commands. The revenants of the Order, excepting [[Non-Player Characters#Sir Godfrey Gwilym|Sir Godfrey Gwilym]], have been given the following commands:

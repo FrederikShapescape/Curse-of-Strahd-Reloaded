@@ -82,7 +82,7 @@
 | 🌓 | **Madam Eva genkender skællet — "Argynvosts"** | Hvis Bentley viser skællet ved Tser Pool | **Bentley** | ✦🜞 |
 | 🌒 | Eva henviser til "en mand i bjergene" (Sir Godfrey) | Hvis skæl/orden nævnes | Bentley | 🜞 |
 | 🌒 | Eva nævner "manden der ikke ønskede mønten" — én linje om Aldric | Hvis Marcellus graver dybere | **Marcellus** | 🜍 |
-| 🌒 | Order of the Silver Dragon faldt — "amber doors", "Sir Godfrey" | C7b — Tser Falls revenant | Bentley | 🜞 |
+| 🌒 | Order of the Silver Dragon faldt — "ravfængslet", "Sir Godfrey" | C7b — Tser Falls revenant | Bentley | 🜞 |
 | 🌒 | Werewolves på vejen — varselsslag for Order's fald | C7a + C11 | Alle | 🌐 |
 | 🌒 | Izek fanger Ireenas blik — uforklarlig genkendelse | C12c — exit Inn | **Ireena**, alle | 🌐 |
 | 🌒 | Rictavio er suspekt (måske ikke ringmester) | C12b — Blue Water Inn | Alle | 🌐 |
@@ -122,6 +122,23 @@
 
 ## Arc M — The Dragon's Manor (Argynvostholt)
 
+> [!danger]+ **⭐ Guldskjold-reveal-arc — DM-bibel: [[Guldskjold-familiens hemmelighed (DK)]]**
+>
+> **Dette er kampagnens kerne-reveal-vindue for Guldskjold-historien.** Inden du kører denne arc, læs hele [[Guldskjold-familiens hemmelighed (DK)]] igennem mindst én gang. Centrale reveals der skal lande her:
+>
+> 1. **Sir Aldric var en af Argynvosts riddere** — Vladimir eller Sir Godfrey nævner navnet
+> 2. **Aldric tøvede ved porten under Argynvostholt-faldet** — Vladimir bittert / Godfrey medfølende
+> 3. **Aldric overlevede uden at sone** — efterlod familie-skyld der er gået i arv
+> 4. **⭐ "Guldskjold"-navnets oprindelse: Guld for mønten, Skjold for skællet** — *kondenseret synd skåret ind i Bentleys & Marcellus' navn for evigt.* Se [[Guldskjold-familiens hemmelighed (DK)#Navnets oprindelse]] for konkret reveal-replik fra Argynvost-spøgelse eller Sir Godfrey
+> 5. **Argynvost anerkender skællet** — *"Et skæl givet kan ikke tages tilbage, kun æres på ny."*
+> 6. **Bentleys valg-forberedelse** — påtage Aldrics ed, returnere skællet, eller ofre sig
+> 7. *(Hvis valgt mulighed 1)* **Håkans mareridt-afsender = Argynvost** — Sabski genkender stemmen
+>
+> **Pacing-tip:** Dette er for meget for ét møde. Lever reveals i 2-3 separate scener — Sir Godfrey ved indgangen (mildere version), Vladimir senere (bitter version), Argynvost-spøgelsen som final orchestration.
+>
+> *(Flyttet hertil fra den engelske Arc M-fil 2026-10-25 for at undgå git-konflikter med CoS:R-opdateringer. Flyt videre til en Arc M (DK)-fil, når den oversættes.)*
+
+
 > [!danger]+ **Det store Bentley-reveal-vindue**
 > Argynvostholt er hvor størstedelen af Guldskjold-historiens opløsning sker. Brug arc'en til at give Bentley *flere* reveals i træk, ikke ét stort.
 
@@ -135,7 +152,7 @@
 | 🌕 | **⭐ "Guldskjold"-navnets oprindelse — Guld for mønten, Skjold for skællet** | Argynvost-spøgelse eller Sir Godfrey udtrykker det rent. Se [[Guldskjold-familiens hemmelighed (DK)#Navnets oprindelse]] for replikker | **Bentley + Marcellus** | 🜍🜞 |
 | 🌕 | **Håkans drømme er fra Argynvost** *(hvis Frederik vælger mulighed 1)* | Sabski genkender stemmen | **Sabski**, alle | 🜍 |
 | 🌕 | **Håkans drømme er fra Strahd** *(hvis Frederik vælger mulighed 2)* | Strahd antyder ved næste møde | **Sabski**, alle | 🜍🜂 |
-| 🌒 | "Amber doors" er Amber Temple — Strahds magtkilde | Sir Godfrey | Alle | 🜂 |
+| 🌒 | "Ravfængslet" er Amber Temple — Strahds magtkilde | Sir Godfrey | Alle | 🜂 |
 | 🌒 | Order's revenants er bundet til ikke-handle pga. Vladimir | Arc M | Alle | 🜞 |
 | 🌒 | Bentleys mulige path forward: påtage Aldrics ed, bryde båndet, eller ofre | Sir Godfrey + Argynvost-spøgelse | **Bentley** | 🜍🜞 |
 
@@ -187,7 +204,7 @@
 |---|---|:---:|
 | **Ismark** | Strahds nature, Doru-historie, Ireenas adopterede status | Arc B |
 | **Donavich / Doru** | Vampire spawn-mekanik, Strahds blod-magt, Van Richtens identitet | Arc B |
-| **Bridge revenant** | Order of Silver Dragon eksisterede, Argynvostholt, "amber doors" advarsel | Arc C7b |
+| **Bridge revenant** | Order of Silver Dragon eksisterede, Argynvostholt, "ravfængsel"-advarsel | Arc C7b |
 | **Madam Eva** | Tarokka-fremtid, Strahds ansigt på mønten, "manden i bjergene" (Sir Godfrey), Aldric-fragmenter | Arc C |
 | **Stanimir** | Strahd's pre-Barovia-historie (prinsen i ilden), Vistani-loyalitet | Arc C |
 | **Arturi Radanavich** | Van Richtens historie, lykantropi | Arc C |

@@ -1,21 +1,5 @@
 _An adventure for five 4th, 5th, or 6th-level characters._
 
-> [!danger]+ **⭐ Guldskjold-reveal-arc — DM-bibel: [[Guldskjold-familiens hemmelighed (DK)]]**
->
-> **Dette er kampagnens kerne-reveal-vindue for Guldskjold-historien.** Inden du kører denne arc, læs hele [[Guldskjold-familiens hemmelighed (DK)]] igennem mindst én gang. Centrale reveals der skal lande her:
->
-> 1. **Sir Aldric var en af Argynvosts riddere** — Vladimir eller Sir Godfrey nævner navnet
-> 2. **Aldric tøvede ved porten under Argynvostholt-faldet** — Vladimir bittert / Godfrey medfølende
-> 3. **Aldric overlevede uden at sone** — efterlod familie-skyld der er gået i arv
-> 4. **⭐ "Guldskjold"-navnets oprindelse: Guld for mønten, Skjold for skællet** — *kondenseret synd skåret ind i Bentleys & Marcellus' navn for evigt.* Se [[Guldskjold-familiens hemmelighed (DK)#Navnets oprindelse]] for konkret reveal-replik fra Argynvost-spøgelse eller Sir Godfrey
-> 5. **Argynvost anerkender skællet** — *"Et skæl givet kan ikke tages tilbage, kun æres på ny."*
-> 6. **Bentleys valg-forberedelse** — påtage Aldrics ed, returnere skællet, eller ofre sig
-> 7. *(Hvis valgt mulighed 1)* **Håkans mareridt-afsender = Argynvost** — Sabski genkender stemmen
->
-> **Pacing-tip:** Dette er for meget for ét møde. Lever reveals i 2-3 separate scener — Sir Godfrey ved indgangen (mildere version), Vladimir senere (bitter version), Argynvost-spøgelsen som final orchestration.
-
-
-
 In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter [[Non-Player Characters#Sir Godfrey Gwilym|Sir Godfrey Gwilym]], an ancient **revenant** knight of the Order of the Silver Dragon.
 
 Godfrey solemnly informs the players that, because he is bound to the will of his commander, [[Non-Player Characters#Commander Vladimir Horngaard|Vladimir Horngaard]], he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.

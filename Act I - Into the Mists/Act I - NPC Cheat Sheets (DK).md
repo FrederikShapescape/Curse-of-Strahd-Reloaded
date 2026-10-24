@@ -114,7 +114,7 @@ Ismark er en **næsten-overdådig informations-kilde**. Levere info i 3 faser, i
 | **"Hvilket år er det?"** | "735, efter den Baroviansk Kalender." |
 | **"Hvor længe siden Strahd blev vampyr?"** | "Hundredevis af år. Mit folk har levet i tågerne i fire århundreder, måske længere. Madam Eva ville vide det bedre." |
 | **"Hvor længe sov Strahd?"** | "Omkring hundrede år, siges det. Min far huskede sin egen far fortælle om en tid hvor flagermus fløj fra slottet hver nat — så stoppede det pludseligt og blev stille indtil for tre måneder siden." |
-| **Vist 348-invitationen** | *(rynker på panden)* "Tretten Neyavr, tre-otteogtres. Det er den Baroviansk Kalender. Tre hundrede og... nær fire hundrede år siden. Hvor i alverden fandt I det?" |
+| **Vist 348-invitationen** | *(rynker på panden)* "Tretten Neyavr, tre hundrede og otteogfyrre. Det er den Baroviansk Kalender. Tre hundrede og... nær fire hundrede år siden. Hvor i alverden fandt I det?" |
 
 ### Reaktioner på relikvier (vigtig for Session 4)
 
@@ -413,6 +413,23 @@ Ismark er en **næsten-overdådig informations-kilde**. Levere info i 3 faser, i
 
 **Brug ham:** Han er den varme stemme i lejren. Han fortæller "den dansende ild"-historie. Han er den der inviterer til Game of Stories.
 
+### Kan fortælle — spørg om [nøgleord]
+| Nøgleord | Svar |
+|---|---|
+| **Strahd** | Af kongelig blodlinje. Døde for århundreder siden, men lever videre som udød og drikker de levendes blod. Barovianerne kalder ham "Djævlen Strahd". |
+| **Strahds kærlighed / Tatyana** | Han har haft mange konkubiner, men kun én sand *begæren*: en baroviansk bondepige ved navn Tatyana. Vistanierne ved ikke, hvad der blev af hende. |
+| **Ravenloft** | Opkaldt efter hans elskede mor, dronning Ravenovia. Fremmede er ikke velkomne på slottet uden invitation. |
+| **Barovia / navnet** | Strahd erobrede landet for århundreder siden og opkaldte det efter sin far, kong Barov. Han bruger ulve, flagermus og andre dyr som spioner i hele riget. |
+| **Barovianerne** | Simple, bange folk. |
+| **Vejen / byerne** | Den Gamle Svalich-vej går gennem dalen. Tre bebyggelser ligger på den som perler på en snor: Krezk mod vest, Vallaki i dalens hjerte og Barovia mod øst. Strahd har spioner i hver af dem. |
+| **Skoven** | Klogt at holde sig til vejen. Vilde druider, vildfarne spøgelser og flokke af ulve og varulve hjemsøger Svalich-skoven. |
+| **Vindmøllen** | Kender den kun som "Old Durst Mill" — en forladt mølle. Advarer ikke mod den og ved intet om heksene. |
+| **Overtro** | De dødes sjæle i Barovia kan ikke undslippe til efterlivet. Madam Eva er den største af alle Vistani-seere. En seer kan hverken se sin egen eller en anden Vistanas fremtid. Ravne bærer fortabte sjæle, så det bringer ulykke at dræbe én. |
+| **Strahds besøg her** | Vil ikke tale om det. Tror ikke, Strahd vender tilbage snart, og forsikrer at intet sagt hos Madam Eva når hans ører. Alle får Evas gave — men hver persons fremtid er forskellig. |
+| **Vistani i Barovia** | Strahds løfte (se Dancing Fire-fortællingen): Vistanierne må komme og gå frit og er altid sikre her. |
+
+*(Fra CoS s. 27–28 med CoS:R's ændringer: ingen "sjælløse barovianere", ingen omtale af Old Bonegrinder eller Vistani-forbandelser, og "begær" i stedet for "kærlighed".)*
+
 ---
 
 ## Eliza — Strahds spion blandt Vistanierne (skjult)
@@ -425,7 +442,7 @@ Ismark er en **næsten-overdådig informations-kilde**. Levere info i 3 faser, i
 | **Vil ha'** | Aflure information om PCs til Strahd. Beskytte Strahds gunst. |
 | **Skjuler** | Sin loyalitet. Sit had til "utaknemmelige" Vistani. |
 | **Resonance** | *Mistro* hvis insight check; ellers *Smiger* (interesseret) |
-| **Mekanik** | **bandit** stats. Forsøger at flygte hvis afsløret. |
+| **Mekanik** | **spy** stats ([[pdfs/Monster Manual.pdf#page=350\|Spy (MM p. 349)]]). Forsøger at flygte hvis afsløret. |
 
 **Triggere:**
 - PCs deler personlig info → hun lytter intenst, husker alt

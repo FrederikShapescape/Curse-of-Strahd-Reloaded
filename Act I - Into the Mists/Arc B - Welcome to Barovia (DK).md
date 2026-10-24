@@ -492,7 +492,7 @@ Hvis han er til stede, bliver Bildraths ansigt alvorligt, og han griber sin armb
 > * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can't use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining. 
 
 > [!combat]- **Combat - The Siege**  
-> **Statblock:** [[pdfs/Monster Manual.pdf#page=149|Ghoul (MM p. 148)]] · [[pdfs/Monster Manual.pdf#page=301|Wight (MM p. 300)]] · [[pdfs/Monster Manual.pdf#page=316|Zombie (MM p. 316)]]
+> **Statblock:** [[pdfs/Monster Manual.pdf#page=149|Ghoul (MM p. 148)]] · [[pdfs/Monster Manual.pdf#page=301|Wight (MM p. 300)]] · [[pdfs/Monster Manual.pdf#page=317|Zombie (MM p. 316)]]
 > **Kompakt (merged, 5-spiller):** [[Combat Statblocks (DK)#Zombie|Zombie]] · [[Combat Statblocks (DK)#Ghoul|Ghoul]] · [[Combat Statblocks (DK)#Wight|Wight]] · [[Combat Statblocks (DK)#Zombie Plague Spreader|Plague Spreader]]
 > **Combat Level**: Mild (first wave), Mild (second wave), Bloody (third wave)
 > **Expected Character Level**: 3
@@ -1137,6 +1137,16 @@ Mens Ismark pakker rationerne, kan han dele følgende information:
 
 * Rejsen til Vallaki er mere end en dags rejse hvis spillerne planlægger at besøge Tser Sø først, og at Ireena og spillerne sandsynligvis bliver nødt til at tilbringe en nat på vejen. Han anbefaler at gøre det ved Tser Sø selv.
 * Tser Sø er lidt under to timers rejse fra Barovia. (Selvom nogle Vistani efter sigende er i ledtog med Strahd, er Tser Sø kendt for at være et sikkert sted for rejsende at tilbringe natten, især givet [[Non-Player Characters|Madam Evas]] ry.)
+
+> [!info]- **Hvis spillerne leder efter ravnen fra belejringen**
+> **DM ved:** Ravnen er [[Non-Player Characters#Muriel Vinshaw|Muriel]], og hun er **ikke i landsbyen**. Ved daggry fløj hun mod Tser Sø for at aflytte Strahds Tarokka-aflæsning hos Madam Eva. Spillerne kan **ikke** finde hende her. De ser hende igen på vejen til Tser Sø, hvor hun styrter ned for deres fødder, jaget af en strix ([[Arc C - Into the Valley (DK)#C3. The Strix|C3. The Strix]]). Søgningen skal give **spor, ikke Muriel**.
+> - **Ismark og landsbyboerne** kender ikke ravnen og har aldrig hørt den få et navn. Ravne er der mange af i Barovia, men ingen husker én med blå vingespidser. Alle barovianere deler overtroen om at **ravne bærer fortabte sjæle, så det bringer ulykke at dræbe én**. Ismark tog ravnens hjælp som et godt varsel.
+> - **En vagt på taget ved den vestlige barrikade** (en af armbrøstskytterne fra nattevagten) så ved daggry en ravn flyve **mod vest, ud over Svalich-skoven**. Han lagde mærke til den, fordi den fløj alene og ikke sammen med flokken.
+> - 🎲 **Wisdom (Perception) DC 13** ved den vestlige barrikade eller på tagene omkring bypladsen: en enkelt **sort ravnefjer med blå spids** sidder fast mellem to splintrede planker. Spillerne kan tage den med. Hvis de senere viser den til "Blue", gør hun et overrasket hop og forsøger at nappe den.
+> - **Hvis en spiller har *speak with animals*:** de almindelige ravne på tagene kan godt huske "den blå". Hun er "ikke herfra", hun "har travlt", og hun "fløj mod vandet hvor vognene står" (Tser Sø). Mere ved de ikke.
+>
+> *Søgningen kan ligge i tiden mellem begravelsen og kl. 12, før Ireena forsvinder til Lugdana's Knoll.*
+
 ## B5j. Lugdana's Knoll
 Cirka kl. 11 om formiddagen sniger [[Non-Player Characters#Ireena Kolyana|Ireena]] sig stille ud af herregården og går til Lugdana's Knoll, en lille, stille bakke nord for Barovia. (Bakken er opkaldt efter paladinen Lugdana, som ifølge legenden først mødte borgmester Ismark Antonovich den Store på netop den bakke.)
 
